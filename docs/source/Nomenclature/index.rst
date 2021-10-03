@@ -45,7 +45,7 @@ Product Naming Rules
     </tr>
     <tr>
       <td class="tg-4jdj">C(CC)</td>
-      <td class="tg-nwbp">Product Based Onp:<br>U,F - NXP (Freescale)<br>T - Texas Instruments<br>R - Rockchip<br>RA4 - Raspberry CM4</td>
+      <td class="tg-nwbp">Product Based On:<br>U,F - NXP (Freescale)<br>T - Texas Instruments<br>R - Rockchip<br>RA4 - Raspberry CM4</td>
     </tr>
     <tr>
       <td class="tg-r8ve">&nbsp;&nbsp;DDD&nbsp;&nbsp;</td>
