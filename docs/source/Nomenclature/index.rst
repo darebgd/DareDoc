@@ -2,3 +2,7 @@
 
 Product Naming Rules
 ====================
+
+.. note::
+
+    Coming soon...
