@@ -4,25 +4,25 @@ CS12800F101
 Android4.4
 ----------
 
- * FT5X06 Touchscreen
+ .. rubric:: FT5X06 Touchscreen
 
   `prebuilt-imx6qv1-cs12800f010v3-android4-emmc-20190410.tar.gz`_
 
 Android6.0
 ----------
 
- * FT5X06 Touchscreen
+ .. rubric:: FT5X06 Touchscreen
 
   `prebuilt-imxv1-cs12800f010v3-android6-emmc-20201105.tar.gz`_
 
- * GT9271 Touchscreen
+ .. rubric:: GT9271 Touchscreen
 
   `prebuilt-imxv1-cs12800f010v3-gt9271-android6-emmc-20201105.tar.gz`_
 
 Android8.0
 ----------
 
- * GT9271 Touchscreen
+ .. rubric:: GT9271 Touchscreen
 
   `prebuilt-imxv1-cs12800f101v3-android8-emmc-20210108.tar.gz`_
 
@@ -30,22 +30,22 @@ Android8.0
 LinuxQt5.5
 ----------
 
- * FT5X06 Touchscreen
+ .. rubric:: FT5X06 Touchscreen
 
   `prebuilt-imxv1-cs12800f010v3-linux-ft5526-emmc-20200526.tar.gz`_
 
- * GT9271 Touchscreen
+ .. rubric:: GT9271 Touchscreen
 
   `prebuilt-imxv1-cs12800f010v3-linux-gt9271-emmc-20200526.tar.gz`_
 
 Ubuntu14.04
 -----------
 
- * FT5X06 Touchscreen
+ .. rubric:: FT5X06 Touchscreen
 
   `prebuilt-imxv1-cs12800f101v3-u1404-ft5526-emmc-20190807.tar.gz`_
 
- * GT9271 Touchscreen
+ .. rubric:: GT9271 Touchscreen
 
   `prebuilt-imxv1-cs12800f101v3-u1404-gt9271-emmc-20190807.tar.gz`_
 
@@ -53,7 +53,7 @@ Ubuntu14.04
 Ubuntu18.04
 -----------
 
- * GT9271 Touchscreen
+ .. rubric:: GT9271 Touchscreen
 
   `prebuilt-imxv1-cs12800f101v4-linux-emmc-20200710.tar.gz`_
 

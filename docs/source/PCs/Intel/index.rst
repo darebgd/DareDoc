@@ -1,7 +1,7 @@
 .. _PBI:
 
-Industrial PCs Powered by Intel
-===============================
+Powered by Intel
+================
 
 This chapter contains product collaterals and OS downloads for the industrial PCs based on Intel platforms.
 
@@ -10,5 +10,8 @@ This chapter contains product collaterals and OS downloads for the industrial PC
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-
+   
    J1900/index
+ 
+
+   

@@ -5,6 +5,6 @@ Software Documentation
    :maxdepth: 1
    :titlesonly:
  
-   Windows 10
-   Windows 7
-   Linux
+   /Software/Windows 7
+   /Software/Windows 10
+   /Software/Linux

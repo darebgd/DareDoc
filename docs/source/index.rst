@@ -4,20 +4,24 @@ Chipsee Documentation Drafts
 This documentation repository contains all products collaterals (manuals, certifications, 3D files, brochures, whitepapers) and custom OS downloads that may be used with the Chipsee industrial 
 products.
 
-.. rubric:: Industrial PCs
+.. rubric:: Industrial Panel PCs With or Without Casing
 
 * :ref:`PBA`
 * :ref:`PBI`
+* :ref:`PBPI`
 
-.. rubric:: Chipsee Nomenclature
+.. rubric:: Robust Industrial Monitors
 
-Chipsee's clever product naming scheme allows for quick extraction of the key features from the product numbers direclty, so familiarize yourself with the naming rules to make navigating through the
-repository much easier.
+* :ref:`IM`
 
-* :ref:`naming-rules-Arm`
-* :ref:`naming-rules-Intel`
+.. rubric:: Sofware Documentation for All Products
 
-.. rubric:: Industrial Monitors
+* :ref:`SAL`
+::
+   
+   For product-specific software documentation, visit the related product link
+
+.. rubric:: High-Performance System on Modules (SoMs)
 
 * Coming soon...
 
@@ -28,19 +32,18 @@ repository much easier.
    
    PCs/ARM/index
    PCs/Intel/index
+   PCs/Pi/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Chipsee Nomenclature
-   :hidden:
-
-   Nomenclature/ARM
-   Nomenclature/Intel
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Industrial Monitors
+   :caption: Industrial Monitors 
    :hidden:
 
    Monitors/index
-   
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Sofware Documentation
+   :hidden:
+
+   Software/index   

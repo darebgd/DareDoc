@@ -1,7 +1,7 @@
 .. _naming-rules-Intel:
 
-Product Naming Rules (Intel)
-============================
+Product Naming Rules
+====================
 
 .. raw:: html
 

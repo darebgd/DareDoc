@@ -1,7 +1,7 @@
 .. _naming-rules-Arm:
 
-Product Naming Rules (Arm)
-==========================
+Product Naming Rules
+====================
 
 .. raw:: html
 
@@ -25,7 +25,7 @@ Product Naming Rules (Arm)
   <table class="tg">
   <thead>
     <tr>
-      <th class="tg-bx8d" colspan="2" rowspan="2">CSAABBBC(CC)DDDE-FGHI</th>
+      <th class="tg-bx8d" colspan="2" rowspan="2">CSAABBBCDDDE-FGHI</th>
     </tr>
     <tr>
     </tr>
@@ -44,8 +44,8 @@ Product Naming Rules (Arm)
       <td class="tg-0bqc">Vertical Resolution:<br>480 - 480px<br>600 - 600px<br>768 - 768px<br>800 - 800px<br>900 - 900px<br>102 - 1024px<br>108 - 1080px</td>
     </tr>
     <tr>
-      <td class="tg-4jdj">C(CC)</td>
-      <td class="tg-nwbp">Product Based On:<br>U,F - NXP (Freescale)<br>T - Texas Instruments<br>R - Rockchip<br>RA4 - Raspberry CM4</td>
+      <td class="tg-4jdj">C</td>
+      <td class="tg-nwbp">Product Based On:<br>U,F - NXP (Freescale)<br>T - Texas Instruments<br>R - Rockchip</td>
     </tr>
     <tr>
       <td class="tg-r8ve">&nbsp;&nbsp;DDD&nbsp;&nbsp;</td>

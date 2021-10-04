@@ -1,7 +1,7 @@
 .. _PBA:
 
-Industrial PCs Powered by Arm
-=============================
+Powered by Arm
+==============
 
 This chapter contains product collaterals and OS downloads for the industrial PCs based on Arm Cortex platforms.
 

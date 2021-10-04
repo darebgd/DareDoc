@@ -1,7 +1,9 @@
 .. _IM:
 
-Industrial Monitors
-===================
+Monitors with Capacitive Touch
+==============================
+
+
  
 .. toctree::
    :maxdepth: 1
