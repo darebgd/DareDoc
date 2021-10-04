@@ -1,7 +1,7 @@
-.. _naming-rules:
+.. _naming-rules-Arm:
 
-Product Naming Rules
-====================
+Product Naming Rules (Arm)
+==========================
 
 .. raw:: html
 

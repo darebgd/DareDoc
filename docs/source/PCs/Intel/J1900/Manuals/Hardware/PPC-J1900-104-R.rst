@@ -1,6 +1,5 @@
 PPC-J1900-104-R
 ===============
 
-.. Note:: 
-   
-   Coming soon...
+.. image:: /Media/Intel/PPC-J1900-104-R/PPC-J1900-104-R_Front.png
+

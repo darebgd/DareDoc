@@ -14,7 +14,8 @@ products.
 Chipsee's clever product naming scheme allows for quick extraction of the key features from the product numbers direclty, so familiarize yourself with the naming rules to make navigating through the
 repository much easier.
 
-* :ref:`naming-rules`
+* :ref:`naming-rules-Arm`
+* :ref:`naming-rules-Intel`
 
 .. rubric:: Industrial Monitors
 
@@ -27,7 +28,14 @@ repository much easier.
    
    PCs/ARM/index
    PCs/Intel/index
-   Nomenclature/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Chipsee Nomenclature
+   :hidden:
+
+   Nomenclature/ARM
+   Nomenclature/Intel
 
 .. toctree::
    :maxdepth: 1
