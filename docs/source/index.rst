@@ -14,16 +14,17 @@ products.
 
 * :ref:`IM`
 
+.. rubric:: High-performance System on Modules (SOMs)
+
+* :ref:`SOM`   
+
 .. rubric:: Sofware Documentation for All Products
 
 * :ref:`SAL`
+
 ::
    
    For product-specific software documentation, visit the related product link
-
-.. rubric:: High-Performance System on Modules (SoMs)
-
-* Coming soon...
 
 .. toctree::
    :maxdepth: 1
@@ -40,6 +41,13 @@ products.
    :hidden:
 
    Monitors/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Systems on Module
+   :hidden:
+
+   SOM/index
 
 .. toctree::
    :maxdepth: 1

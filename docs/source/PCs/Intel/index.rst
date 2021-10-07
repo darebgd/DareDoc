@@ -3,7 +3,7 @@
 Powered by Intel
 ================
 
-This chapter contains product collaterals and OS downloads for the industrial PCs based on Intel platforms.
+This section contains product collaterals and OS downloads for the industrial PCs based on Intel platforms.
 
 .. rubric:: Products (by platform):
 
