@@ -1,7 +1,7 @@
 Chipsee Documentation Drafts
 ============================
 
-This documentation repository contains all products collaterals (manuals, certifications, 3D files, brochures, whitepapers) and custom OS downloads that may be used with the Chipsee industrial 
+This documentation repository contains all products marketing collateral (manuals, certifications, 3D files, brochures, whitepapers) and custom OS downloads that may be used with the Chipsee industrial 
 products.
 
 .. rubric:: Industrial Panel PCs With or Without Casing
