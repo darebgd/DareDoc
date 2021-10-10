@@ -13,5 +13,5 @@ HD Graphics for Intel Atom\ :sup:`®` Processor Z3700 Series, delivering excelle
 
    Manuals/Hardware/index
    Manuals/Software/index
-   Collaterals/index
+   Collateral/index
    OS_Downloads/index

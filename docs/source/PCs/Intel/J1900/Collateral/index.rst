@@ -1,5 +1,5 @@
-Product Collaterals
-===================
+Product Collateral
+==================
 
 .. Note::
    

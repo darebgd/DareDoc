@@ -3,7 +3,7 @@
 Powered by Arm
 ==============
 
-This section contains product collaterals and OS downloads for the industrial PCs based on Arm Cortex platforms. Chipsee Product Naming Scheme allows for 
+This section contains marketing collateral and OS downloads for the industrial PCs based on Arm Cortex platforms. Chipsee Product Naming Scheme allows for 
 quick extraction of the key features from the product numbers direclty, so familiarize yourself with the :ref:`naming-rules-Arm` to make navigating through 
 the repository much easier.
 

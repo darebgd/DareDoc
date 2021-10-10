@@ -14,5 +14,5 @@ processing capabilities, making it the perfect solution for the broadest range o
 
    Manuals/Hardware/index
    Manuals/Software/index
-   Collaterals/index
+   Collateral/index
    OS_Downloads/index
