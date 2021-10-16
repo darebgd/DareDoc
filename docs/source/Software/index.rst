@@ -4,7 +4,7 @@ Software Documentation - All
 ============================
 
 
-This section contains software documentation that is available for all Chipsee products.
+This section contains software documentation available for all Chipsee products.
 
 .. toctree::
    :maxdepth: 1

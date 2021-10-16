@@ -1,8 +1,7 @@
 Chipsee Documentation Drafts
 ============================
 
-This documentation repository contains all products marketing collateral (manuals, certifications, 3D files, brochures, whitepapers) and custom OS downloads that may be used with the Chipsee industrial 
-products.
+This documentation repository contains all products marketing collateral (manuals, certifications, 3D files, brochures, whitepapers) and custom OS downloads Related to the Chipsee products portfolio.
 
 .. rubric:: Industrial Panel PCs With or Without Casing
 
@@ -22,7 +21,7 @@ products.
 
 * :ref:`SAL`
 
-::
+.. note::
    
    For product-specific software documentation, visit the related product link
 
@@ -31,9 +30,9 @@ products.
    :caption: Industrial PCs
    :hidden:
    
-   PCs/ARM/index
-   PCs/Intel/index
-   PCs/Pi/index
+   Powered by Arm <PCs/ARM/index>
+   Powred by Intel <PCs/Intel/index>
+   Powere by Raspberry Pi <PCs/Pi/index>
 
 .. toctree::
    :maxdepth: 1
@@ -54,4 +53,4 @@ products.
    :caption: Sofware Documentation
    :hidden:
 
-   Software/index   
+   Software/index
