@@ -20,9 +20,10 @@
 project = 'Chipsee Documentation Drafts'
 copyright = '2021, Chipsee'
 author = 'Darko'
+version = '1.0'
 
 # The full version, including alpha/beta/rc tags
-release = '0.2'
+release = '02'
 
 # -- General configuration ---------------------------------------------------
 
@@ -54,3 +55,9 @@ html_show_sourcelink = False
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_show_sphinx = False
+
+html_sidebars = {
+   '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+   'using/windows': ['windowssidebar.html', 'searchbox.html'],
+}

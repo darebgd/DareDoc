@@ -1,10 +1,11 @@
-i.MX6Q (Cortex-A9)
-===================
+Cortex-A9 (CS-SOM-iMX6Q)
+========================
 
 .. image:: /Media/ARM/A9_Block.png
 
-EPC/PPC-A9 series of industrial PCs equipped with the powerful quad-core Cortex-A9 based **CS-SOM-iMX6Q** SoM operating at 1.2 Hz. 
-The Arm Cortek-A9 application processor provides a high level of integration combined with power-efficient processing capabilities, making it the perfect solution for the widest range of highly demanding applications.
+The EPC/PPC-A9 series Industrial PCs are equipped with the powerful **CS-SOM-iMX6Q** SoM, based on the NXP i.MX6Q application processor running at 1.2 GHz.
+The NXP i.MX6Q is a high-performance, power-efficient quad-core Arm Cortex A9 application processor, boasting advanced features such as integrated 2D/3D GPU and dedicated VPU for uncompromised HD multimedia experience.
+Industrial PCs based on the CS-SOM-iMX6Q deliver a high level of integration combined with high-performance processing, making them the perfect choice for a wide range of highly demanding applications.
 
 .. rubric:: Contents:
 

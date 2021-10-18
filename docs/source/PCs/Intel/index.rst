@@ -12,6 +12,7 @@ the repository much easier.
 .. toctree::
    :maxdepth: 1
    :titlesonly:
+   :name: SW_INTL
    
-   Powered by Intel <J1900/index>
+   J1900/index
  

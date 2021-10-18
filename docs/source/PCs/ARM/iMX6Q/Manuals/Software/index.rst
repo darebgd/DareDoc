@@ -3,7 +3,7 @@ Software Documentation
 
 .. toctree::
    :maxdepth: 1
-   :titlesonly:
+   :name: SW_A9
 
    /Software/Android 4.3
    /Software/Android 6.0

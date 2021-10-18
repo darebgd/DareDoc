@@ -1,5 +1,47 @@
-PPC-J1900-104-R
-===============
+.. _PPC-J1900-104-R:
 
-.. image:: /Media/Intel/PPC-J1900-104-R/PPC-J1900-104-R_Front.png
+PPC-J1900-104-R User Manual
+===========================
+
+.. rubric:: *Version 1.0*
+
+.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+
+.. contents:: Table of Contents
+   :depth: 3
+   :local:
+   
+
+1. Overview
+-----------
+
+The :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a high-quality Industrial PC, featuring 10" TFT display with a resistive touchscreen and a Full HD resolution of 1920x1080 pixels.
+It is powered by the Intel Celeron J1900 quad-core CPU, targeted at portable, mobile, and embedded applications.Thanks to a specially designed ribbed aluminum housing that works
+as a passive cooler, the PPC-J1900-104-R does not require fans, which makes its operation quiet and reliable, even over extended temperature ranges.
+
+1.1. Ordering Options
+^^^^^^^^^^^^^^^^^^^^^
+Most of the Chipsee products can be customized during ordering phase.
+You can choose one of the offered options, otherwise the product comes with the pre-installed factory defaults.
+
+1.1.1. Operating System
+"""""""""""""""""""""""
+
+This product comes with a pre-installed Windows 7 operating system (OS). However, you can opt for another OS during the ordering process. Besides Windows 7, PPC-J1900-104-R also 
+supports Windows 8, Windows 10, and various flavors of Linux OS.
+
+1.1.2. Additional Peripherals
+"""""""""""""""""""""""""""""
+
+By default, the product is delivered without any wireless modules. The Wi-Fi/BT mode is optional and can be selected during the product ordering phase. However, 4G LTE modules
+are not currently available at Chipsee. You can obtain such modules from 3rd party suppliers and install them yourself. The process of installing peripherals is described in the chapter xyz.
+
+.. note::
+   
+   | Although simple, the installation of additional peripherals should be performed by trained professionals or individuals who are familiar with computer repair and maintenance.
+   | Chipsee does not bear any responsibility for unprofessional product handling.
+
+2. Main Features
+----------------
+
 
