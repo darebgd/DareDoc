@@ -52,8 +52,7 @@ Hardware Documentation
    :class: no-scaled-link
 
 .. toctree::
-   :maxdepth: 1
-   :titlesonly:
+   :maxdepth: -1
    :hidden:
 
    CS10600F070

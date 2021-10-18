@@ -10,8 +10,8 @@ the repository much easier.
 .. rubric:: Products (by platform):
 
 .. toctree::
-   :maxdepth: 1
-   :titlesonly:
+   :maxdepth: 3
+
    
    iMX6Q/index
    iMX6UL/index

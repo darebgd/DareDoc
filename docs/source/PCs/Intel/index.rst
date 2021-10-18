@@ -12,7 +12,6 @@ the repository much easier.
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   :name: SW_INTL
-   
+    
    J1900/index
  
