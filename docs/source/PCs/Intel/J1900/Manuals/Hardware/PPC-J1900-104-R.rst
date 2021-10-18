@@ -1,7 +1,7 @@
 .. _PPC-J1900-104-R:
 
 PPC-J1900-104-R User Manual
-===========================
+###########################
 
 .. rubric:: *Version 1.0*
 
@@ -9,29 +9,31 @@ PPC-J1900-104-R User Manual
 
 .. contents:: Table of Contents
    :depth: 3
+   :backlinks: entry
    :local:
-   
 
-1. Overview
------------
+Product Overview
+================
 
 The :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a high-quality Industrial PC, featuring 10" TFT display with a resistive touchscreen and a Full HD resolution of 1920x1080 pixels.
 It is powered by the Intel Celeron J1900 quad-core CPU, targeted at portable, mobile, and embedded applications.Thanks to a specially designed ribbed aluminum housing that works
-as a passive cooler, the PPC-J1900-104-R does not require fans, which makes its operation quiet and reliable, even over extended temperature ranges.
+as a passive cooler, the PPC-J1900-104-R does not require additional fans, which makes its operation quiet and reliable, even over extended temperature ranges. 
 
-1.1. Ordering Options
-^^^^^^^^^^^^^^^^^^^^^
-Most of the Chipsee products can be customized during ordering phase.
-You can choose one of the offered options, otherwise the product comes with the pre-installed factory defaults.
+Thanks to its large storage capacity and multiple connectivity options, the PPC-J1900-104-R industrial computer is the best solution for even the most demanding industrial applications.
 
-1.1.1. Operating System
-"""""""""""""""""""""""
+Ordering Options
+================
 
-This product comes with a pre-installed Windows 7 operating system (OS). However, you can opt for another OS during the ordering process. Besides Windows 7, PPC-J1900-104-R also 
+Most of the Chipsee products can be customized during ordering phase. You can choose one of the offered options, otherwise the product comes with the pre-installed factory defaults.
+
+Operating System
+^^^^^^^^^^^^^^^^
+
+This product comes with a pre-installed Windows 7 operating system (OS). However, you can choose another OS during the ordering process. Besides Windows 7, PPC-J1900-104-R also 
 supports Windows 8, Windows 10, and various flavors of Linux OS.
 
-1.1.2. Additional Peripherals
-"""""""""""""""""""""""""""""
+Additional Peripherals
+^^^^^^^^^^^^^^^^^^^^^^
 
 By default, the product is delivered without any wireless modules. The Wi-Fi/BT mode is optional and can be selected during the product ordering phase. However, 4G LTE modules
 are not currently available at Chipsee. You can obtain such modules from 3rd party suppliers and install them yourself. The process of installing peripherals is described in the chapter xyz.
@@ -41,7 +43,47 @@ are not currently available at Chipsee. You can obtain such modules from 3rd par
    | Although simple, the installation of additional peripherals should be performed by trained professionals or individuals who are familiar with computer repair and maintenance.
    | Chipsee does not bear any responsibility for unprofessional product handling.
 
-2. Main Features
-----------------
+Hardware Features
+=================
 
+As mentioned above, PPC-J1900-104-R has plenty of performance, connectivity, and power efficiency features. Some of its key features are listed in the table below.
 
++-----------------------------------------------------------------------------------------------+
+| Key Features:                                                                                 |
++=====================+=========================================================================+
+| CPU                 | Intel\ :sup:`®` Celeron\ :sup:`®` J1900 at 2GHz, 2MB cache, TDP 10W     |
++---------------------+-------------------------------------------------------------------------+
+| GPU                 | Intel HD integrated GPU, 512MB shared memory                            |
++---------------------+-------------------------------------------------------------------------+
+| RAM                 | Default 4GB, maximum supported 8 GB DDR3L 1333                          |
++---------------------+-------------------------------------------------------------------------+
+| Display             | 10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m\ :sup:`2`       |
++---------------------+-------------------------------------------------------------------------+
+| Touch               | High temperature, five-wire resistive touch panel                       |
++---------------------+-------------------------------------------------------------------------+
+| USB                 | 1 x USB 3.0 HOST, 3 x USB 2.0 HOST ports (Type A)                       |
++---------------------+-------------------------------------------------------------------------+
+| LAN                 | 2 x RJ45, Intel\ :sup:`®` I211, 10/100/1000BASE-TX, Wake on LAN support |
++---------------------+-------------------------------------------------------------------------+
+| UART                | Default 4 x RS232 (2 x RS485 optional)                                  |
++---------------------+-------------------------------------------------------------------------+
+| GPIO                | 8 channels General Purpose I/O (GPIO)                                   |
++---------------------+-------------------------------------------------------------------------+
+| 3G/4G               | Optional, modules available at other suppliers/stores                   |
++---------------------+-------------------------------------------------------------------------+
+| WiFi/BT             | Optional, module available from the manufacturer (Chipsee)              |
++---------------------+-------------------------------------------------------------------------+
+| HDMI                | 1 x HDMI Out port                                                       |
++---------------------+-------------------------------------------------------------------------+
+| SATA                | 1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD                |
++---------------------+-------------------------------------------------------------------------+
+| Power IN            | 9V to 30V DC                                                            |
++---------------------+-------------------------------------------------------------------------+
+| OS                  | Default Windows 7, supports Windows 8, Windows 10, Linux                |
++---------------------+-------------------------------------------------------------------------+
+| Working Temperature | From -20°C to +60°C                                                     |
++---------------------+-------------------------------------------------------------------------+
+| Dimensions          | 272 x 221 x 53mm                                                        |
++---------------------+-------------------------------------------------------------------------+
+| Weight              | 2300g                                                                   |
++---------------------+-------------------------------------------------------------------------+

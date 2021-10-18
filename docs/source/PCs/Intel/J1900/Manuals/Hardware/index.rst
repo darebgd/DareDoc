@@ -15,7 +15,7 @@ Hardware Documentation
    
 .. toctree::
    :maxdepth: 1
+   :titlesonly:
    :hidden:
-
 
    PPC-J1900-104-R
