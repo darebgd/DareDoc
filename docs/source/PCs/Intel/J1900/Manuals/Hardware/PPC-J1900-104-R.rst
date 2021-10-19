@@ -9,6 +9,7 @@ PPC-J1900-104-R User Manual
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
    :align: center
 
+|   
 
 .. contents:: Table of Contents
    :depth: 3
