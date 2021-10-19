@@ -29,7 +29,7 @@ It is powered by the Intel Celeron J1900 quad-core CPU, allowing it to meet even
 serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and increasing the product's reliability.
 
 .. caution::   
-   Be careful if handling the product while operating: the back of the panel may become hot under heavy CPU load.
+   Be careful if handling the product while operating: the back of the panel might become hot under heavy CPU load.
 
 Ordering Options
 =================
