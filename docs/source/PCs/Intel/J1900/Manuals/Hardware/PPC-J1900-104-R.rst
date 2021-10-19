@@ -4,7 +4,8 @@ PPC-J1900-104-R User Manual
 ###########################
 
 .. rubric:: *Version 1.0*
-   
+
+|   
 
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
    :align: center
@@ -29,7 +30,7 @@ It is powered by the Intel Celeron J1900 quad-core CPU, allowing it to meet even
 serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and increasing the product's reliability.
 
 .. caution::   
-   Be careful if handling the product while operating: the back of the panel might become hot under heavy CPU load.
+   Be careful when handling the product during operation: the back panel can become hot under heavy CPU load.
 
 Ordering Options
 =================
@@ -58,7 +59,7 @@ are not currently available at Chipsee's storee. You can obtain these modules fr
 Hardware Features
 =================
 
-The PPC-J1900-104-R industrial PC offers a wide range of performance and connectivity options for scalable integration, providing the ability to upgrade according to future requirements. 
+The PPC-J1900-104-R Industrial PC offers a wide range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
 Some of its key features are listed in the table below.
 
 .. raw:: html

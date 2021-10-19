@@ -87,9 +87,9 @@ rst_epilog = """
 
 """
 
+html_last_updated_fmt = '%b %d, %Y'
 html_context = {
 "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
-"last_updated": True,
 "commit": False,
 }
 

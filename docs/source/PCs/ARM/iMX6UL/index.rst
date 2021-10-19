@@ -1,4 +1,4 @@
-i.MX6UL (Cortex-A7)
+Cortex-A7 (i.MX6UL)
 ===================
 
 .. image:: /Media/ARM/A7_Block.png
