@@ -57,10 +57,13 @@ html_theme_options = {
     'sticky_navigation': True,
     'navigation_depth': 5,
     'includehidden': True,
-    'titles_only': False }
+    'titles_only': False
+}
+
+html_style = 'css/my_theme.css' 
 
 html_show_sourcelink = False
-html_js_files = ['js/expand_tabs.js']
+#html_js_files = ['js/expand_tabs.js']
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -68,5 +71,20 @@ html_js_files = ['js/expand_tabs.js']
 html_static_path = ['_static']
 
 html_show_sphinx = False
+
+rst_epilog = """
+
+.. |Intel| replace:: Intel\ :sup:`®`
+
+.. |Celeron| replace:: Celeron\ :sup:`®`
+
+.. |Arm| replace:: Arm\ :sup:`®`
+
+.. |Cortex| replace:: Cortex\ :sup:`®`
+
+.. role:: underline
+    :class: underline
+
+"""
 
 

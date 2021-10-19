@@ -1,21 +1,17 @@
 .. _CS10600F070:
 
 EPC/PPC-A9-70-C User Manual
-===========================
+###########################
+
+.. contents:: Table of Contents
+   :depth: 3
+   :backlinks: entry
+   :local:
+
+Title:
+======
 
 .. Note:: 
    
    Coming soon...
-
-This is a subtopic
-==================
-
-Another one
-===========
-
-Smaller
--------
-
-sss
-^^^
 

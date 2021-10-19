@@ -1,6 +1,7 @@
-
 Hardware Documentation
-======================
+######################
+
+
 
 +-----------------+------------------------------------------------------------+
 |  |CS10600F070|  | | :ref:`CS10600F070`                                       |
@@ -44,7 +45,6 @@ Hardware Documentation
 
 
 .. |CS10600F070| image:: /Media/ARM/A9/CS10600F070_Front_Small.png
-   :width: 80
    :class: no-scaled-link
 
 .. |CS10768F097| image:: /Media/ARM/A9/CS10768F097_Front_Small.png
@@ -52,7 +52,8 @@ Hardware Documentation
    :class: no-scaled-link
 
 .. toctree::
-   :maxdepth: -1
+   :maxdepth: 1
+   :titlesonly:
    :hidden:
 
    CS10600F070

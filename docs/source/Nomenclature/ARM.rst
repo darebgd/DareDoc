@@ -9,14 +9,14 @@ Product Naming Rules
 
   <style type="text/css">
   .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
-  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 20px;word-break:normal;}
-  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:2px 20px;word-break:normal;}
+  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 20px;word-break:normal;}
+  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:4px 20px;word-break:normal;}
   .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:16px;font-weight:bold;
     text-align:left;vertical-align:middle}
   .tg .tg-8qah{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:16px;font-weight:bold;
-    text-align:center;vertical-align:middle;padding:6px 20px}
+    text-align:center;vertical-align:middle;padding:8px 20px}
   .tg .tg-0bqc{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:16px;text-align:left;
     vertical-align:middle}
   </style>

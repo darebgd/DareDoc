@@ -4,86 +4,159 @@ PPC-J1900-104-R User Manual
 ###########################
 
 .. rubric:: *Version 1.0*
+   
 
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+   :align: center
+
 
 .. contents:: Table of Contents
    :depth: 3
    :backlinks: entry
    :local:
+   
+
+.. sectnum::
+   :suffix: .
+
 
 Product Overview
-================
+=================
 
-The :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a high-quality Industrial PC, featuring 10" TFT display with a resistive touchscreen and a Full HD resolution of 1920x1080 pixels.
-It is powered by the Intel Celeron J1900 quad-core CPU, targeted at portable, mobile, and embedded applications.Thanks to a specially designed ribbed aluminum housing that works
-as a passive cooler, the PPC-J1900-104-R does not require additional fans, which makes its operation quiet and reliable, even over extended temperature ranges. 
+The PPC-j1900` series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a high-quality Industrial PC, featuring 10.4" TFT display with a resistive touchscreen and a Full HD resolution of 1920 x 1080 pixels.
+It is powered by the Intel Celeron J1900 quad-core CPU, allowing it to meet even the most demanding requirements in the smart industry. The specially designed aluminum housing with fins also
+serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and increasing the product's reliability.
 
-Thanks to its large storage capacity and multiple connectivity options, the PPC-J1900-104-R industrial computer is the best solution for even the most demanding industrial applications.
+.. caution::   
+   Be careful if handling the product while operating: the back of the panel may become hot under heavy CPU load.
 
 Ordering Options
-================
+=================
 
-Most of the Chipsee products can be customized during ordering phase. You can choose one of the offered options, otherwise the product comes with the pre-installed factory defaults.
+Most of the Chipsee products can be customized during ordering phase. You can choose one of the offered options, otherwise the product will be shipped with the pre-installed factory defaults.
+The :ref:`table below <hw-features>` provides information about default components that will be shipped with the product.
 
 Operating System
-^^^^^^^^^^^^^^^^
+-----------------
 
 This product comes with a pre-installed Windows 7 operating system (OS). However, you can choose another OS during the ordering process. Besides Windows 7, PPC-J1900-104-R also 
 supports Windows 8, Windows 10, and various flavors of Linux OS.
 
 Additional Peripherals
-^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 By default, the product is delivered without any wireless modules. The Wi-Fi/BT mode is optional and can be selected during the product ordering phase. However, 4G LTE modules
-are not currently available at Chipsee. You can obtain such modules from 3rd party suppliers and install them yourself. The process of installing peripherals is described in the chapter xyz.
+are not currently available at Chipsee's storee. You can obtain these modules from 3rd party suppliers. The installation process is described in the chapter xyz.
 
-.. note::
-   
-   | Although simple, the installation of additional peripherals should be performed by trained professionals or individuals who are familiar with computer repair and maintenance.
-   | Chipsee does not bear any responsibility for unprofessional product handling.
+.. warning::   
+   | Installation, repair, and maintenance tasks should be performed by trained professionals only.
+   | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
+
+.. _hw-features:
 
 Hardware Features
 =================
 
-As mentioned above, PPC-J1900-104-R has plenty of performance, connectivity, and power efficiency features. Some of its key features are listed in the table below.
+The PPC-J1900-104-R industrial PC offers a wide range of performance and connectivity options for scalable integration, providing the ability to upgrade according to future requirements. 
+Some of its key features are listed in the table below.
 
-+-----------------------------------------------------------------------------------------------+
-| Key Features:                                                                                 |
-+=====================+=========================================================================+
-| CPU                 | Intel\ :sup:`®` Celeron\ :sup:`®` J1900 at 2GHz, 2MB cache, TDP 10W     |
-+---------------------+-------------------------------------------------------------------------+
-| GPU                 | Intel HD integrated GPU, 512MB shared memory                            |
-+---------------------+-------------------------------------------------------------------------+
-| RAM                 | Default 4GB, maximum supported 8 GB DDR3L 1333                          |
-+---------------------+-------------------------------------------------------------------------+
-| Display             | 10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m\ :sup:`2`       |
-+---------------------+-------------------------------------------------------------------------+
-| Touch               | High temperature, five-wire resistive touch panel                       |
-+---------------------+-------------------------------------------------------------------------+
-| USB                 | 1 x USB 3.0 HOST, 3 x USB 2.0 HOST ports (Type A)                       |
-+---------------------+-------------------------------------------------------------------------+
-| LAN                 | 2 x RJ45, Intel\ :sup:`®` I211, 10/100/1000BASE-TX, Wake on LAN support |
-+---------------------+-------------------------------------------------------------------------+
-| UART                | Default 4 x RS232 (2 x RS485 optional)                                  |
-+---------------------+-------------------------------------------------------------------------+
-| GPIO                | 8 channels General Purpose I/O (GPIO)                                   |
-+---------------------+-------------------------------------------------------------------------+
-| 3G/4G               | Optional, modules available at other suppliers/stores                   |
-+---------------------+-------------------------------------------------------------------------+
-| WiFi/BT             | Optional, module available from the manufacturer (Chipsee)              |
-+---------------------+-------------------------------------------------------------------------+
-| HDMI                | 1 x HDMI Out port                                                       |
-+---------------------+-------------------------------------------------------------------------+
-| SATA                | 1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD                |
-+---------------------+-------------------------------------------------------------------------+
-| Power IN            | 9V to 30V DC                                                            |
-+---------------------+-------------------------------------------------------------------------+
-| OS                  | Default Windows 7, supports Windows 8, Windows 10, Linux                |
-+---------------------+-------------------------------------------------------------------------+
-| Working Temperature | From -20°C to +60°C                                                     |
-+---------------------+-------------------------------------------------------------------------+
-| Dimensions          | 272 x 221 x 53mm                                                        |
-+---------------------+-------------------------------------------------------------------------+
-| Weight              | 2300g                                                                   |
-+---------------------+-------------------------------------------------------------------------+
+.. raw:: html
+
+   <style type="text/css">
+  .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 20px;word-break:normal;}
+  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:4px 20px;word-break:normal;}
+  .tg .tg-3zfw{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
+    font-weight:bold;text-align:left;vertical-align:middle}
+  .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
+    text-align:middle;vertical-align:middle}
+   .tg .tg-71e5{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
+   text-align:middle;vertical-align:middle; padding:6px}
+  .tg .tg-nwbp{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
+    text-align:left;vertical-align:middle}
+  .tg .tg-0bqc{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;text-align:left;
+    vertical-align:middle}
+  </style>
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-71e5" colspan="2">Key Features:</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-3zfw">CPU</td>
+      <td class="tg-nwbp">Intel<sup>®</sup> Celeron<sup>®</sup> J1900, 2GHz, Quad-Core, 2MB Cache, TDP=10W</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">GPU</td>
+      <td class="tg-0bqc">Intel<sup>®</sup> HD integrated GPU, 512MB shared memory</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">RAM</td>
+      <td class="tg-nwbp">Default 4GB, maximum supported 8GB DDR3L 1333</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Display</td>
+      <td class="tg-0bqc">10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m<sup>2</sup></td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">Touch</td>
+      <td class="tg-nwbp">High temperature, five-wire resistive touch panel</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">USB</td>
+      <td class="tg-0bqc">1 x USB 3.0 HOST, 3 x USB 2.0 HOST ports (Type A)</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">LAN</td>
+      <td class="tg-nwbp">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-TX, Wake on LAN support</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">UART</td>
+      <td class="tg-0bqc">Default 4 x RS232 (2 x RS485 optional)</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">GPIO</td>
+      <td class="tg-nwbp">8 General Purpose I/O (GPIO) channels</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">3G/4G</td>
+      <td class="tg-0bqc">Optional, modules available at other suppliers/stores</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">WiFi/BT</td>
+      <td class="tg-nwbp">Optional, module available from the manufacturer (Chipsee)</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">HDMI</td>
+      <td class="tg-0bqc">1 x HDMI Out port</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">SATA</td>
+      <td class="tg-nwbp">1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Power IN</td>
+      <td class="tg-0bqc">From 9V to 30V DC</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">OS</td>
+      <td class="tg-nwbp">Default Windows 7, supports Windows 8, Windows 10, Linux</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Working Temp.</td>
+      <td class="tg-0bqc">From -20°C to +60°C</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">Dimensions</td>
+      <td class="tg-nwbp">272 x 221 x 53mm</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Weight</td>
+      <td class="tg-0bqc">2300g</td>
+    </tr>
+  </tbody>
+  </table>
