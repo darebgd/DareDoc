@@ -10,7 +10,7 @@ Cortex-A7 (i.MX6UL)
 .. rubric:: Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 1 
    :titlesonly:
 
    CS10600U070

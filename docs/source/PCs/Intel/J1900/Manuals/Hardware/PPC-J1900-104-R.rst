@@ -25,9 +25,10 @@ PPC-J1900-104-R User Manual
 Product Overview
 =================
 
-The PPC-j1900` series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a high-quality Industrial PC, featuring 10.4" TFT display with a resistive touchscreen and a Full HD resolution of 1920 x 1080 pixels.
-It is powered by the Intel Celeron J1900 quad-core CPU, allowing it to meet even the most demanding requirements in the smart industry. The specially designed aluminum housing with fins also
-serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and increasing the product's reliability.
+The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a 10.4" IP65-compliant touch-sensitive LCD with Full HD resolution 
+(1920 x 1080px). PPC-J1900-104-R is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
+requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and
+increasing reliability.
 
 .. caution::   
    Be careful when handling the product during operation: the back panel can become hot under heavy CPU load.
@@ -35,23 +36,24 @@ serves as a passive cooler, eliminating the need for built-in fans, thus reducin
 Ordering Options
 =================
 
-Most of the Chipsee products can be customized during ordering phase. You can choose one of the offered options, otherwise the product will be shipped with the pre-installed factory defaults.
-The :ref:`table below <hw-features>` provides information about default components that will be shipped with the product.
+Most of the Chipsee products can be customized during the ordering phase. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
+The :ref:`table below <table1>` provides information about the default components that will be shipped with the product.
 
 Operating System
 -----------------
 
-This product comes with a pre-installed Windows 7 operating system (OS). However, you can choose another OS during the ordering process. Besides Windows 7, PPC-J1900-104-R also 
-supports Windows 8, Windows 10, and various flavors of Linux OS.
+The PPC-J1900-104-R industrial PC is shipped with the Windows 7 operating system (OS) by defaul. Besides Windows 7, PPC-J1900-104-R also supports Windows 8, Windows 10, and various flavors 
+of Linux OS. The OS can be selected during the ordering phase.
 
-Additional Peripherals
------------------------
+Optional Peripherals
+--------------------
 
-By default, the product is delivered without any wireless modules. The Wi-Fi/BT mode is optional and can be selected during the product ordering phase. However, 4G LTE modules
-are not currently available at Chipsee's storee. You can obtain these modules from 3rd party suppliers. The installation process is described in the chapter xyz.
+By default, the product is shipped without wireless modules. The Wi-Fi/BT mode is optional and can be chosen during the ordering phase. 3G/4G LTE and other WAN modules are not 
+currently available at the Chipsee store. They can be obrained from third-party suppliers specializing in the production and sale of such modules. More information on compatible
+peripherals and the installation procedure can be found in *chapter XXX* of this manual.
 
 .. warning::   
-   | Installation, repair, and maintenance tasks should be performed by trained professionals only.
+   | Installation, repair, and maintenance tasks should be performed by trained personnel only.
    | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
 
 .. _hw-features:
@@ -59,8 +61,8 @@ are not currently available at Chipsee's storee. You can obtain these modules fr
 Hardware Features
 =================
 
-The PPC-J1900-104-R Industrial PC offers a wide range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
-Some of its key features are listed in the table below.
+The PPC-J1900-104-R Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
+Some of the key features are listed in the Table 1 below.
 
 .. raw:: html
 
@@ -162,3 +164,9 @@ Some of its key features are listed in the table below.
     </tr>
   </tbody>
   </table>
+  
+\
+
+.. _table1:
+.. centered:: *Table 1: PPC-J1900-104-R Key Features*
+
