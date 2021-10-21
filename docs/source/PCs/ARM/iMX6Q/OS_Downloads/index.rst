@@ -9,15 +9,16 @@ Chipsee technical support. ``should we link tech support?``
    :maxdepth: 1
    :titlesonly:
 
-   EPC/PPC-A9-70-C (PN: CS10600F070) <CS10600F070>
-   EPC/PPC-A9-97-C (PN: CS10768F097) <CS10768F097>
-   EPC/PPC-A9-101-C (PN: CS12800F101) <CS12800F101>
-   PPC-A9-121-C (PN: CS10768F121) <CS10768F121>
-   PPC-A9-150-C (PN: CS10768F150) <CS10768F150>
-   PPC-A9-190-C (PN: CS14900F190) <CS14900F190>
-   PPC-A9-215-C (PN: CS19108F215) <CS19108F215>
+   EPC/PPC-A9-70-C <CS10600F070>
+   EPC/PPC-A9-97-C <CS10768F097>
+   EPC/PPC-A9-101-C <CS12800F101>
+   PPC-A9-121-C <CS10768F121>
+   PPC-A9-150-C <CS10768F150>
+   PPC-A9-190-C <CS14900F190>
+   PPC-A9-215-C <CS19108F215>
 
 .. warning::
 
   | All Chipsee products come with the pre-installed OS selected upon ordering.
   | Chipsee assumes no liability for the damage caused due to improper installation by the third parties.
+

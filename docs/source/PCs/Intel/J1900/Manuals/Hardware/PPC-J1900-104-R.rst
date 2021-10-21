@@ -1,5 +1,172 @@
-PPC-J1900-104-R
-===============
+.. _PPC-J1900-104-R:
 
-.. image:: /Media/Intel/PPC-J1900-104-R/PPC-J1900-104-R_Front.png
+PPC-J1900-104-R User Manual
+###########################
+
+.. rubric:: *Version 1.0*
+
+|   
+
+.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+   :align: center
+
+|   
+
+.. contents:: Table of Contents
+   :depth: 3
+   :backlinks: entry
+   :local:
+   
+
+.. sectnum::
+   :suffix: .
+
+
+Product Overview
+=================
+
+The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a 10.4" IP65-compliant touch-sensitive LCD with Full HD resolution 
+(1920 x 1080px). PPC-J1900-104-R is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
+requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans, thus reducing noise and
+increasing reliability.
+
+.. caution::   
+   Be careful when handling the product during operation: the back panel can become hot under heavy CPU load.
+
+Ordering Options
+=================
+
+Most of the Chipsee products can be customized during the ordering phase. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
+The :ref:`table below <table1>` provides information about the default components that will be shipped with the product.
+
+Operating System
+-----------------
+
+The PPC-J1900-104-R industrial PC is shipped with the Windows 7 operating system (OS) by defaul. Besides Windows 7, PPC-J1900-104-R also supports Windows 8, Windows 10, and various flavors 
+of Linux OS. The OS can be selected during the ordering phase.
+
+Optional Peripherals
+--------------------
+
+By default, the product is shipped without wireless modules. The Wi-Fi/BT mode is optional and can be chosen during the ordering phase. 3G/4G LTE and other WAN modules are not 
+currently available at the Chipsee store. They can be obrained from third-party suppliers specializing in the production and sale of such modules. More information on compatible
+peripherals and the installation procedure can be found in *chapter XXX* of this manual.
+
+.. warning::   
+   | Installation, repair, and maintenance tasks should be performed by trained personnel only.
+   | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
+
+.. _hw-features:
+
+Hardware Features
+=================
+
+The PPC-J1900-104-R Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
+Some of the key features are listed in the Table 1 below.
+
+.. raw:: html
+
+   <style type="text/css">
+  .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 20px;word-break:normal;}
+  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
+    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:4px 20px;word-break:normal;}
+  .tg .tg-3zfw{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
+    font-weight:bold;text-align:left;vertical-align:middle}
+  .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
+    text-align:middle;vertical-align:middle}
+   .tg .tg-71e5{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
+   text-align:middle;vertical-align:middle; padding:6px}
+  .tg .tg-nwbp{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
+    text-align:left;vertical-align:middle}
+  .tg .tg-0bqc{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;text-align:left;
+    vertical-align:middle}
+  </style>
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-71e5" colspan="2">Key Features:</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-3zfw">CPU</td>
+      <td class="tg-nwbp">Intel<sup>®</sup> Celeron<sup>®</sup> J1900, 2GHz, Quad-Core, 2MB Cache, TDP=10W</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">GPU</td>
+      <td class="tg-0bqc">Intel<sup>®</sup> HD integrated GPU, 512MB shared memory</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">RAM</td>
+      <td class="tg-nwbp">Default 4GB, maximum supported 8GB DDR3L 1333</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Display</td>
+      <td class="tg-0bqc">10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m<sup>2</sup></td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">Touch</td>
+      <td class="tg-nwbp">High temperature, five-wire resistive touch panel</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">USB</td>
+      <td class="tg-0bqc">1 x USB 3.0 HOST, 3 x USB 2.0 HOST ports (Type A)</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">LAN</td>
+      <td class="tg-nwbp">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-TX, Wake on LAN support</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">UART</td>
+      <td class="tg-0bqc">Default 4 x RS232 (2 x RS485 optional)</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">GPIO</td>
+      <td class="tg-nwbp">8 General Purpose I/O (GPIO) channels</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">3G/4G</td>
+      <td class="tg-0bqc">Optional, modules available at other suppliers/stores</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">WiFi/BT</td>
+      <td class="tg-nwbp">Optional, module available from the manufacturer (Chipsee)</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">HDMI</td>
+      <td class="tg-0bqc">1 x HDMI Out port</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">SATA</td>
+      <td class="tg-nwbp">1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Power IN</td>
+      <td class="tg-0bqc">From 9V to 30V DC</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">OS</td>
+      <td class="tg-nwbp">Default Windows 7, supports Windows 8, Windows 10, Linux</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Working Temp.</td>
+      <td class="tg-0bqc">From -20°C to +60°C</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">Dimensions</td>
+      <td class="tg-nwbp">272 x 221 x 53mm</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Weight</td>
+      <td class="tg-0bqc">2300g</td>
+    </tr>
+  </tbody>
+  </table>
+  
+\
+
+.. _table1:
+.. centered:: *Table 1: PPC-J1900-104-R Key Features*
 

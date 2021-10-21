@@ -1,9 +1,9 @@
 .. _PBI:
 
-Indusial PCs Powered by Intel
-=============================
+Indusial PCs Powered by |Intel|
+===============================
 
-This section contains marketing collateral and OS downloads for the industrial PCs based on **Intel** platforms. Chipsee Product Naming Scheme allows for 
+This section contains marketing collateral and OS downloads for the industrial PCs based on |Intel| platforms. Chipsee Product Naming Scheme allows for 
 quick extraction of the key features from the product numbers (PN) direclty, so familiarize yourself with the :ref:`naming-rules-Intel` to make navigating through
 the repository much easier. 
 
@@ -12,6 +12,6 @@ the repository much easier.
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   
-   Powered by Intel <J1900/index>
+    
+   Intel Celeron J1900 <J1900/index>
  

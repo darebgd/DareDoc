@@ -1,42 +1,53 @@
-
 Hardware Documentation
-======================
+######################
 
-- :ref:`CS10600F070` 
++-----------------+------------------------------------------------------------+
+|  |CS10600F070|  | | :ref:`CS10600F070`                                       |
+|                 |                                                            |                                 
+|                 | 7.0", 1024x600, Capacitive, 2GB RAM, 8GB Flash Memory      |
+|                 |                                                            |
+|                 | WiFi (optional), Embedded/Panel version available          |
++-----------------+------------------------------------------------------------+
 
-  - *7.0", 1024x600, Capacitive, 2GB RAM, 8GB Flash, WiFi (optional), Embedded/Panel*
++-----------------+------------------------------------------------------------+
+|  |CS10768F097|  | | :ref:`CS10768F097`                                       |
+|                 |                                                            |                                 
+|                 | 9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash Memory      |
+|                 |                                                            |
+|                 | WiFi & 4G (optional), Embedded/Panel versions available    |
++-----------------+------------------------------------------------------------+
 
-* :ref:`CS10768F097`
+| :ref:`CS10768F097`
+| - 9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Embedded/Panel
 
-  * *9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Embedded/Panel*
+| :ref:`CS12800F101`
+| - 10.1", 1280x800, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Embedded/Panel
 
-- :ref:`CS12800F101`
+| :ref:`CS10768F121`
+| - 12.1", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-  - *10.1", 1280x800, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Embedded/Panel*
+| :ref:`CS10768F121-U`
+| - 12.1", 1280x800, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-* :ref:`CS10768F121`
+| :ref:`CS10768F150`
+| - 15.0", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-  * *12.1", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
+| :ref:`CS12102F170`
+| - 17.0", 1280x1024, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-- :ref:`CS10768F121-U`
+| :ref:`CS14900F190`
+| - 19.0", 1440x900, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-  - *12.1", 1280x800, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
+| :ref:`CS19108F215`
+| - 21.5", 1920x1080, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
-* :ref:`CS10768F150`
 
-  * *15.0", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
+.. |CS10600F070| image:: /Media/ARM/A9/CS10600F070_Front_Small.png
+   :class: no-scaled-link
 
-- :ref:`CS12102F170`
-
-  - *17.0", 1280x1024, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
-
-* :ref:`CS14900F190`
-
-  * *19.0", 1440x900, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
-
-- :ref:`CS19108F215`
-
-  - *21.5", 1920x1080, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only*
+.. |CS10768F097| image:: /Media/ARM/A9/CS10768F097_Front_Small.png
+   :width: 80
+   :class: no-scaled-link
 
 .. toctree::
    :maxdepth: 1

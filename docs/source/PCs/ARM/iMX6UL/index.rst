@@ -1,4 +1,4 @@
-i.MX6UL (Cortex-A7)
+Cortex-A7 (i.MX6UL)
 ===================
 
 .. image:: /Media/ARM/A7_Block.png
@@ -10,7 +10,7 @@ i.MX6UL (Cortex-A7)
 .. rubric:: Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 1 
    :titlesonly:
 
    CS10600U070

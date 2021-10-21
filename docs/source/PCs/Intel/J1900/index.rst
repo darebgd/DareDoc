@@ -1,9 +1,10 @@
-Intel Celeron J1900
-===================
+|Intel| |Celeron| J1900
+=======================
 
-Intel\ :sup:`®` Celeron\ :sup:`®` J1900 quad-core CPU operates at 2GHz and supports up to 8MB of low voltage DDR RAM (DDR3L 1333).
-It's Thermal Design Power (TDP) of 10W makes it an excellent choice for low-power mobile, handheld, and embedded applications. In also features Intel\ :sup:`®` 
-HD Graphics for Intel Atom\ :sup:`®` Processor Z3700 Series, delivering excellent 2D/3D acceleration performance and media encoding & decoding capabilities.
+
+|Intel| |Celeron| J1900 quad-core CPU operates at 2GHz and supports up to 8MB of low voltage DDR RAM (DDR3L 1333).
+Its Thermal Design Power (TDP) of 10W makes it an excellent choice for low-power mobile, handheld, and embedded applications. It also features |Intel| 
+HD Graphics for Intel Atom\ :sup:`®` Processor Z3700 Series, delivering excellent 2D/3D acceleration performance and HD multimedia capabilities.
 
 .. rubric:: Contents:
 
