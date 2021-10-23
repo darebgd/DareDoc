@@ -1,3 +1,7 @@
+.. |product| replace:: PPC-J1900-104-R
+
+.. |IP65| replace:: IP65-compliant 
+
 .. _PPC-J1900-104-R:
 
 PPC-J1900-104-R User Manual
@@ -5,12 +9,29 @@ PPC-J1900-104-R User Manual
 
 .. rubric:: *Version 1.0*
 
-|   
+| 
 
-.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
    :align: center
+   :figclass: align-center
+ 
+   Front View
+ 
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+   :align: center
+   :figclass: align-center
 
-|   
+   Back View   
+
+
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side_800.png
+  :align: center
+  :figclass: align-center
+ 
+  Side View
+
+|    
 
 .. contents:: Table of Contents
    :depth: 3
@@ -25,8 +46,8 @@ PPC-J1900-104-R User Manual
 Product Overview
 =================
 
-The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a 10.4" IP65-compliant touch-sensitive LCD with Full HD resolution 
-(1920 x 1080px). PPC-J1900-104-R is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
+The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a resistive 10.4" |IP65| touch-sensitive LCD with Full HD resolution 
+(1920 x 1080px). |product| is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
 requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
 noise and maintenance efforts. while increasng reliability.
 
@@ -37,7 +58,7 @@ Ordering Options
 =================
 
 Most of the Chipsee products can be customized during the ordering process. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
-The :ref:`table below <table1>` provides information about the default components that will be shipped with the product.
+The :ref:`table below <hw-features>` provides information about the default components that will be shipped with the product.
 
 Operating System
 -----------------
@@ -61,7 +82,7 @@ peripherals and the installation procedure can be found in *chapter XXX* of this
 Hardware Features
 =================
 
-The PPC-J1900-104-R Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
+The |product| Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
 Some of the key features are listed in the Table 1 below.
 
 .. raw:: html
@@ -85,6 +106,7 @@ Some of the key features are listed in the Table 1 below.
   </style>
   <table class="tg">
   <thead>
+    <caption style="caption-side:bottom;text-align:center;padding:8px">Table 1: <i>Key Features</i></caption>
     <tr>
       <th class="tg-71e5" colspan="2">Key Features:</th>
     </tr>
@@ -164,9 +186,41 @@ Some of the key features are listed in the Table 1 below.
     </tr>
   </tbody>
   </table>
-  
-\
 
-.. _table1:
-.. centered:: *Table 1: PPC-J1900-104-R Key Features*
+.. _psu-connector:
+
+Power Input Connector
+---------------------
+
+The |product| can operate using a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal *(Figure 3)*.
+The polarity of the power connector is clearly labeled on the housing itself: the '+' sign is a positive power input, while the '-' sign is a negative power input.
+The shutdown button is located next to the power input connector and can be used to turn the power ON or OFF. 
+
+.. Figure:: /Media/Intel/J1900/PPC-J1900-104-Power_650.png
+  :align: center
+  :scale: 75%
+  :figclass: align-center
+
+  Power Input section
+
+Resisve Touch
+-------------
+
+The resistive touch-display is an ideal option for harsh industrial conditons. It is material-independent and the display can be operated by any material
+(regular rubber gloves, fingers, plastic stylus)
+
+| The |product| is equipped with the high temperature resistant five-wire analog resistvie touch panel:
+
+
+.. container:: hatnote hatnote-yellow
+
+  |br|
+  **Size/Type:** 10.4" high temperature-resistant resistive touch panel |br|
+  **Surface Strength:** 3H |br|
+  **Service Life:** 35 million touch events |br|
+  **Light Transmittance:** > 81%
+
+.. |br| raw:: html 
+
+   <br>
 

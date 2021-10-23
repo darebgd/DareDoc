@@ -23,7 +23,7 @@ author = 'Darko'
 version = '1.0'
 
 # The full version, including alpha/beta/rc tags
-release = '02'
+release = '03'
 
 # -- General configuration ---------------------------------------------------
 import os
@@ -60,8 +60,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_style = 'css/my_theme.css' 
-
+html_style = 'css/my_theme.css'
 
 # html_show_sourcelink = False
 # html_js_files = ['js/expand_tabs.js']
@@ -70,7 +69,11 @@ html_style = 'css/my_theme.css'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
+numfig = True
+numfig_format = {'figure': 'Figure %s:',
+                 'table': 'Table %s',
+                 'ode-block': 'Code %s',
+                }
 #html_show_sphinx = False
 
 rst_epilog = """
