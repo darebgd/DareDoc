@@ -1,5 +1,7 @@
 .. |product| replace:: PPC-J1900-104-R
 
+.. |Product| replace:: The |product| industrial PC  
+
 .. |IP65| replace:: IP65-compliant 
 
 .. _PPC-J1900-104-R:
@@ -11,25 +13,30 @@
 
 |
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
    :align: center
+   :scale: 35
    :figclass: align-center
+   
  
    Front View
 
 |    
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear_690.png
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
    :align: center
-   :figclass: align-center
+   :scale: 35
+   
 
    Back View   
 
 |   
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side_800.png
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
   :align: center
+  :scale: 40
   :figclass: align-center
+  
  
   Side View
 
@@ -227,8 +234,8 @@ against high temperatures, dirt, and dust. It can be operated by an object made 
 Connectivity
 ============
 
-There are many connectivity options available on the |product| industrial PC. It has 4 x USB ports, 1 x HDMI port, 2 x RJ45 connectors supporting Gigabit Ethernet (GbE), and up to 
-4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
+There are many connectivity options available on the |product| industrial PC. It has 4 x USB Type A connectors confugured as HOSTS, 1 x HDMI port, 2 x RJ45 connectors supporting 
+Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
 
 RS232/485/GPIO connectors
 -------------------------
@@ -244,9 +251,62 @@ terminals on the terminal block represents eight **GPIO** channels, labeled as *
    :figclass: align-center
    :name: F5
  
-   Connectivity Section: Two D-sub + 16-pin Double Row Terminal Block
+   Connectivity Section - 2 x D-sub Connectors & 16-pin Double-Row Pluggable Terminal Block
 
 .. Note::
 
     The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, please contact **Chipsee
     technical support**
+
+USB HOST Connnectors 
+--------------------
+
+|Product| has 3 x USB 2.0 interfaces and 1 x USB 3.0 interface. The USB connectors are configured as shown in :numref:`(Figure %s) <F6>`. The data throughput of the USB 3.0 
+interface can reach up to 4.8 Gbps, while the USB 2.0 interfaces are limited to 480 Mbps. The USB 3.0 interface provides 10 times more data transfer bandwidth than USB 2.0, 
+so it is best suited for fast peripherals that can utilize its full potential.
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-USB_272.png
+   :align: center
+   :figclass: align-center
+   :name: F6
+
+   USB HOST Connectors
+
+LAN Connector
+-------------
+
+|Product| has two RJ45 connectors that provide up to 1 Gbps data rates over Ethernet :numref:`(Figure %s) <F7>`. These GbE interfaces support some advanced features such as 
+auto-negotiation and Wake on LAN, but do not support Power over Ethernet (PoE).
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-LAN_300.png
+   :align: center
+   :figclass: align-center
+   :name: F7
+
+   RJ45 Ethernet Connectors
+
+HDMI Connector
+--------------
+
+The HDMI connector enables an external monitor to be connected. The HDMI output resolution can be configured by software. |Product| is equiped with 1 x HDMI 
+connector :numref:`(Figure %s) <F8>`. 
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-HDMI_200.png
+   :align: center
+   :figclass: align-center
+   :name: F8
+
+   HDMI Connector
+
+Mechanical Dimensions
+=====================
+
+The outer mechanical dimensions of |product| are 272 x 221 x 53mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified installation onto any standard vesa mounting rack. 
+Pleae refer to the technical drawing in the :numref:`(Figure %s) <F9>` for details related to the specific product measurements. 
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-TD_900.png
+   :align: center
+   :figclass: align-center
+   :name: F9
+
+   PPC-J1900-104-R Technical Drawing
