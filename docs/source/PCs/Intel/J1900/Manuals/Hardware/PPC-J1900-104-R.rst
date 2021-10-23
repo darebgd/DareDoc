@@ -101,9 +101,9 @@ Some of the key features are listed in the Table 1 below.
    <style type="text/css">
   .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
   .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 20px;word-break:normal;}
+    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 20px;word-break:normal;}
   .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:4px 20px;word-break:normal;}
+    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:6px 20px;word-break:normal;}
   .tg .tg-3zfw{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
     font-weight:bold;text-align:left;vertical-align:middle}
   .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
@@ -301,8 +301,8 @@ connector :numref:`(Figure %s) <F8>`.
 Mechanical Dimensions
 =====================
 
-The outer mechanical dimensions of |product| are 272 x 221 x 53mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified installation onto any standard vesa mounting rack. 
-Pleae refer to the technical drawing in the :numref:`(Figure %s) <F9>` for details related to the specific product measurements. 
+The outer mechanical dimensions of |product| are 272 x 221 x 53mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified 
+installation onto any standard VESA mounting rack. Please refer to the technical drawing in :numref:`(Figure %s) <F9>` for details related to the specific product measurements. 
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-TD_900.png
    :align: center
