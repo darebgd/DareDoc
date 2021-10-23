@@ -55,9 +55,9 @@ html_theme_options = {
     'prev_next_buttons_location': 'None',    
     'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 5,
+    'navigation_depth': 6,
     'includehidden': True,
-    'titles_only': False
+    
 }
 
 html_style = 'css/my_theme.css'
@@ -71,8 +71,8 @@ html_style = 'css/my_theme.css'
 html_static_path = ['_static']
 numfig = True
 numfig_format = {'figure': 'Figure %s:',
-                 'table': 'Table %s',
-                 'ode-block': 'Code %s',
+                 'table': 'Table %s:',
+                 'code-block': 'Code %s',
                 }
 #html_show_sphinx = False
 
@@ -86,12 +86,13 @@ rst_epilog = """
 
 .. |Cortex| replace:: Cortex\ :sup:`®`
 
-.. role:: underline
-    :class: underline
+.. |br| raw:: html 
+
+   <br>
 
 """
 
-#html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%b %d, %Y'
 #html_context = {
 #"display_github": True, # Add 'Edit on Github' link instead of 'View page source'
 #"commit": False,

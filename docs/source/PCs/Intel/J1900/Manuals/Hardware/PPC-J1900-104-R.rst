@@ -4,26 +4,28 @@
 
 .. _PPC-J1900-104-R:
 
-PPC-J1900-104-R User Manual
+|product| User Manual
 ###########################
 
 .. rubric:: *Version 1.0*
 
-| 
+|
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
    :align: center
    :figclass: align-center
  
    Front View
- 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front_690.png
+
+|    
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear_690.png
    :align: center
    :figclass: align-center
 
    Back View   
 
-
+|   
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side_800.png
   :align: center
@@ -31,7 +33,7 @@ PPC-J1900-104-R User Manual
  
   Side View
 
-|    
+|      
 
 .. contents:: Table of Contents
    :depth: 3
@@ -51,8 +53,9 @@ The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, hi
 requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
 noise and maintenance efforts. while increasng reliability.
 
-.. caution::   
-   Be careful when handling the product during operation: the back panel can become hot under heavy CPU load.
+.. caution::
+
+   Be careful when handling the product while it is running: the back panel might become hot under heavy CPU load.
 
 Ordering Options
 =================
@@ -74,6 +77,7 @@ currently available at the Chipsee store. They can be obrained from third-party 
 peripherals and the installation procedure can be found in *chapter XXX* of this manual.
 
 .. warning::   
+
    | Installation, repair, and maintenance tasks should be performed by trained personnel only.
    | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
 
@@ -108,7 +112,7 @@ Some of the key features are listed in the Table 1 below.
   <thead>
     <caption style="caption-side:bottom;text-align:center;padding:8px">Table 1: <i>Key Features</i></caption>
     <tr>
-      <th class="tg-71e5" colspan="2">Key Features:</th>
+      <th class="tg-71e5" colspan="2">PPC-J1900-104-R</th>
     </tr>
   </thead>
   <tbody>
@@ -192,24 +196,22 @@ Some of the key features are listed in the Table 1 below.
 Power Input Connector
 ---------------------
 
-The |product| can operate using a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal *(Figure 3)*.
-The polarity of the power connector is clearly labeled on the housing itself: the '+' sign is a positive power input, while the '-' sign is a negative power input.
-The shutdown button is located next to the power input connector and can be used to turn the power ON or OFF. 
+The |product| industrial PC can use a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal :numref:`(Figure %s) <F4>`.
+The polarity of the power connector is clearly labeled on the housing itself: the '+' sign is the positive, while the '-' sign is the negative power supply input.
+The shutdown button is located next to the power input connector and can be used to switch the power ON or OFF.
 
 .. Figure:: /Media/Intel/J1900/PPC-J1900-104-Power_650.png
   :align: center
-  :scale: 75%
   :figclass: align-center
+  :name: F4
 
-  Power Input section
+  Power Input section 
 
-Resisve Touch
--------------
+Resisve Touch Panel
+-------------------
 
-The resistive touch-display is an ideal option for harsh industrial conditons. It is material-independent and the display can be operated by any material
-(regular rubber gloves, fingers, plastic stylus)
-
-| The |product| is equipped with the high temperature resistant five-wire analog resistvie touch panel:
+|product| is equipped with the five-wire resistive touch panel. The resistive touch panel is an ideal option in harsh industrial condition, due to its high immunity 
+against high temperatures, dirt, and dust. It can be operated by an object made of any material, including regular rubber gloves, fingers, or a plastic stylus.
 
 
 .. container:: hatnote hatnote-yellow
@@ -220,7 +222,31 @@ The resistive touch-display is an ideal option for harsh industrial conditons. I
   **Service Life:** 35 million touch events |br|
   **Light Transmittance:** > 81%
 
-.. |br| raw:: html 
+\  
 
-   <br>
+Connectivity
+============
 
+There are many connectivity options available on the |product| industrial PC. It has 4 x USB ports, 1 x HDMI port, 2 x RJ45 connectors supporting Gigabit Ethernet (GbE), and up to 
+4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
+
+RS232/485/GPIO connectors
+-------------------------
+
+The |product| industrial PC has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.5mm double-row pluggable terminal block :numref:`(Figure %s) <F5>`. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
+be configured either as RS232 or RS485 communication interfaces.
+
+The bottom row of terminals on the terminal block is labeled as **COM3/4**. These terminals are configured as two additional RS232 interfaces by default. The upper row of 
+terminals on the terminal block represents eight **GPIO** channels, labeled as **GPIO (0 ... 7)**. 
+
+.. figure:: /Media/Intel/J1900/PPC-J1900-104-Con_950.png
+   :align: center
+   :figclass: align-center
+   :name: F5
+ 
+   Connectivity Section: Two D-sub + 16-pin Double Row Terminal Block
+
+.. Note::
+
+    The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, please contact **Chipsee
+    technical support**
