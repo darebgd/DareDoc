@@ -272,11 +272,13 @@ so it is best suited for fast peripherals that can utilize its full potential.
 
    USB HOST Connectors
 
-LAN Connector
--------------
+RJ45 Ethernet Connectors
+------------------------
 
-|Product| has two RJ45 connectors that provide up to 1 Gbps data rates over Ethernet :numref:`(Figure %s) <F7>`. These GbE interfaces support some advanced features such as 
-auto-negotiation and Wake on LAN, but do not support Power over Ethernet (PoE).
+
+|Product| has two RJ45 Ethernet connectors that enable LAN or Internet connection via standard Ethernet cables :numref:`(Figure %s) <F7>`. To achieve full GbE data 
+throughput, please use CAT 5E Ethernet cables with the maxumum lenght supported by the standard (100m). The |product|'s Ethernet dual-port interface supports auto-speed
+negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-LAN_300.png
    :align: center
@@ -310,3 +312,32 @@ installation onto any standard VESA mounting rack. Please refer to the technical
    :name: F9
 
    PPC-J1900-104-R Technical Drawing
+
+How to Get Support
+==================
+
+Please feel free to contact us with any questions, queries or suggestions. If your question is about technical support or troubleshooting for one of our products, 
+we kindly ask you to first check our documentation for a possible solution. If you cannot find the solution you are looking for then please write to 
+service@chipsee.com providing all available details for easier troubleshooting.
+
+|
+|
+|
+
+.. image:: /Media/Chipsee_Logo_900.jpg
+  :align: center
+
+|
+|
+|
+
+.. container:: hatnote hatnote-red
+  
+  |br|
+  **LEGAL NOTICE:**
+  
+  Chipsee assumes no responsibility for any errors, which may appear in this manual. Furthermore, Chipsee reserves the right to alter the hardware, software, and/or 
+  specifications detailed herein at any time without prior notice and does not make any commitment to update the information contained herein. |br| |br|
+  Chipsee products are not authorized for use as critical components in life support devices or systems. |br|
+
+\
