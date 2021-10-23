@@ -58,11 +58,11 @@ Product Overview
 The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a resistive 10.4" |IP65| touch-sensitive LCD with Full HD resolution 
 (1920 x 1080px). |product| is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
 requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
-noise and maintenance efforts. while increasng reliability.
+noise and maintenance efforts, while increasng reliability.
 
 .. caution::
 
-   Be careful when handling the product while it is running: the back panel might become hot under heavy CPU load.
+   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.
 
 Ordering Options
 =================
