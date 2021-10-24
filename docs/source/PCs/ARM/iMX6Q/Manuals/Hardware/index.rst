@@ -13,9 +13,8 @@ Hardware Documentation
    +-----------------+------------------------------------------------------------------------+
 
 .. |CS10600F070| image:: /Media/ARM/A9/CS10600F070_Front_Small.png
-   :width: 80
-   :class: no-scaled-link
-   :target: CS10600F070.html
+    :class: no-scaled-link
+    :target: CS10600F070.html
 
 .. table::
    :widths: 20 90
@@ -29,7 +28,6 @@ Hardware Documentation
    +-----------------+-----------------------------------------------------------------------+
 
 .. |CS10768F097| image:: /Media/ARM/A9/CS10768F097_Front_Small.png
-   :width: 80
    :class: no-scaled-link
    :target: CS10768F097.html
 

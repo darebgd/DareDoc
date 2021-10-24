@@ -45,7 +45,7 @@ Hardware Documentation
 
 .. |logo| image:: /Media/Chipsee_Logo_Sign_Small.png
    :class: no-scaled-link
-   :target: PPC-J1900-133-C.html
+   :target: Support.html
 
 
 
