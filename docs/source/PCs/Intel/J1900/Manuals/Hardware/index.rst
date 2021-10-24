@@ -5,7 +5,7 @@ Hardware Documentation
    :widths: 20 90
 
    +-----------------+------------------------------------------------------------------------+
-   | |PPC-J1900-104| |   :ref:`PPC-J1900-104-R`  |br| |br|                                    |
+   | |PPC-J1900-104| |   :ref:`PPC-J1900-104-R User Manual <PPC-J1900-104-R>` |br| |br|       |
    |                 |                                                                        |                                 
    |                 |   10.4", 1920x1080, resistive, 4GB RAM, SATA 1TB 2.5" HDD |br|         |
    |                 |                                                                        |
@@ -20,7 +20,7 @@ Hardware Documentation
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   :hidden:
+   :numbered:
 
    PPC-J1900-104-R
-
+   PPC-J1900-133-C

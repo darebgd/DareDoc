@@ -1,10 +1,10 @@
-.. |product| replace:: PPC-J1900-104-R
+.. |product| replace:: PPC-J1900-133-C
 
-.. |Product| replace:: The |product| industrial PC  
+.. |Product| replace:: The |product| industrial PC 
 
-.. |IP65| replace:: IP65-compliant 
+.. |IP65| replace:: IP65-compliant  
 
-.. _PPC-J1900-104-R:
+.. _PPC-J1900-133-C:
 
 |product| User Manual
 #####################
@@ -43,7 +43,7 @@
 Product Overview
 =================
 
-The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a resistive 10.4" |IP65| touch-sensitive LCD with Full HD 
+The PPC-j1900 series :ref:`PPC-J1900-133-C <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a multi-point capacitive 13.3" |IP65| touch-sensitive LCD with Full HD 
 resolution (1920 x 1080px). |product| is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
 requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
 noise and maintenance efforts, while increasng reliability.
@@ -56,7 +56,7 @@ Ordering Options
 =================
 
 Most of the Chipsee products can be customized during the ordering process. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
-The :ref:`table below <T104>` provides information about the default options that will be shipped with the product.
+The :ref:`table below <T133>` provides information about the default options that will be shipped with the product.
 
 Operating System
 -----------------
@@ -67,15 +67,14 @@ of Linux OS. The OS can be selected during the ordering process.
 Optional Peripherals
 --------------------
 
-The Wi-Fi/BT and/or 3G/4G modules are not included with |product| by default. The Wi-Fi/BT module is optional and can be selected during the ordering process. 
-3G/4G LTE and similar modules are not currently available at the Chipsee store for this product. However, they can be obrained from the specialized third-party suppliers.
+The Wi-Fi/BT and/or the 3G/4G modules are not included with the |product| by default. These modules are optional and can be selected during the ordering process.
 
 .. warning::   
 
    | Installation, repair, and maintenance tasks should be performed by trained personnel only.
    | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
 
-.. _T104:
+.. _T133:
 
 Hardware Features
 =================
@@ -105,7 +104,7 @@ Some of the key features are listed in the table below.
   <table class="tg">
   <thead>
     <tr>
-      <th class="tg-71e5" colspan="2">PPC-J1900-104-R</th>
+      <th class="tg-71e5" colspan="2">PPC-J1900-133-C</th>
     </tr>
   </thead>
   <tbody>
@@ -123,7 +122,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">Display</td>
-      <td class="tg-0bqc">10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m<sup>2</sup></td>
+      <td class="tg-0bqc">13.3" LCD, resolution 1024 x 768px, brightness 300 cd/m<sup>2</sup></td>
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
@@ -131,7 +130,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">Touch</td>
-      <td class="tg-0bqc">High temperature, five-wire resistive touch panel</td>
+      <td class="tg-0bqc">Multi-point capacitive touch panel</td>
     </tr>
     <tr>
       <td class="tg-3zfw">USB</td>
@@ -179,11 +178,11 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">Dimensions</td>
-      <td class="tg-0bqc">272 x 221 x 53mm</td>
+      <td class="tg-0bqc">355 x 255 x 55mm</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Weight</td>
-      <td class="tg-0bqc">2300g</td>
+      <td class="tg-0bqc">3000g</td>
     </tr>
   </tbody>
   </table>
@@ -193,31 +192,30 @@ Some of the key features are listed in the table below.
 Power Input Connector
 ---------------------
 
-The |product| industrial PC can use a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal :numref:`(Figure %s) <F4>`.
+The |product| industrial PC can use a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal :numref:`(Figure %s) <E4>`.
 The polarity of the power connector is clearly labeled on the housing itself: the '+' sign is the positive, while the '-' sign is the negative power supply input.
 The shutdown button is located next to the power input connector and can be used to switch the power ON or OFF.
 
 .. Figure:: /Media/Intel/J1900/PPC-J1900-104-Power_650.png
   :align: center
   :figclass: align-center
-  :name: F4
+  :name: E4
 
   Power Input section 
 
-Resisve Touch Panel
--------------------
+Capacitive Touch Panel
+----------------------
 
-|product| is equipped with the five-wire resistive touch panel. The resistive touch panel is an ideal option in harsh industrial condition, due to its high immunity 
-against high temperatures, dirt, and dust. It can be operated by an object made of any material, including regular rubber gloves, fingers, or a plastic stylus.
-
+|product| is equipped with a multi-point capacitive touch panel. Its multi-point touch detection capability can facilitate some advanced GUI operations, such as two-finger
+zooming or rotation (depending on the software). It can be operated by fingers, gloves with a special conductive coating, or a pen stylus designed for capacitive touch panels.
 
 .. container:: hatnote hatnote-yellow
 
   |br|
-  **Size/Type:** 10.4" high temperature-resistant resistive touch panel |br|
-  **Surface Strength:** 3H |br|
-  **Service Life:** 35 million touch events |br|
-  **Light Transmittance:** > 81%
+  **Size/Type:** 13.3" multi-point capacitive touch panel |br|
+  **Surface Strength:** 7H |br|
+  **Service Life:** 50 million touch events |br|
+  **Light Transmittance:** > 92%
 
 \  
 
@@ -230,7 +228,7 @@ Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be conf
 RS232/485/GPIO connectors
 -------------------------
 
-The |product| industrial PC has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.5mm double-row pluggable terminal block :numref:`(Figure %s) <F5>`. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
+The |product| industrial PC has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.5mm double-row pluggable terminal block :numref:`(Figure %s) <E5>`. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
 be configured either as RS232 or RS485 communication interfaces.
 
 The bottom row of terminals on the terminal block is labeled as **COM3/4**. These terminals are configured as two additional RS232 interfaces by default. The upper row of 
@@ -239,7 +237,7 @@ terminals on the terminal block represents eight **GPIO** channels, labeled as *
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-Con_950.png
    :align: center
    :figclass: align-center
-   :name: F5
+   :name: E5
  
    Connectivity Section - 2 x D-sub Connectors & 16-pin Double-Row Pluggable Terminal Block
 
@@ -251,28 +249,28 @@ terminals on the terminal block represents eight **GPIO** channels, labeled as *
 USB HOST Connnectors 
 --------------------
 
-|Product| has 3 x USB 2.0 interfaces and 1 x USB 3.0 interface. The USB connectors are configured as shown in :numref:`(Figure %s) <F6>`. The data throughput of the USB 3.0 
+|Product| has 3 x USB 2.0 interfaces and 1 x USB 3.0 interface. The USB connectors are configured as shown in :numref:`(Figure %s) <E6>`. The data throughput of the USB 3.0 
 interface can reach up to 4.8 Gbps, while the USB 2.0 interfaces are limited to 480 Mbps. The USB 3.0 interface provides 10 times more data transfer bandwidth than USB 2.0, 
 so it is best suited for fast peripherals that can utilize its full potential.
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-USB_272.png
    :align: center
    :figclass: align-center
-   :name: F6
+   :name: E6
 
    USB HOST Connectors
 
 LAN Connectors
 ---------------
 
-|Product| has two RJ45 connectors that enable LAN or Internet connection over standard Ethernet cables :numref:`(Figure %s) <F7>`. To achieve full GbE data 
+|Product| has two RJ45 connectors that enable LAN or Internet connection over standard Ethernet cables :numref:`(Figure %s) <E7>`. To achieve full GbE data 
 throughput, please use CAT 5E Ethernet cables up to maxumum lenght supported by the standard (100m). The integrated Ethernet dual-port interface supports auto-speed
 negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-LAN_300.png
    :align: center
    :figclass: align-center
-   :name: F7
+   :name: E7
 
    RJ45 LAN Connectors
 
@@ -280,25 +278,25 @@ HDMI Connector
 --------------
 
 The HDMI connector enables an external monitor to be connected. The HDMI output resolution can be configured by software. |Product| is equiped with 1 x HDMI 
-connector :numref:`(Figure %s) <F8>`. 
+connector :numref:`(Figure %s) <E8>`. 
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-HDMI_200.png
    :align: center
    :figclass: align-center
-   :name: F8
+   :name: E8
 
    HDMI Connector
 
 Mechanical Dimensions
 =====================
 
-The outer mechanical dimensions of |product| are 272 x 221 x 53mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified 
-installation onto any standard VESA mounting rack. Please refer to the technical drawing in :numref:`(Figure %s) <F9>` for details related to the specific product measurements. 
+The outer mechanical dimensions of |product| are 355 x 255 x 55mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified 
+installation onto any standard VESA mounting rack. Please refer to the technical drawing in :numref:`(Figure %s) <E9>` for details related to the specific product measurements. 
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-TD_900.png
    :align: center
    :figclass: align-center
-   :name: F9
+   :name: E9
 
    PPC-J1900-104-R Technical Drawing
 

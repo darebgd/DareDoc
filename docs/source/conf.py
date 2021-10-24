@@ -76,6 +76,8 @@ numfig_format = {'figure': 'Figure %s:',
                 }
 #html_show_sphinx = False
 
+numfig_secnum_depth = 2
+
 rst_epilog = """
 
 .. |Intel| replace:: Intel\ :sup:`®`

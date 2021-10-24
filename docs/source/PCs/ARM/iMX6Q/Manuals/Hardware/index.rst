@@ -5,7 +5,7 @@ Hardware Documentation
    :widths: 20 90
 
    +-----------------+------------------------------------------------------------------------+
-   | |CS10600F070|   |   :ref:`CS10600F070`  |br| |br|                                        |
+   | |CS10600F070|   |   :ref:`EPC/PPC-A9-70-C <CS10600F070>`  |br| |br|                      |
    |                 |                                                                        |                                 
    |                 |   7.0", 1024x600, Capacitive, 2GB RAM, 8GB Flash Memory  |br|          |
    |                 |                                                                        |
