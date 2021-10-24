@@ -2,7 +2,7 @@ Hardware Documentation
 ======================
 
 .. table::
-   :widths: 10 60
+   :widths: 10 60 
    
    +-------------------+------------------------------------------------------------------------+
    |  |PPC-J1900-104|  |   :ref:`PPC-J1900-104-R User Manual <PPC-J1900-104-R>` |br| |br|       |
@@ -36,7 +36,7 @@ Hardware Documentation
    :widths: 10 60
 
    +-------------------+------------------------------------------------------------------------+
-   |       |logo|      |   :ref:`How to Get in Touch with the Chipsee Support <support>` |br|   |
+   |       |logo|      |   :ref:`Get in Touch with the Chipsee Support <support>` |br|          |
    |                   |                                                                        |                                 
    |                   |                                                                        |
    |                   |                                                                        |
@@ -61,3 +61,4 @@ Hardware Documentation
 
    PPC-J1900-104-R
    PPC-J1900-133-C
+   Support

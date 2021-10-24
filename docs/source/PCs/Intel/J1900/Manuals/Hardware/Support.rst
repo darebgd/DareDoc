@@ -1,7 +1,7 @@
 .. _support:
 
-How to Get Support
-##################
+Chipsee Support
+###############
 
 
 Please feel free to contact us with any questions, queries or suggestions. If your question is about technical support or troubleshooting for one of our products, 
