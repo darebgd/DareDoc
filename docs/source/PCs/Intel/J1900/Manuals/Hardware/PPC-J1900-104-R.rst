@@ -15,7 +15,6 @@
 
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
    :align: center
-   :scale: 30
    :class: no-scaled-link
 
 .. centered:: *Top View*
@@ -24,7 +23,6 @@
 
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
    :align: center
-   :scale: 30
    :class: no-scaled-link
 
 .. centered:: *Back View*
@@ -33,7 +31,6 @@
 
 .. image:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
   :align: center
-  :scale: 35
   :class: no-scaled-link
   
 .. centered:: *Side View*
