@@ -14,31 +14,26 @@
 |
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
-   :align: center
-   :scale: 35
    :figclass: align-center
-   
- 
-   Front View
+   :class: no-scaled-link
+
+   Top View
 
 |    
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
-   :align: center
-   :scale: 35
-   
+   :figclass: align-center
+   :class: no-scaled-link
 
    Back View   
 
 |   
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
-  :align: center
-  :scale: 40
-  :figclass: align-center
-  
- 
-  Side View
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Side View
 
 Product Overview
 =================
@@ -321,10 +316,10 @@ service@chipsee.com providing all available details for easier troubleshooting.
 .. container:: hatnote hatnote-red
   
   |br|
-  **LEGAL NOTICE:**
+  **Disclaimer:**
   
-  Chipsee assumes no responsibility for any errors, which may appear in this manual. Furthermore, Chipsee reserves the right to alter the hardware, software, and/or 
-  specifications detailed herein at any time without prior notice and does not make any commitment to update the information contained herein. |br| |br|
+  Chipsee assumes no responsibility for any errors that may occur in this manual. Furthermore, Chipsee reserves the right to change the hardware, software, 
+  and/or specifications set forth herein at any time without prior notice and undertakes no obligation to update the information contained in this document. |br| |br|
   Chipsee products are not authorized for use as critical components in life support devices or systems. |br|
 
 \
