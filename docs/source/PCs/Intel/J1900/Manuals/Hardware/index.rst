@@ -21,6 +21,7 @@ Hardware Documentation
    :maxdepth: 1
    :titlesonly:
    :numbered:
+   :hidden:
 
    PPC-J1900-104-R
    PPC-J1900-133-C
