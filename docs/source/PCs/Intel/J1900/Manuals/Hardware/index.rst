@@ -23,7 +23,7 @@ Hardware Documentation
    +-----------------+------------------------------------------------------------------------+
    | |PPC-J1900-133| |   :ref:`PPC-J1900-133-C User Manual <PPC-J1900-133-C>` |br| |br|       |
    |                 |                                                                        |                                 
-   |                 |   13.3", 1920x1080, resistive, 4GB RAM, SATA 1TB 2.5" HDD |br|         |
+   |                 |   13.3", 1920x1080, capacitive, 4GB RAM, SATA 1TB 2.5" HDD |br|        |
    |                 |                                                                        |
    |                 |   WiFi/WAN (optional), Panel version only                              |
    +-----------------+------------------------------------------------------------------------+
