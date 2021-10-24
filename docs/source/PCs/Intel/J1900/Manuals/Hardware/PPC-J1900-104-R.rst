@@ -13,32 +13,32 @@
 
 |
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
+.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
    :align: center
-   :scale: 35
-   :figclass: align-center
-   
- 
-   Front View
+   :scale: 30
+   :class: no-scaled-link
 
-|    
+.. centered:: *Top View*
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
+|
+
+.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
    :align: center
-   :scale: 35
-   
+   :scale: 30
+   :class: no-scaled-link
 
-   Back View   
+.. centered:: *Back View*
 
 |   
 
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
+.. image:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
   :align: center
-  :scale: 40
-  :figclass: align-center
+  :scale: 35
+  :class: no-scaled-link
   
- 
-  Side View
+.. centered:: *Side View*
+
+| 
 
 Product Overview
 =================
