@@ -1,21 +1,38 @@
 Hardware Documentation
 ######################
 
-+-----------------+------------------------------------------------------------+
-|  |CS10600F070|  | | :ref:`CS10600F070`                                       |
-|                 |                                                            |                                 
-|                 | 7.0", 1024x600, Capacitive, 2GB RAM, 8GB Flash Memory      |
-|                 |                                                            |
-|                 | WiFi (optional), Embedded/Panel version available          |
-+-----------------+------------------------------------------------------------+
+.. table::
+   :widths: 20 90
 
-+-----------------+------------------------------------------------------------+
-|  |CS10768F097|  | | :ref:`CS10768F097`                                       |
-|                 |                                                            |                                 
-|                 | 9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash Memory      |
-|                 |                                                            |
-|                 | WiFi & 4G (optional), Embedded/Panel versions available    |
-+-----------------+------------------------------------------------------------+
+   +-----------------+------------------------------------------------------------------------+
+   | |CS10600F070|   |   :ref:`CS10600F070`  |br| |br|                                        |
+   |                 |                                                                        |                                 
+   |                 |   7.0", 1024x600, Capacitive, 2GB RAM, 8GB Flash Memory  |br|          |
+   |                 |                                                                        |
+   |                 |   WiFi (optional), Embedded/Panel version available                    |
+   +-----------------+------------------------------------------------------------------------+
+
+.. |CS10600F070| image:: /Media/ARM/A9/CS10600F070_Front_Small.png
+   :width: 80
+   :class: no-scaled-link
+   :target: CS10600F070.html
+
+.. table::
+   :widths: 20 90
+   
+   +-----------------+-----------------------------------------------------------------------+
+   |  |CS10768F097|  |   :ref:`CS10768F097` |br| |br|                                        |
+   |                 |                                                                       |                                 
+   |                 |   9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash Memory |br|          |
+   |                 |                                                                       |
+   |                 |   WiFi & 4G (optional), Embedded/Panel versions available             |
+   +-----------------+-----------------------------------------------------------------------+
+
+.. |CS10768F097| image:: /Media/ARM/A9/CS10768F097_Front_Small.png
+   :width: 80
+   :class: no-scaled-link
+   :target: CS10768F097.html
+
 
 | :ref:`CS10768F097`
 | - 9.7", 1024x768, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Embedded/Panel
@@ -42,12 +59,7 @@ Hardware Documentation
 | - 21.5", 1920x1080, Capacitive, 2GB RAM, 8GB Flash, WiFi & 4G (optional), Panel only
 
 
-.. |CS10600F070| image:: /Media/ARM/A9/CS10600F070_Front_Small.png
-   :class: no-scaled-link
 
-.. |CS10768F097| image:: /Media/ARM/A9/CS10768F097_Front_Small.png
-   :width: 80
-   :class: no-scaled-link
 
 .. toctree::
    :maxdepth: 1

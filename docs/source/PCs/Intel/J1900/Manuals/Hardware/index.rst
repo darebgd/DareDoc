@@ -15,6 +15,7 @@ Hardware Documentation
 .. |PPC-J1900-104| image:: /Media/Intel/J1900/PPC-J1900-104-R_Front_Small.png
    :width: 80
    :class: no-scaled-link
+   :target: PPC-J1900-104-R.html
    
 .. toctree::
    :maxdepth: 1
