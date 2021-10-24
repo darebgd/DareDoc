@@ -272,12 +272,11 @@ so it is best suited for fast peripherals that can utilize its full potential.
 
    USB HOST Connectors
 
-RJ45 Ethernet Connectors
-------------------------
+LAN Connectors
+---------------
 
-
-|Product| has two RJ45 Ethernet connectors that enable LAN or Internet connection via standard Ethernet cables :numref:`(Figure %s) <F7>`. To achieve full GbE data 
-throughput, please use CAT 5E Ethernet cables with the maxumum lenght supported by the standard (100m). The integrated Ethernet dual-port interface supports auto-speed
+|Product| has two RJ45 connectors that enable LAN or Internet connection over standard Ethernet cables :numref:`(Figure %s) <F7>`. To achieve full GbE data 
+throughput, please use CAT 5E Ethernet cables up to maxumum lenght supported by the standard (100m). The integrated Ethernet dual-port interface supports auto-speed
 negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-104-LAN_300.png
@@ -285,7 +284,7 @@ negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
    :figclass: align-center
    :name: F7
 
-   RJ45 Ethernet Connectors
+   RJ45 LAN Connectors
 
 HDMI Connector
 --------------
