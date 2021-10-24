@@ -32,6 +32,23 @@ Hardware Documentation
    :target: PPC-J1900-133-C.html
 
 
+.. table::
+   :widths: 10 60
+
+   +-------------------+------------------------------------------------------------------------+
+   |       |logo|      |   :ref:`How to Get in Touch with the Chipsee Support <support>` |br|   |
+   |                   |                                                                        |                                 
+   |                   |                                                                        |
+   |                   |                                                                        |
+   |                   |                                                                        |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |logo| image:: /Media/Chipsee_Logo_Sign_Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-133-C.html
+
+
+
 
 
 
