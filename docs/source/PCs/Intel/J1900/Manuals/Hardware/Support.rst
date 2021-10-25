@@ -1,12 +1,15 @@
 .. _support:
 
-Chipsee Support
-###############
+Chipsee Technical Support
+#########################
 
+.. _email: service@chipsee.com
 
-Please feel free to contact us with any questions, queries or suggestions. If your question is about technical support or troubleshooting for one of our products, 
-we kindly ask you to first check our documentation for a possible solution. If you cannot find the solution you are looking for then please write to 
-service@chipsee.com providing all available details for easier troubleshooting.
+.. |email| replace:: **service@chipsee.com**
+
+Feel free to contact us with any questions, inquiries, or suggestions. If your question is about technical support or troubleshooting one of the products, 
+try looking for a possible answer in the documentation first. If you are still unable to find a solution, contact our technical support at |email|_, 
+providing as much information as possible regarding the problem you are facing.
 
 |
 |

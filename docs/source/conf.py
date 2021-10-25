@@ -92,6 +92,14 @@ rst_epilog = """
 
    <br>
 
+.. _cstore: https://chipsee.com/
+
+.. |cstore| replace:: **Chipsee Store**
+
+.. _mguide: https://chipsee.com/mount-ipc-guide/
+
+.. |mguide| replace:: **Mount IPC Guide**
+
 """
 
 html_last_updated_fmt = '%b %d, %Y'
