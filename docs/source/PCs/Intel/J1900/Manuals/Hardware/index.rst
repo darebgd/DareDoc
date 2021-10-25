@@ -7,7 +7,7 @@ Hardware Documentation
    +-------------------+------------------------------------------------------------------------+
    |  |PPC-J1900-101|  |   :ref:`PPC-J1900-101-C User Manual <PPC-J1900-101-C>` |br| |br|       |
    |                   |                                                                        |                                 
-   |                   |   10.1", 1920x1080, resistive, 4GB RAM, 64GB SSD |br|                  | 
+   |                   |   10.1", 1920x1080, capacitive, 4GB RAM, 64GB SSD |br|                 | 
    |                   |                                                                        |
    |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
    +-------------------+------------------------------------------------------------------------+
@@ -77,4 +77,4 @@ Hardware Documentation
    PPC-J1900-101-C
    PPC-J1900-104-R
    PPC-J1900-133-C
-   Support
+   Technical Support <Support>

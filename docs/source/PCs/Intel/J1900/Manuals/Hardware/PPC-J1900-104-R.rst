@@ -51,7 +51,7 @@ The :ref:`table below <T104>` provides information about the default options tha
 
 .. Tip::
   
-  You can order |Product| from the official |cstore|_ or from your nearest distributor
+  You can order |Product| from the official |cstore|_ or from your nearest distributor.
  
 
 Operating System
