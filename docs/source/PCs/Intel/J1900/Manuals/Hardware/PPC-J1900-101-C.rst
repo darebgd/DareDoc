@@ -40,26 +40,12 @@
 .. include:: Resources/opt_features_1
 
 .. include:: Resources/HW_features
-  
+
+.. raw:: html
+  :file: Resources/table_style.html
+
 .. raw:: html
 
-   <style type="text/css">
-  .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
-  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 20px;word-break:normal;}
-  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:6px 20px;word-break:normal;}
-  .tg .tg-3zfw{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
-    font-weight:bold;text-align:left;vertical-align:middle}
-  .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
-    text-align:middle;vertical-align:middle}
-   .tg .tg-71e5{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
-   text-align:middle;vertical-align:middle; padding:6px}
-  .tg .tg-nwbp{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
-    text-align:left;vertical-align:middle}
-  .tg .tg-0bqc{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;text-align:left;
-    vertical-align:middle}
-  </style>
   <table class="tg">
   <thead>
     <tr>
