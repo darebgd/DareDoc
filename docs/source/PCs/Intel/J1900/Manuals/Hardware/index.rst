@@ -91,6 +91,36 @@ Hardware Documentation
    :class: no-scaled-link
    :target: PPC-J1900-133-C.html
 
+.. table::
+   :widths: 10 40
+
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-150|  |   :ref:`PPC-J1900-150-C User Manual <PPC-J1900-150-C>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   15.0", 1024x768, capacitive, 4GB RAM, 64GB SSD |br|                  |
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-150| image:: /Media/Intel/J1900/150/PPC-J1900-150-C-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-150-C.html
+
+.. table::
+   :widths: 10 40
+
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-156|  |   :ref:`PPC-J1900-156-C User Manual <PPC-J1900-156-C>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   15.6", 1366x768, capacitive, 4GB RAM, 64GB SSD |br|                  |
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-156| image:: /Media/Intel/J1900/156/PPC-J1900-156-C-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-156-C.html
+
 .. toctree::
    :maxdepth: 1
    :titlesonly:
@@ -103,3 +133,5 @@ Hardware Documentation
    PPC-J1900-190-R
    PPC-J1900-101-C
    PPC-J1900-133-C
+   PPC-J1900-150-C
+   PPC-J1900-156-C
