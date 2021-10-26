@@ -5,7 +5,7 @@ Power Input Connector
 The polarity of the power connector is clearly labeled on the housing itself: the '**+**' sign is the positive, while the '**-**' sign is the negative power supply input.
 The power button is located next to the power input connector and can be used to switch the power ON or OFF.
 
-.. Figure:: /Media/Intel/J1900/104/PPC-J1900-104-Power.png
+.. Figure:: /Media/Intel/J1900/J1900_IO/PPC-J1900-Power.png
   :align: center
   :figclass: align-center
 

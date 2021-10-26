@@ -7,7 +7,7 @@ defined by the standard.
 The integrated two-port Ethernet interface supports automatic speed negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
 
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-LAN.png
+.. figure:: /Media/Intel/J1900/J1900_IO/PPC-J1900-LAN.png
    :align: center
    :figclass: align-center
 

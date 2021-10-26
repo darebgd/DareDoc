@@ -13,7 +13,7 @@ be configured either as RS232 or RS485 communication interfaces.
 The bottom row of terminals on the terminal block is labeled as **COM3/4**. These terminals are configured as two additional RS232 interfaces by default. The upper row of 
 terminals on the terminal block represents eight **GPIO** channels, labeled as **GPIO (0 ... 7)**. 
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-Con.png
+.. figure:: /Media/Intel/J1900/J1900_IO/PPC-J1900-Con.png
    :align: center
    :figclass: align-center
  
