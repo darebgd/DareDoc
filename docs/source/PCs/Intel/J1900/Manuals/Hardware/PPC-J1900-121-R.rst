@@ -1,33 +1,33 @@
-.. |product| replace:: PPC-J1900-104-R
+.. |product| replace:: PPC-J1900-121-R
 
 .. |Product| replace:: The |product| industrial panel PC 
 
-.. |dispsize| replace:: 10.4" 
+.. |dispsize| replace:: 12.1" 
 
 .. |disp_des| replace:: |dispsize| resistive touch screen with a resolution of 1024 x 768px
 
-.. |dim| replace:: 272 x 221 x 53mm
+.. |dim| replace:: 322 × 254 × 53mm
 
-.. _PPC-J1900-104-R:
+.. _PPC-J1900-121-R:
 
 |product| User Manual
 #####################
 
 .. rubric:: *Version 1.0*
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Front.jpg
+.. figure:: /Media/Intel/J1900/121/PPC-J1900-121-R-Front.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Top View
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Back.jpg
+.. figure:: /Media/Intel/J1900/121/PPC-J1900-121-R-Back.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Back View
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Side.jpg
+.. figure:: /Media/Intel/J1900/121/PPC-J1900-121-R-Side.jpg
    :figclass: align-center
    :class: no-scaled-link
   
@@ -63,7 +63,7 @@
   <table class="tg">
   <thead>
     <tr>
-      <th class="tg-71e5" colspan="2">PPC-J1900-104-R</th>
+      <th class="tg-71e5" colspan="2">PPC-J1900-121-R</th>
     </tr>
   </thead>
   <tbody>
@@ -81,11 +81,11 @@
     </tr>
     <tr>
       <td class="tg-71e3">Display</td>
-      <td class="tg-0bqc">10.4" LCD, resolution 1024 x 768px, brightness 400 cd/m<sup>2</sup></td>
+      <td class="tg-0bqc">12.1" LCD, resolution 1024 x 768px, brightness 350 cd/m<sup>2</sup></td>
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
-      <td class="tg-nwbp">Default mSATA 64GB SSD ,supports up to 512GB</td>
+      <td class="tg-nwbp">Default mSATA 64GB SSD (supports up to 512GB)</td>
     </tr>
     <tr>
       <td class="tg-71e3">Touch</td>
@@ -129,7 +129,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Power Consumption</td>
-      <td class="tg-0bqc">17W.4</td>
+      <td class="tg-0bqc">20.5W</td>
     </tr>
     <tr>
       <td class="tg-3zfw">OS</td>
@@ -141,7 +141,7 @@
     </tr>
     <tr>
       <td class="tg-3zfw">Dimensions</td>
-      <td class="tg-nwbp">272 x 221 x 53mm</td>
+      <td class="tg-nwbp">322 × 254 × 53mm</td>
     </tr>
     <tr>
       <td class="tg-71e3">Mounting</td>
@@ -149,7 +149,7 @@
     </tr>
     <tr>
       <td class="tg-3zfw">Weight</td>
-      <td class="tg-nwbp">2300g</td>
+      <td class="tg-nwbp">3000g</td>
     </tr>
   </tbody>
   </table>
@@ -172,10 +172,10 @@
 
 .. include:: Resources/mechspecs
 
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-TD.jpg
+.. figure:: /Media/Intel/J1900/121/PPC-J1900-121-R-TD.jpg
    :align: center
    :figclass: align-center
    
-   *Figure 6: PPC-J1900-104-R Technical Drawing*
+   *Figure 6: PPC-J1900-121-R Technical Drawing*
 
 .. include:: Resources/support

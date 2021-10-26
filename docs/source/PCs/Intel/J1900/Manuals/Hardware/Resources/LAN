@@ -1,0 +1,12 @@
+LAN Connectors
+---------------
+
+Two RJ45 connectors *(Figure 4)* enable LAN or Internet connection over standard Ethernet cables. Use certified CAT 5E Ethernet cables or better to achieve full data throughput 
+defined by the standard. The integrated Ethernet dual-port interface supports auto-speed negotiation and Wake on LAN, but it does not support Power over Ethernet (PoE).
+
+.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-LAN.png
+   :align: center
+   :figclass: align-center
+
+   
+   *Figure 4: RJ45 LAN Connectors*

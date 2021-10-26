@@ -1,0 +1,14 @@
+Product Overview
+=================
+
+The PPC-j1900 series |product| is a rugged, high-quality industrial panel PC that features an IP65-compliant |disp_des|. |br| 
+
+|Product| is powered by |Intel| |Celeron| J1900 quad-core CPU and equipped with a broad range of connectivity options, allowing it to meet even the most demanding 
+requirements in industrial automation. |br|
+
+Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces noise and maintenance
+efforts while increasing reliability.
+
+.. caution::
+
+   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.

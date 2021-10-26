@@ -2,7 +2,11 @@
 
 .. |Product| replace:: The |product| industrial panel PC 
 
-.. |IP65| replace:: IP65-compliant  
+.. |dispsize| replace:: 13.3" 
+
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1920 x 1200px
+
+.. |dim| replace:: 355 x 255 x 55mm
 
 .. _PPC-J1900-133-C:
 
@@ -29,51 +33,13 @@
 
    Side View
 
-Product Overview
-=================
+.. include:: Resources/overview
 
-The PPC-j1900 series :ref:`PPC-J1900-133-C <naming-rules-Intel>` is a rugged, high-quality industrial panel PC that features an |IP65| 13.3" multi-point capacitive touch screen with a Full HD 
-resolution. |product| is powered by |Intel| |Celeron| J1900 quad-core CPU and equipped with a broad range of connectivity options, allowing it to meet even the most demanding 
-requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
-noise and maintenance efforts while increasing reliability.
+.. include:: Resources/ordering
 
-.. caution::
+.. include:: Resources/opt_features_2
 
-   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.
-
-Ordering Options
-=================
-
-Most of the Chipsee products can be customized during the ordering process. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
-The :ref:`table below <T133>` provides information about the default options that will be shipped with the product.
-
-.. Tip::
-  
-  You can order |Product| from the official |cstore|_ or from your nearest distributor.
-
-Operating System
------------------
-
-|Product| is shipped with the Windows 7 operating system (OS) by defaul. Besides Windows 7, PPC-J1900-104-R also supports Windows 8, Windows 10, and various flavors 
-of Linux OS. The OS can be selected during the ordering process.
-
-Optional Peripherals
---------------------
-
-The Wi-Fi/BT and/or the 3G/4G modules are not included with the |product| by default. These modules are optional and can be selected during the ordering process.
-
-.. warning::   
-
-   | Installation, repair, and maintenance tasks should be performed by trained personnel only.
-   | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
-
-.. _T133:
-
-Hardware Features
-=================
-
-The |product| Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
-Some of the key features are listed in the table below.
+.. include:: Resources/HW_features
 
 .. raw:: html
 
@@ -119,7 +85,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
-      <td class="tg-nwbp">Default mSATA 64GB SSD (supports up to 512GB)</td>
+      <td class="tg-nwbp">Default mSATA 64GB SSD, supports up to 512GB</td>
     </tr>
     <tr>
       <td class="tg-71e3">Touch</td>
@@ -155,7 +121,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">SATA</td>
-      <td class="tg-0bqc">1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD</td>
+      <td class="tg-0bqc">1 x mSATA, 1 x SATA</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Power IN</td>
@@ -163,7 +129,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">OS</td>
-      <td class="tg-0bqc">Default Windows 7, supports Windows 8, Windows 10, Linux</td>
+      <td class="tg-0bqc">Default Linux, Windows 7, Windows 10</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Operating Temp.</td>
@@ -186,118 +152,26 @@ Some of the key features are listed in the table below.
 
 \
 
-Power Input Connector
----------------------
+.. include:: Resources/power
 
-|Product| can use a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal :numref:`(Figure %s) <E4>`.
-The polarity of the power connector is clearly labeled on the housing itself: the '**+**' sign is the positive, while the '**-**' sign is the negative power supply input.
-The power button is located next to the power input connector and can be used to switch the power ON or OFF.
+.. include:: Resources/cap_screen
 
-.. Figure:: /Media/Intel/J1900/104/PPC-J1900-104-Power.png
-  :align: center
-  :figclass: align-center
-  :name: E4
+.. include:: Resources/connectivity
 
-  Power Input section 
+.. include:: Resources/USB
 
-Capacitive Touch Panel
-----------------------
+.. include:: Resources/LAN
 
-|product| is equipped with a multi-point capacitive touch panel. Its multi-point touch detection capability enables implementation of some advanced GUI operations, such as two-finger
-zooming or rotation. It can be operated by fingers, gloves with a special conductive coating, or a pen stylus designed for capacitive touch panels.
+.. include:: Resources/HDMI
 
-.. container:: hatnote hatnote-yellow
+.. include:: Resources/mounting
 
-  |br|
-  **Size/Type:** 13.3" multi-point capacitive touch screen |br|
-  **Surface Hardness:** 7H |br|
-  **Service Life:** 50 million touch events |br|
-  **Light Transmittance:** > 92%
-
-\  
-
-Connectivity
-============
-
-There are many connectivity options available on the |product| industrial PC. It has 4 x USB Type A connectors confugured as HOSTS, 1 x HDMI port, 2 x RJ45 connectors supporting 
-Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
-
-RS232/485/GPIO connectors
--------------------------
-
-|Product| has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.81mm connector with pluggable terminal block :numref:`(Figure %s) <E5>`. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
-be configured either as RS232 or RS485 communication interfaces.
-
-The bottom row of terminals on the terminal block is labeled as **COM3/4**. These terminals are configured as two additional RS232 interfaces by default. The upper row of 
-terminals on the terminal block represents eight **GPIO** channels, labeled as **GPIO (0 ... 7)**. 
-
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-Con.png
-   :align: center
-   :figclass: align-center
-   :name: E5
- 
-   Connectivity Section - 2 x D-sub Connectors & 16-pin Double-Row Pluggable Terminal Block
-
-.. Note::
-
-    The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, please contact :ref:`support`
-
-USB HOST Connnectors 
---------------------
-
-|product| is equipped with 3 x USB 2.0 interfaces and 1 x USB 3.0 interface. The USB connectors are configured as shown in :numref:`(Figure %s) <E6>`. The data throughput of the USB 3.0 
-interface can reach up to 4.8 Gbps, while the USB 2.0 interfaces are limited to 480 Mbps. The USB 3.0 interface provides 10 times more data transfer bandwidth than USB 2.0, 
-making it best suited for fast peripherals that can utilize its full potential.
-
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-USB.png
-   :align: center
-   :figclass: align-center
-   :name: E6
-
-   USB HOST Connectors
-
-LAN Connectors
----------------
-
-Two RJ45 connectors enable LAN or Internet connection over standard Ethernet cables :numref:`(Figure %s) <E7>`. Use certified CAT 5E Ethernet cables or better to achieve full data throughput 
-defined by the standard. The integrated Ethernet dual-port interface supports auto-speed negotiation and Wake on LAN, but it does not support Power over Ethernet (PoE).
-
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-LAN.png
-   :align: center
-   :figclass: align-center
-   :name: E7
-
-   RJ45 LAN Connectors
-
-HDMI Connector
---------------
-
-The HDMI connector allows an external monitor to be connected. HDMI output resolution can be configured by the software. |Product| is equiped with 1 x HDMI 
-connector :numref:`(Figure %s) <E8>`. 
-
-.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-HDMI.png
-   :align: center
-   :figclass: align-center
-   :name: E8
-
-   HDMI Connector
-
-Mounting Procedure 
-==================
-
-|Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified installation onto any standard VESA mounting rack. Other mounting options
-might also be supported (check the :ref:`Hardware Features Table <T133>` above). You can find detailed information about mounting in the |mguide|_ on the Chipsee official website.
-
-Mechanical Specifications
-=========================
-
-The outer mechanical dimensions of |Product| are 355 x 255 x 55mm (W x L x H). Please refer to the technical drawing in :numref:`(Figure %s) <E9>` for details 
-related to the specific product measurements. 
+.. include:: Resources/mechspecs
 
 .. figure:: /Media/Intel/J1900/133/PPC-J1900-133-C-TD.jpg
    :align: center
    :figclass: align-center
-   :name: E9
 
-   PPC-J1900-133-C Technical Drawing
+   *Feature 6 PPC-J1900-133-C Technical Drawing*
 
+.. include:: Resources/support

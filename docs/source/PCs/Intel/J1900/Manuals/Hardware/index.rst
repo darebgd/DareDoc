@@ -7,7 +7,7 @@ Hardware Documentation
    +-------------------+------------------------------------------------------------------------+
    |  |PPC-J1900-101|  |   :ref:`PPC-J1900-101-C User Manual <PPC-J1900-101-C>` |br| |br|       |
    |                   |                                                                        |                                 
-   |                   |   10.1", 1920x1080, capacitive, 4GB RAM, 64GB SSD |br|                 | 
+   |                   |   10.1", 1200x800, capacitive, 4GB RAM, 64GB SSD |br|                  | 
    |                   |                                                                        |
    |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
    +-------------------+------------------------------------------------------------------------+
@@ -22,7 +22,7 @@ Hardware Documentation
    +-------------------+------------------------------------------------------------------------+
    |  |PPC-J1900-104|  |   :ref:`PPC-J1900-104-R User Manual <PPC-J1900-104-R>` |br| |br|       |
    |                   |                                                                        |                                 
-   |                   |   10.4", 1920x1080, resistive, 4GB RAM, 64GB SSD |br|                  | 
+   |                   |   10.4", 1024x768, resistive, 4GB RAM, 64GB SSD |br|                   | 
    |                   |                                                                        |
    |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
    +-------------------+------------------------------------------------------------------------+
@@ -30,6 +30,51 @@ Hardware Documentation
 .. |PPC-J1900-104| image:: /Media/Intel/J1900/104/PPC-J1900-104-R-Front-Small.png
    :class: no-scaled-link
    :target: PPC-J1900-104-R.html
+
+.. table::
+   :widths: 10 40
+   
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-121|  |   :ref:`PPC-J1900-121-R User Manual <PPC-J1900-121-R>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   10.4", 1024x768, resistive, 4GB RAM, 64GB SSD |br|                   | 
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-121| image:: /Media/Intel/J1900/121/PPC-J1900-121-R-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-104-R.html
+
+.. table::
+   :widths: 10 40
+   
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-170|  |   :ref:`PPC-J1900-170-R User Manual <PPC-J1900-170-R>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   17.0", 1280x1024, resistive, 4GB RAM, 64GB SSD |br|                  | 
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-170| image:: /Media/Intel/J1900/170/PPC-J1900-170-R-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-170-R.html
+
+.. table::
+   :widths: 10 40
+   
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-190|  |   :ref:`PPC-J1900-190-R User Manual <PPC-J1900-190-R>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   19.0", 1280x1024, resistive, 4GB RAM, 64GB SSD |br|                  | 
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-190| image:: /Media/Intel/J1900/190/PPC-J1900-190-R-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-190-R.html
 
 .. table::
    :widths: 10 40
@@ -47,25 +92,6 @@ Hardware Documentation
    :target: PPC-J1900-133-C.html
 
 
-.. table::
-   :widths: 10 40
-
-   +-------------------+------------------------------------------------------------------------+
-   |  |Chipsee_logo|   |   :ref:`Chipsee Technical Support<support>` |br| |br|                  | 
-   |                   |                                                                        |                                 
-   |                   |   Feel free to contact Chipsee Technical Support |br|                  |
-   |                   |                                                                        |
-   |                   |   for any suggestions, inquiries, or technical issues                  |
-   +-------------------+------------------------------------------------------------------------+
-
-.. |Chipsee_logo| image:: /Media/Chipsee_Logo_Sign_Small.png
-   :class: no-scaled-link
-   :target: Support.html
-
-
-
-
-
 
 
 .. toctree::
@@ -76,5 +102,7 @@ Hardware Documentation
 
    PPC-J1900-101-C
    PPC-J1900-104-R
+   PPC-J1900-121-R
+   PPC-J1900-170-R
+   PPC-J1900-190-R
    PPC-J1900-133-C
-   Technical Support <Support>
