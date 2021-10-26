@@ -121,6 +121,21 @@ Hardware Documentation
    :class: no-scaled-link
    :target: PPC-J1900-156-C.html
 
+.. table::
+   :widths: 10 40
+
+   +-------------------+------------------------------------------------------------------------+
+   |  |PPC-J1900-215|  |   :ref:`PPC-J1900-215-C User Manual <PPC-J1900-215-C>` |br| |br|       |
+   |                   |                                                                        |                                 
+   |                   |   21.5", 1920x1080, capacitive, 4GB RAM, 64GB SSD |br|                 |
+   |                   |                                                                        |
+   |                   |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
+   +-------------------+------------------------------------------------------------------------+
+
+.. |PPC-J1900-215| image:: /Media/Intel/J1900/215/PPC-J1900-215-C-Front-Small.png
+   :class: no-scaled-link
+   :target: PPC-J1900-215-C.html
+
 .. toctree::
    :maxdepth: 1
    :titlesonly:
@@ -135,3 +150,4 @@ Hardware Documentation
    PPC-J1900-133-C
    PPC-J1900-150-C
    PPC-J1900-156-C
+   PPC-J1900-215-C
