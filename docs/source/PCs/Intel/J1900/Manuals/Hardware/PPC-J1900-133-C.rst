@@ -4,7 +4,7 @@
 
 .. |dispsize| replace:: 13.3" 
 
-.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1920 x 1200px
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1920 x 1080px
 
 .. |dim| replace:: 355 x 255 x 55mm
 
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Display</td>
-      <td class="tg-0bqc">13.3" LCD, resolution 1024 x 768px, brightness 300 cd/m<sup>2</sup></td>
+      <td class="tg-0bqc">13.3" LCD, resolution 1920 x 1080px, brightness 300 cd/m<sup>2</sup></td>
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
@@ -158,6 +158,6 @@
    :align: center
    :figclass: align-center
 
-   *Feature 6 PPC-J1900-133-C Technical Drawing*
+   *Feature 6: PPC-J1900-133-C Technical Drawing*
 
 .. include:: Resources/support

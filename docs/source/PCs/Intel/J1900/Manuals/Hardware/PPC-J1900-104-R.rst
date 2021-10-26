@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Power Consumption</td>
-      <td class="tg-0bqc">17W.4</td>
+      <td class="tg-0bqc">17.4W</td>
     </tr>
     <tr>
       <td class="tg-3zfw">OS</td>

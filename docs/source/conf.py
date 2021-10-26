@@ -52,13 +52,11 @@ import sphinx_rtd_theme
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'prev_next_buttons_location': 'None',    
+    'prev_next_buttons_location': 'none',    
     'collapse_navigation': True,
     'sticky_navigation': True,
     'navigation_depth': 6,
-    'includehidden': True,
-    
-    
+    'includehidden': True,   
 }
 
 html_style = 'css/my_theme.css'
