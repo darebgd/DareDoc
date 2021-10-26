@@ -58,6 +58,7 @@ html_theme_options = {
     'navigation_depth': 6,
     'includehidden': True,
     
+    
 }
 
 html_style = 'css/my_theme.css'

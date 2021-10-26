@@ -5,9 +5,9 @@ OS Downloads
    :maxdepth: 1
    :titlesonly:
 
-   /Software/Windows 7
-   /Software/Windows 10
-   /Software/Linux
+   Windows 7
+   Windows 10
+   Linux
 
 .. warning::
 

@@ -4,7 +4,7 @@ Connectivity
 There are many connectivity options available on the |product| industrial PC. It has 4 x USB Type A connectors confugured as HOSTS, 1 x HDMI port, 2 x RJ45 connectors supporting 
 Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
 
-RS232/485/GPIO connectors
+RS232/485/GPIO Connectors
 -------------------------
 
 |Product| has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.81mm connector with pluggable terminal block *(Figure 2)*. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
