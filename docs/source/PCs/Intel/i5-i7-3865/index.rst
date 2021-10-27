@@ -2,3 +2,11 @@
 ###################################
 
 Intro...
+
+.. rubric:: Contents:
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+
+   Manuals/Hardware/index

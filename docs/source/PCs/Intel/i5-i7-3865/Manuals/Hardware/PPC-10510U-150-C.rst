@@ -1,0 +1,42 @@
+.. |product| replace:: PPC-10510U-150-C
+
+.. |Product| replace:: The |product| Industrial Panel PC 
+
+.. |dispsize| replace:: 15.0"
+
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1024 x 768px
+
+.. |dim| replace:: 376 x 300 x 61.7 mm
+
+.. _PPC-10510U-150-C:
+
+|product| User Manual
+#####################
+
+.. rubric:: *Version 1.0*
+
+.. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-Front.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Front View
+
+.. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-Back.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Back View   
+
+.. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-Side.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Side View  
+
+.. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-TD.jpg
+   :align: center
+   :figclass: align-center
+ 
+   *Figure 6: PPC-10510U-150-C Technical Drawing*
+
+.. include:: Resources/support

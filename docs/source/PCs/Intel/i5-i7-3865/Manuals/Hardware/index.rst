@@ -15,3 +15,11 @@ Hardware Documentation
 .. |PPC-10510U-150-C| image:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-Front-Small.png
    :class: no-scaled-link
    :target: PPC-10510U-150-C.html
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+   :numbered:
+   :hidden:
+
+   PPC-10510U-150-C

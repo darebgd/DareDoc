@@ -19,7 +19,7 @@
    :figclass: align-center
    :class: no-scaled-link
 
-   Top View
+   Front View
 
 .. figure:: /Media/Intel/J1900/215/PPC-J1900-215-C-Back.jpg
    :figclass: align-center

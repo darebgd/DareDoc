@@ -11,4 +11,5 @@ OS Downloads
 
 .. warning::
 
-  All Chipsee products come with the pre-installed OS selected upon ordering. Chipsee assumes no liability for the damage caused due to improper installation by third parties.
+  All Chipsee products come with the pre-installed OS selected upon ordering.
+  Chipsee assumes no liability for the damage caused due to improper installation by third parties.
