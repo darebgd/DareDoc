@@ -1,8 +1,8 @@
 HDMI Connector
 --------------
 
-The HDMI connector *(Figure 5)* allows an external monitor to be connected. HDMI output resolution can be configured by the software. |Product| is equiped with 1 x HDMI 
-connector. 
+|Product| is equipped with 1 x **HDMI** connector. The HDMI connector *(Figure 5)* allows connecting an additional (external) monitor. HDMI output resolution 
+can be configured by the software or the OS.
 
 .. figure:: /Media/Intel/J1900/J1900_IO/PPC-J1900-HDMI.png
    :align: center

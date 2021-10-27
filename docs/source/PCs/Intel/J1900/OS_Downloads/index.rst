@@ -1,5 +1,5 @@
 OS Downloads
-============
+############
 
 .. toctree::
    :maxdepth: 1

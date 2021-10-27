@@ -1,10 +1,10 @@
 .. |product| replace:: PPC-J1900-215-C
 
-.. |Product| replace:: The |product| industrial panel PC 
+.. |Product| replace:: The |product| Industrial Panel PC
 
 .. |dispsize| replace:: 21.5" 
 
-.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1920 x 1080px
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1920 x 1080 pixels
 
 .. |dim| replace:: 535 x 331 x 52.5 mm
 
@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Touch</td>
-      <td class="tg-0bqc">Multi-point capacitive touch panel</td>
+      <td class="tg-0bqc">Multi-point capacitive touch screen</td>
     </tr>
     <tr>
       <td class="tg-3zfw">USB</td>
@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">LAN</td>
-      <td class="tg-0bqc">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-TX, Wake on LAN support</td>
+      <td class="tg-0bqc">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-T/TX, Wake on LAN support</td>
     </tr>
     <tr>
       <td class="tg-3zfw">UART</td>

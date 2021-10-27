@@ -1,5 +1,5 @@
 Hardware Documentation
-======================
+######################
 
 .. table::
    :widths: 10 40

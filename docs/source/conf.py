@@ -87,6 +87,8 @@ rst_epilog = """
 
 .. |Cortex| replace:: Cortex\ :sup:`®`
 
+.. |Core| replace:: Core™
+
 .. |br| raw:: html 
 
    <br>
