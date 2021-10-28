@@ -36,11 +36,11 @@
 
 .. include:: Resources/overview
 
-.. include:: Resources/ordering
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/ordering
 
 .. include:: Resources/opt_features
 
-.. include:: Resources/HW_features
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/HW_features
 
 .. include:: Resources/power
 
@@ -50,13 +50,13 @@
 
 .. include:: Resources/USB
 
-.. include:: Resources/LAN
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/LAN
 
-.. include:: Resources/HDMI
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/HDMI
 
-.. include:: Resources/mounting
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/mounting
 
-.. include:: Resources/mechspecs
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/mechspecs
 
 .. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-TD.jpg
    :align: center
@@ -64,5 +64,5 @@
  
    *Figure 6: PPC-10510U-150-C Technical Drawing*
 
-.. include:: Resources/support
+.. include:: /PCs/Intel//J1900/Manuals/Hardware/Resources/support
 
