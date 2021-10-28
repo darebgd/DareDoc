@@ -26,8 +26,6 @@ version = '1.0'
 release = '03'
 
 # -- General configuration ---------------------------------------------------
-import os
-import sys
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
@@ -51,12 +49,13 @@ import sphinx_rtd_theme
 
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme = 'sphinx_rtd_theme'
+
 html_theme_options = {
     'prev_next_buttons_location': 'none',    
     'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 6,
-    'includehidden': True,   
+    'navigation_depth': 5,
+    
 }
 
 html_style = 'css/my_theme.css'
@@ -73,7 +72,7 @@ numfig_format = {'figure': 'Figure %s:',
                  'table': 'Table %s:',
                  'code-block': 'Code %s',
                 }
-#html_show_sphinx = False
+html_show_sphinx = False
 
 #numfig_secnum_depth = 2
 

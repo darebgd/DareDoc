@@ -2,7 +2,7 @@ Hardware Documentation
 ######################
 
 .. table::
-   :widths: 10 40
+   :widths: 10 40 
    
    +-------------------+------------------------------------------------------------------------+
    |  |PPC-J1900-104|  |   :ref:`PPC-J1900-104-R User Manual <PPC-J1900-104-R>` |br| |br|       |
@@ -138,9 +138,8 @@ Hardware Documentation
 
 .. toctree::
    :maxdepth: 1
-   :titlesonly:
    :numbered:
-   :hidden:
+
 
    PPC-J1900-104-R
    PPC-J1900-121-R

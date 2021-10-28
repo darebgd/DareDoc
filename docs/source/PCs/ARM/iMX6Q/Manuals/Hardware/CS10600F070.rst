@@ -3,10 +3,6 @@
 EPC/PPC-A9-70-C User Manual
 ###########################
 
-.. contents:: Table of Contents
-   :depth: 3
-   :backlinks: entry
-   :local:
 
 Title:
 ======

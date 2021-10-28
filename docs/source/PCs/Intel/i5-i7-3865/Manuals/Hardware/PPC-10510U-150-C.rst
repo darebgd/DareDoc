@@ -33,6 +33,31 @@
 
    Side View  
 
+
+.. include:: Resources/overview
+
+.. include:: Resources/ordering
+
+.. include:: Resources/opt_features
+
+.. include:: Resources/HW_features
+
+.. include:: Resources/power
+
+.. include:: Resources/touch_screen
+
+.. include:: Resources/connectivity
+
+.. include:: Resources/USB
+
+.. include:: Resources/LAN
+
+.. include:: Resources/HDMI
+
+.. include:: Resources/mounting
+
+.. include:: Resources/mechspecs
+
 .. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-TD.jpg
    :align: center
    :figclass: align-center
@@ -40,3 +65,4 @@
    *Figure 6: PPC-10510U-150-C Technical Drawing*
 
 .. include:: Resources/support
+

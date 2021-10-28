@@ -1,19 +1,49 @@
 .. _PBA:
 
-Industrial PCs Powered by |Arm|
-===============================
+Industrial Panel PCs Powered by |Arm|
+#####################################
 
-This section contains marketing collateral and OS downloads for the industrial PCs based on |Arm| |Cortex| platforms. Chipsee Product Naming Scheme allows for 
+This section contains marketing collateral and OS downloads for the Industrial Panel PCs based on |Arm| |Cortex| platforms. Chipsee Product Naming Scheme allows for 
 quick extraction of the key features from the product numbers (PN) direclty, so familiarize yourself with the :ref:`naming-rules-Arm` to make navigating through 
 the repository much easier.
 
-.. rubric:: Products (by platform):
+.. rubric:: Products by platform: |Cortex|-A9 (CS-SOM-iMX6Q)
 
 .. toctree::
    :maxdepth: 1
    :titlesonly:
 
+   i.MX6Q HW Documentation <iMX6Q/Manuals/Hardware/index>
+   i.MX6Q SW Documentation <iMX6Q/Manuals/Software/index>
+   i.MX6Q OS Downloads <iMX6Q/OS_Downloads/index>
+
+.. toctree::
+   :hidden:
    
-   iMX6Q/index
-   iMX6UL/index
-   RK3399/index
+   spacer
+
+.. rubric:: Products by platform: |Cortex|-A7 (NXP i.MX6UL)
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+
+   i.MX6UL HW Documentation <iMX6UL/Manuals/Hardware/index> 
+   i.MX6UL SW Documentation <iMX6UL/Manuals/Software/index>
+   i.MX6UL OS Downloads <iMX6UL/OS_Downloads/index> 
+
+.. toctree::
+   :hidden:
+   
+   spacer
+
+.. rubric:: Products by platform: |Cortex|-A72/53 (Rockit RK3399)
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+
+   RK3399 HW Documentation <RK3399/Manuals/Hardware/index> 
+   RK3399 SW Documentation <RK3399/Manuals/Software/index>
+   RK3399 OS Downloads <RK3399/OS_Downloads/index>
+
