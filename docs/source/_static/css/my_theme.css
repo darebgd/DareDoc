@@ -1,9 +1,9 @@
 @import url("theme.css");
 
-/*.wy-nav-content {
-  max-width: 900px !important;
+.wy-nav-content {
+  max-width: 850px !important;
 }
-*/
+
 .figclass {
 font-style: italic;
 }
@@ -20,4 +20,3 @@ font-style: italic;
 .hatnote-gray { background-color: #e8e8e8 ; color: #000000 ; }
 .hatnote-yellow { background-color: #ffffe8 ; color: #000000 ; }
 .hatnote-red { background-color: #ffe8e8 ; color: #000000 ; }
-.hatnote-icon { height: 16px ; width: 16px}

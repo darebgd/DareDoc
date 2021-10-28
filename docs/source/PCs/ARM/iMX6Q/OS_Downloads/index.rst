@@ -1,9 +1,8 @@
 OS Downloads
-============
+############
 
-This section contains the OS downloads for products based on the Cortex A9 platform. Please note that not all the products use the same capacitive
-touch panel IC. Be sure to download the correct OS according to the touch panel installed in your product. For additional information, consult 
-Chipsee technical support. ``should we link tech support?``
+Please note that not all the products use the same model of touch panel. Be sure to download the correct OS according to the touch panel installed in your product.
+For additional information, contact |email|_
 
 .. toctree::
    :maxdepth: 1

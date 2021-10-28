@@ -1,14 +1,14 @@
 Software Documentation
-======================
+######################
 
 .. toctree::
    :maxdepth: 1
-   :name: SW_A9
-
-   /Software/Android 4.3
-   /Software/Android 6.0
-   /Software/Android 8.0
-   /Software/Chipsee Linux Qt 5.5
-   /Software/Ubuntu 12.04
-   /Software/Ubuntu 14.04
-   /Software/Ubuntu 18.04
+   :titlesonly:
+   
+   Android 4.3
+   Android 6.0
+   Android 8.0
+   Chipsee Linux Qt 5.5
+   Ubuntu 12.04
+   Ubuntu 14.04
+   Ubuntu 18.04

@@ -1,8 +1,12 @@
 .. |product| replace:: PPC-J1900-104-R
 
-.. |Product| replace:: The |product| industrial PC  
+.. |Product| replace:: The |product| Industrial Panel PC
 
-.. |IP65| replace:: IP65-compliant 
+.. |dispsize| replace:: 10.4" 
+
+.. |disp_des| replace:: |dispsize| resistive touch screen with a resolution of 1024 x 768 pixels 
+
+.. |dim| replace:: 272 x 221 x 53mm
 
 .. _PPC-J1900-104-R:
 
@@ -11,94 +15,37 @@
 
 .. rubric:: *Version 1.0*
 
-|
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Front.jpg
+.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Front.jpg
    :figclass: align-center
    :class: no-scaled-link
 
-   Top View
+   Front View
 
-|
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Rear.jpg
+.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Back.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Back View
 
-|   
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-R_Side.jpg
+.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-Side.jpg
    :figclass: align-center
    :class: no-scaled-link
   
    Side View
 
-| 
+.. include:: Resources/overview
 
-Product Overview
-=================
+.. include:: Resources/ordering
 
-The PPC-j1900 series :ref:`PPC-J1900-104-R <naming-rules-Intel>` is a rugged, high-quality industrial PC that features a resistive 10.4" |IP65| touch-sensitive LCD with Full HD 
-resolution (1920 x 1080px). |product| is powered by Intel Celeron J1900 quad-core CPU and equipped with a broad range of connectivity options, enabling it to meet even the most demanding 
-requirements in the smart industry. Specially designed aluminum housing with fins also serves as a passive cooler, eliminating the need for built-in fans. The fanless design reduces 
-noise and maintenance efforts, while increasng reliability.
+.. include:: Resources/opt_features_1
 
-.. caution::
+.. include:: Resources/HW_features
 
-   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.
-
-Ordering Options
-=================
-
-Most of the Chipsee products can be customized during the ordering process. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified.
-The :ref:`table below <T104>` provides information about the default options that will be shipped with the product.
-
-Operating System
------------------
-
-|Product| is shipped with the Windows 7 operating system (OS) by defaul. Besides Windows 7, PPC-J1900-104-R also supports Windows 8, Windows 10, and various flavors 
-of Linux OS. The OS can be selected during the ordering process.
-
-Optional Peripherals
---------------------
-
-The Wi-Fi/BT and/or 3G/4G modules are not included with |product| by default. The Wi-Fi/BT module is optional and can be selected during the ordering process. 
-3G/4G LTE and similar modules are not currently available at the Chipsee store for this product. However, they can be obrained from the specialized third-party suppliers.
-
-.. warning::   
-
-   | Installation, repair, and maintenance tasks should be performed by trained personnel only.
-   | Chipsee does not bear any responsibility for damage caused by inadequate handling of the product.
-
-.. _T104:
-
-Hardware Features
-=================
-
-The |product| Industrial PC offers a borad range of performance and connectivity options for scalable integration, providing expandability according to future needs. 
-Some of the key features are listed in the table below.
+.. raw:: html
+  :file: Resources/table_style.html
 
 .. raw:: html
 
-   <style type="text/css">
-  .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
-  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 20px;word-break:normal;}
-  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:2px;color:#333;
-    font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:6px 20px;word-break:normal;}
-  .tg .tg-3zfw{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
-    font-weight:bold;text-align:left;vertical-align:middle}
-  .tg .tg-71e3{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
-    text-align:middle;vertical-align:middle}
-   .tg .tg-71e5{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;font-weight:bold;
-   text-align:middle;vertical-align:middle; padding:6px}
-  .tg .tg-nwbp{background-color:#f9f9f9;border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;
-    text-align:left;vertical-align:middle}
-  .tg .tg-0bqc{border-color:inherit;font-family:Verdana, Geneva, sans-serif !important;;font-size:14px;text-align:left;
-    vertical-align:middle}
-  </style>
   <table class="tg">
   <thead>
     <tr>
@@ -124,11 +71,11 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
-      <td class="tg-nwbp">Default mSATA 64GB SSD (support up to 512GB)</td>
+      <td class="tg-nwbp">Default mSATA 64GB SSD ,supports up to 512GB</td>
     </tr>
     <tr>
       <td class="tg-71e3">Touch</td>
-      <td class="tg-0bqc">High temperature, five-wire resistive touch panel</td>
+      <td class="tg-0bqc">Resistive touch screen</td>
     </tr>
     <tr>
       <td class="tg-3zfw">USB</td>
@@ -136,7 +83,7 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">LAN</td>
-      <td class="tg-0bqc">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-TX, Wake on LAN support</td>
+      <td class="tg-0bqc">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-T/TX, Wake on LAN support</td>
     </tr>
     <tr>
       <td class="tg-3zfw">UART</td>
@@ -152,149 +99,69 @@ Some of the key features are listed in the table below.
     </tr>
     <tr>
       <td class="tg-71e3">WiFi/BT</td>
-      <td class="tg-0bqc">Optional, module available from the manufacturer (Chipsee)</td>
+      <td class="tg-0bqc">Optional, module available from the manufacturer</td>
     </tr>
     <tr>
       <td class="tg-3zfw">HDMI</td>
-      <td class="tg-nwbp">1 x HDMI Out</td>
+      <td class="tg-nwbp">1 x HDMI out</td>
     </tr>
     <tr>
       <td class="tg-71e3">SATA</td>
-      <td class="tg-0bqc">1 x mSATA for SSD up to 512GB, 1 x SATA for 2.5" 1TB HDD</td>
+      <td class="tg-0bqc">1 x mSATA, 1 x SATA</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Power IN</td>
       <td class="tg-nwbp">From 9V to 30V DC</td>
     </tr>
     <tr>
-      <td class="tg-71e3">OS</td>
-      <td class="tg-0bqc">Default Windows 7, supports Windows 8, Windows 10, Linux</td>
+      <td class="tg-71e3">Power Consumption</td>
+      <td class="tg-0bqc">17.4W</td>
     </tr>
     <tr>
-      <td class="tg-3zfw">Working Temp.</td>
-      <td class="tg-nwbp">From -20°C to +60°C</td>
+      <td class="tg-3zfw">OS</td>
+      <td class="tg-nwbp">Default Linux, Windows 7, Windows 10</td>
     </tr>
     <tr>
-      <td class="tg-71e3">Dimensions</td>
-      <td class="tg-0bqc">272 x 221 x 53mm</td>
+      <td class="tg-71e3">Operating Temp.</td>
+      <td class="tg-0bqc">From -20°C to +60°C</td>
+    </tr>
+    <tr>
+      <td class="tg-3zfw">Dimensions</td>
+      <td class="tg-nwbp">272 x 221 x 53mm</td>
+    </tr>
+    <tr>
+      <td class="tg-71e3">Mounting</td>
+      <td class="tg-0bqc">VESA 100 x 100, Panel/Wall-mouning</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Weight</td>
-      <td class="tg-0bqc">2300g</td>
+      <td class="tg-nwbp">2300g</td>
     </tr>
   </tbody>
   </table>
 
 \
 
-Power Input Connector
----------------------
+.. include:: Resources/power
 
-The |product| industrial PC can use a wide range of input voltages: from 9V to 30V DC. The power input connector is a 2-pin, 3.81mm screw terminal :numref:`(Figure %s) <F4>`.
-The polarity of the power connector is clearly labeled on the housing itself: the '+' sign is the positive, while the '-' sign is the negative power supply input.
-The shutdown button is located next to the power input connector and can be used to switch the power ON or OFF.
+.. include:: Resources/res_screen
 
-.. Figure:: /Media/Intel/J1900/PPC-J1900-104-Power_650.png
-  :align: center
-  :figclass: align-center
-  :name: F4
+.. include:: Resources/connectivity
 
-  Power Input section 
+.. include:: Resources/USB
 
-Resisve Touch Panel
--------------------
+.. include:: Resources/LAN
 
-|product| is equipped with the five-wire resistive touch panel. The resistive touch panel is an ideal option in harsh industrial condition, due to its high immunity 
-against high temperatures, dirt, and dust. It can be operated by an object made of any material, including regular rubber gloves, fingers, or a plastic stylus.
+.. include:: Resources/HDMI
 
+.. include:: Resources/mounting
 
-.. container:: hatnote hatnote-yellow
+.. include:: Resources/mechspecs
 
-  |br|
-  **Size/Type:** 10.4" high temperature-resistant resistive touch panel |br|
-  **Surface Strength:** 3H |br|
-  **Service Life:** 35 million touch events |br|
-  **Light Transmittance:** > 81%
-
-\  
-
-Connectivity
-============
-
-There are many connectivity options available on the |product| industrial PC. It has 4 x USB Type A connectors confugured as HOSTS, 1 x HDMI port, 2 x RJ45 connectors supporting 
-Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
-
-RS232/485/GPIO connectors
--------------------------
-
-The |product| industrial PC has 2 x 9-pin D-sub connectors and 1 x 16-pin 3.5mm double-row pluggable terminal block :numref:`(Figure %s) <F5>`. Two 9-pin D-sub connectors labeled as **COM1** and **COM2** can 
-be configured either as RS232 or RS485 communication interfaces.
-
-The bottom row of terminals on the terminal block is labeled as **COM3/4**. These terminals are configured as two additional RS232 interfaces by default. The upper row of 
-terminals on the terminal block represents eight **GPIO** channels, labeled as **GPIO (0 ... 7)**. 
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-Con_950.png
+.. figure:: /Media/Intel/J1900/104/PPC-J1900-104-R-TD.jpg
    :align: center
    :figclass: align-center
-   :name: F5
- 
-   Connectivity Section - 2 x D-sub Connectors & 16-pin Double-Row Pluggable Terminal Block
+   
+   *Figure 6: PPC-J1900-104-R Technical Drawing*
 
-.. Note::
-
-    The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, please contact **Chipsee
-    technical support**
-
-USB HOST Connnectors 
---------------------
-
-|Product| has 3 x USB 2.0 interfaces and 1 x USB 3.0 interface. The USB connectors are configured as shown in :numref:`(Figure %s) <F6>`. The data throughput of the USB 3.0 
-interface can reach up to 4.8 Gbps, while the USB 2.0 interfaces are limited to 480 Mbps. The USB 3.0 interface provides 10 times more data transfer bandwidth than USB 2.0, 
-so it is best suited for fast peripherals that can utilize its full potential.
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-USB_272.png
-   :align: center
-   :figclass: align-center
-   :name: F6
-
-   USB HOST Connectors
-
-LAN Connectors
----------------
-
-|Product| has two RJ45 connectors that enable LAN or Internet connection over standard Ethernet cables :numref:`(Figure %s) <F7>`. To achieve full GbE data 
-throughput, please use CAT 5E Ethernet cables up to maxumum lenght supported by the standard (100m). The integrated Ethernet dual-port interface supports auto-speed
-negotiation and Wake on LAN, but does not support Power over Ethernet (PoE).
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-LAN_300.png
-   :align: center
-   :figclass: align-center
-   :name: F7
-
-   RJ45 LAN Connectors
-
-HDMI Connector
---------------
-
-The HDMI connector enables an external monitor to be connected. The HDMI output resolution can be configured by software. |Product| is equiped with 1 x HDMI 
-connector :numref:`(Figure %s) <F8>`. 
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-HDMI_200.png
-   :align: center
-   :figclass: align-center
-   :name: F8
-
-   HDMI Connector
-
-Mechanical Dimensions
-=====================
-
-The outer mechanical dimensions of |product| are 272 x 221 x 53mm (W x L x H). |Product| supports VESA 100 x 100 mounting pattern with 4 x M4 screws, enabling simplified 
-installation onto any standard VESA mounting rack. Please refer to the technical drawing in :numref:`(Figure %s) <F9>` for details related to the specific product measurements. 
-
-.. figure:: /Media/Intel/J1900/PPC-J1900-104-TD_900.png
-   :align: center
-   :figclass: align-center
-   :name: F9
-
-   PPC-J1900-104-R Technical Drawing
+.. include:: Resources/support

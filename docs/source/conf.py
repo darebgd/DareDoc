@@ -26,8 +26,6 @@ version = '1.0'
 release = '03'
 
 # -- General configuration ---------------------------------------------------
-import os
-import sys
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
@@ -51,17 +49,17 @@ import sphinx_rtd_theme
 
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme = 'sphinx_rtd_theme'
+
 html_theme_options = {
-    'prev_next_buttons_location': 'None',    
+    'prev_next_buttons_location': 'none',    
     'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 6,
-    'includehidden': True,
+    'navigation_depth': 5,
     
 }
 
 html_style = 'css/my_theme.css'
-
+file_insertion_enabled = True
 # html_show_sourcelink = False
 # html_js_files = ['js/expand_tabs.js']
 
@@ -69,14 +67,14 @@ html_style = 'css/my_theme.css'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-numfig = True
+#numfig = True
 numfig_format = {'figure': 'Figure %s:',
                  'table': 'Table %s:',
                  'code-block': 'Code %s',
                 }
-#html_show_sphinx = False
+html_show_sphinx = False
 
-numfig_secnum_depth = 2
+#numfig_secnum_depth = 2
 
 rst_epilog = """
 
@@ -88,9 +86,23 @@ rst_epilog = """
 
 .. |Cortex| replace:: Cortex\ :sup:`®`
 
+.. |Core| replace:: Core™
+
 .. |br| raw:: html 
 
    <br>
+
+.. _cstore: https://chipsee.com/
+
+.. |cstore| replace:: **Chipsee Store**
+
+.. _mguide: https://chipsee.com/mount-ipc-guide/
+
+.. |mguide| replace:: **Mount IPC Guide**
+
+.. _email: service@chipsee.com
+
+.. |email| replace:: **service@chipsee.com**
 
 """
 

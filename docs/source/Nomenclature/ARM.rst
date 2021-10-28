@@ -3,7 +3,7 @@
 .. _naming-rules-Arm:
 
 Product Naming Rules
-====================
+####################
 
 .. raw:: html
 
