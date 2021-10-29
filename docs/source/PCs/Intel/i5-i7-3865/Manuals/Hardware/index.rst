@@ -29,7 +29,7 @@ Hardware Documentation
 
 .. |CS86-Box| image:: /Media/Intel/i5-i7-3865/CS86-BOX/CS86-BOX-Angle-Small.png
    :class: no-scaled-link
-   :target: CS86-Box.html
+   :target: CS86-BOX.html
 
 .. toctree::
    :maxdepth: 1
