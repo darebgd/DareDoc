@@ -2,7 +2,7 @@ Connectivity
 ============
 
 There are many connectivity options available on the |product| industrial PC. It has 4 x USB Type A connectors confugured as HOSTS, 1 x HDMI port, 2 x RJ45 connectors supporting 
-Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
+Gigabit Ethernet (GbE), and up to 4 x RS232 connectors, of which two can be configured in the RS485 mode. There are also 8 x GPIO channels for various user-defined purposes.
 
 RS232/485/GPIO Connectors
 -------------------------
@@ -21,4 +21,5 @@ terminals on the terminal block represents eight **GPIO** channels, labeled as *
 
 .. Note::
 
-    The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, please contact `Chipsee Technical Support <service@chipsee.com>`_
+    The default configuration of the |product| industrial PC is 4 x RS232 interfaces and 8 x GPIO channels. If you need different configuration, 
+    please contact Chipsee Technical Support at |email|_
