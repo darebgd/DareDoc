@@ -1,8 +1,6 @@
 Product Overview
 =================
 
- 
-
 The PPC-j1900 series |product| is a rugged, high-quality NEMA 4X/IP65-compliant industrial panel PC. It features a |disp_des|.
 
 .. sidebar:: Key Applications
@@ -23,4 +21,4 @@ The fanless design reduces noise, as well as the maintenance costs and efforts, 
 
 .. caution::
 
-   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.
+   Be careful when handling the product while it is operating: the back panel might become hot under heavy CPU load.1

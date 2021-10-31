@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Display</td>
-      <td class="tg-0bqc">10.1" LCD, resolution 1200 x 800px, brightness 350 cd/m<sup>2</sup></td>
+      <td class="tg-0bqc">10.1" LCD, resolution 1200 x 800px, brightness 350cd/m<sup>2</sup></td>
     </tr>
     <tr>
       <td class="tg-3zfw">Storage</td>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td class="tg-71e3">Mounting</td>
-      <td class="tg-0bqc">VESA 100 x 100, Panel/Wall-mouning</td>
+      <td class="tg-0bqc">VESA 100, Panel mounting with fixtures</td>
     </tr>
     <tr>
       <td class="tg-3zfw">Weight</td>

@@ -127,7 +127,7 @@
     </tr>
     <tr>
       <td class="tg-3zfw">Mounting</td>
-      <td class="tg-nwbp">VESA 100 x 100, Panel/Wall-mouning</td>
+      <td class="tg-nwbp">VESA 100, Panel mounting with fixtures</td>
     </tr>
     <tr>
       <td class="tg-71e3">Weight</td>

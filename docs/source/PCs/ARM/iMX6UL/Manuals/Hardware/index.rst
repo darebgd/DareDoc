@@ -5,7 +5,7 @@ Hardware Documentation
    :maxdepth: 1
    :titlesonly:
    :numbered:
-   :hidden:
 
-   EPC/PPC-A7-70HB-C <CS10600U070P.rst>
+
+   EPC/PPC-A7-70HB-C <CS10600U070.rst>
 
