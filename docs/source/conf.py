@@ -24,7 +24,7 @@ version = '1.0'
 
 # The full version, including alpha/beta/rc tags
 release = '03'
-
+import sphinx_rtd_theme
 # -- General configuration ---------------------------------------------------
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -45,10 +45,11 @@ exclude_patterns = []
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-import sphinx_rtd_theme
+
 
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
+html_theme_path = ['.']
 
 html_theme_options = {
     'prev_next_buttons_location': 'none',    
@@ -58,7 +59,7 @@ html_theme_options = {
     
 }
 
-html_style = 'css/my_theme.css'
+html_style = 'css/RTD_custom.css'
 file_insertion_enabled = True
 # html_show_sourcelink = False
 # html_js_files = ['js/expand_tabs.js']
@@ -104,6 +105,8 @@ rst_epilog = """
 
 .. |email| replace:: **service@chipsee.com**
 
+.. |cd| replace:: cd/m\ :sup:`2`
+
 """
 
 html_last_updated_fmt = '%b %d, %Y'
@@ -112,3 +115,4 @@ html_last_updated_fmt = '%b %d, %Y'
 #"commit": False,
 #}
 
+tablecaption = 'below'

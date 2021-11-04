@@ -1,0 +1,15 @@
+WiFi & BT Module
+----------------
+
+|Product| does not include an embedded WiFi/BT module. However, it has an onboard footprint accomodating for easy installation of the RTL8723, a popular WiFi/BT module, that supports 4.0 BLE (with backward compatibility) and WiFi IEEE802.11B/G/N wireless standard with 64/128-bit encryption, and support for WEP, WPA-PSK, WPA2 PSK, and WPA/WPA2 security protocols.
+
+.. figure:: /Media/ARM/A7/IMX6UL/WiFi.png
+   :align: center
+   :figclass: align-center
+
+   *Figure 3: RTL8274 WiFi/BT Moudule on-board Footprint*
+
+The enclosed (PPC) variant of the device has a specially designed SMA connector hole for a standard SMA connector, allowing an external WiFi antenna to be connected.
+
+
+

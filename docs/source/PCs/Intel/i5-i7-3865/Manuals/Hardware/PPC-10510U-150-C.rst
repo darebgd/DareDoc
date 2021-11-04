@@ -2,11 +2,29 @@
 
 .. |Product| replace:: The |product| Industrial Panel PC 
 
+
+
+.. |weight| replace:: 4500g
+
+.. |dim| replace:: 376 x 300 x 61.7mm
+
 .. |dispsize| replace:: 15.0"
+  
+.. |res| replace:: 1024 x 768
 
-.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1024 x 768px
+.. |bright| replace:: 350 |cd|
 
-.. |dim| replace:: 376 x 300 x 61.7 mm
+.. |tscreen| replace:: Multi-point capacitive or resistive touch screen
+
+.. |opt_1| replace:: Optional, module available from the manufacturer
+
+.. |opt_2| replace:: Optional, module available from the manufacturer
+
+.. |pwr| replace:: 27W
+
+
+
+.. |disp_des| replace:: Touch sensitive |dispsize| with a resolution of |res| pixels
 
 .. _PPC-10510U-150-C:
 
@@ -33,111 +51,15 @@
 
    Side View  
 
-
 .. include:: Resources/overview
 
 .. include:: /PCs/Intel/J1900/Manuals/Hardware/Resources/ordering
 
-.. include:: Resources/opt_features
+.. include:: Resources/opt_features i
 
 .. include:: /PCs/Intel/J1900/Manuals/Hardware/Resources/HW_features
 
-.. raw:: html
-   :file: Resources/table_style.html
-
-.. raw:: html
-
-   <table class="tg">
-   <thead>
-     <tr>
-       <th class="tg-71e5" colspan="2">PPC-10510U-150-C</th>
-     </tr>
-   </thead>
-   <tbody>
-     <tr>
-       <td class="tg-3zfw">CPU Options</td>
-       <td class="tg-nwbp">Intel<sup>®</sup> Core™ i7 10510U/i5 7200U/Intel Celeron<sup>®</sup> 3865; TDP=15W</tr>
-      </td>     
-     <tr>
-       <td class="tg-71e3">GPU</td>
-       <td class="tg-0bqc">Intel® HD integrated GPU, shared memory (CPU-dependent)</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">RAM</td>
-       <td class="tg-nwbp">Default 4GB, up to 16GB (1 x SO-DIMM DDR4L - CPU-dependent)</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">Display</td>
-       <td class="tg-0bqc">15.0" LCD, resolution 1024 x 768px, brightness 300cd/m<sup>2</sup></td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">Storage</td>
-       <td class="tg-nwbp">Default mSATA 32GB SSD (supports up to 512GB)</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">Touch</td>
-       <td class="tg-0bqc">Default Capacitive touch screen (resistive touch screen is optional)</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">USB</td>
-       <td class="tg-nwbp">4 x USB 3.0 HOST ports (Type A)</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">LAN</td>
-       <td class="tg-0bqc">2 x RJ45, Intel® I211, 10/100/1000Base-TX, Wake on LAN support</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">UART</td>
-       <td class="tg-nwbp">Default 4 x RS232 (2 x RS485 optional)</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">3G/4G</td>
-       <td class="tg-0bqc">Optional, modules available from the manufacturer</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">WiFi/BT</td>
-       <td class="tg-nwbp">Optional, modules available from the manufacturer</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">HDMI</td>
-       <td class="tg-0bqc">1 x HDMI Out port</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">SATA</td>
-       <td class="tg-nwbp">1 x mSATA, 1 x SATA</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">Power IN</td>
-       <td class="tg-0bqc">12 to 24V DC</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">Power Consumption</td>
-       <td class="tg-nwbp">27W</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">OS</td>
-       <td class="tg-0bqc">Default Linux, supports Windows 7, Windows 10</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">Operating Temp.</td>
-       <td class="tg-nwbp">From -20°C to +60°C</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">Dimensions</td>
-       <td class="tg-0bqc">376 x 300 x 61.7mm</td>
-     </tr>
-     <tr>
-       <td class="tg-3zfw">Mounting</td>
-       <td class="tg-nwbp">VESA 100, Panel mounting with fixtures</td>
-     </tr>
-     <tr>
-       <td class="tg-71e3">Weight</td>
-       <td class="tg-0bqc">4500g</td>
-     </tr>
-   </tbody>
-   </table>
-
-\
+.. include:: Resources/table
 
 .. include:: Resources/power
 
@@ -147,7 +69,7 @@
 
 .. include:: Resources/USB
 
-.. include:: /PCs/Intel/J1900/Manuals/Hardware/Resources/LAN
+.. include:: Resources/LAN
 
 .. include:: Resources/HDMI
 

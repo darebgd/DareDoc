@@ -1,12 +1,30 @@
 .. |product| replace:: PPC-J1900-150-C
 
-.. |Product| replace:: The |product| Industrial Panel PC
+.. |Product| replace:: The |product| Industrial Panel PC 
 
-.. |dispsize| replace:: 15.0" 
 
-.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1024 x 768 pixels
 
-.. |dim| replace:: 376 x 300 x 57 mm
+.. |weight| replace:: 4200g
+
+.. |dim| replace:: 376 x 300 x 57mm
+
+.. |dispsize| replace:: 15.0"
+  
+.. |res| replace:: 1024 x 768
+
+.. |bright| replace:: 400 |cd|
+
+.. |tscreen| replace:: Multi-point capacitive touch screen
+
+.. |opt_1| replace:: Optional, module available from other manufacturers/stores
+
+.. |opt_2| replace:: Optional, module available from the manufacturer
+
+.. |pwr| replace:: 25W  
+
+
+
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of |res| pixels
 
 .. _PPC-J1900-150-C:
 
@@ -41,106 +59,7 @@
 
 .. include:: Resources/HW_features
 
-.. raw:: html
-  :file: Resources/table_style.html
-
-.. raw:: html
-
-  <table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-71e5" colspan="2">PPC-J1900-150-C</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-3zfw">CPU</td>
-      <td class="tg-nwbp">Intel<sup>®</sup> Celeron<sup>®</sup> J1900, 2GHz, Quad-Core, 2MB Cache, TDP=10W</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">GPU</td>
-      <td class="tg-0bqc">Intel<sup>®</sup> HD integrated GPU, 512MB shared memory</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">RAM</td>
-      <td class="tg-nwbp">Default 4GB, maximum supported 8GB, DDR3L 1333 SO-DIMM</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">Display</td>
-      <td class="tg-0bqc">15.0" LCD, resolution 1024 x 768px, brightness 400 cd/m<sup>2</sup></td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">Storage</td>
-      <td class="tg-nwbp">Default mSATA 64GB SSD, supports up to 512GB</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">Touch</td>
-      <td class="tg-0bqc">Multi-point capacitive touch screen</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">USB</td>
-      <td class="tg-nwbp">1 x USB 3.0 HOST, 3 x USB 2.0 HOST ports (Type A)</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">LAN</td>
-      <td class="tg-0bqc">2 x RJ45, Intel<sup>®</sup> I211, 10/100/1000BASE-T/TX, Wake on LAN support</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">UART</td>
-      <td class="tg-nwbp">Default 4 x RS232 (2 x RS485 optional)</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">GPIO</td>
-      <td class="tg-0bqc">8 x General Purpose I/O (GPIO) channels</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">3G/4G</td>
-      <td class="tg-nwbp">Optional, modules available at other suppliers/stores</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">WiFi/BT</td>
-      <td class="tg-0bqc">Optional, module available from the manufacturer</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">HDMI</td>
-      <td class="tg-nwbp">1 x HDMI out</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">SATA</td>
-      <td class="tg-0bqc">1 x mSATA, 1 x SATA</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">Power IN</td>
-      <td class="tg-nwbp">From 9V to 30V DC</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">Power Consumption</td>
-      <td class="tg-0bqc">25W</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">OS</td>
-      <td class="tg-nwbp">Default Linux, Windows 7, Windows 10</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">Operating Temp.</td>
-      <td class="tg-0bqc">From -20°C to +60°C</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">Dimensions</td>
-      <td class="tg-nwbp">376 x 300 x 57 mm</td>
-    </tr>
-    <tr>
-      <td class="tg-71e3">Mounting</td>
-      <td class="tg-0bqc">VESA 100, Panel mounting with fixtures</td>
-    </tr>
-    <tr>
-      <td class="tg-3zfw">Weight</td>
-      <td class="tg-nwbp">4200g</td>
-    </tr>
-  </tbody>
-  </table>
-
-\
+.. include:: Resources/table
 
 .. include:: Resources/power
 

@@ -1,37 +1,74 @@
-.. _CS10600U070:
-
 .. |product| replace:: EPC/PPC-A7-70HB-C
 
 .. |Product| replace:: The |product| Industrial Panel PC 
 
 .. |dispsize| replace:: 7.0"
 
-.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1024 x 600 pixels
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of 1024 x 600px
 
-.. |dim| replace:: 205 × 135 × 28 mm
+.. |dim| replace:: 205 x 135 x 28mm
 
-.. rubric:: *Version 1.0*
-
-.. figure:: /Media/ARM/A7/A7-70HB-C-Front.jpg
-   :figclass: align-center
-   :class: no-scaled-link
-
-   Front View
-
-.. figure:: /Media/ARM/A7/A7-70HB-C-Back.jpg
-   :figclass: align-center
-   :class: no-scaled-link
-
-   Back View   
-
-.. figure:: /Media/ARM/A7/A7-70HB-C-Side.jpg
-   :figclass: align-center
-   :class: no-scaled-link
-
-   Side View
+.. _EPC/PPC-A7-70HB-C:
 
 |product| User Manual
 #####################
 
+.. rubric:: *Version 1.0*
+
+.. figure:: /Media/ARM/A7/iMX6UL/A7-70HB-C-Front.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Front View (Panel Mounting Variant)
+
+.. figure:: /Media/ARM/A7/iMX6UL/A7-70HB-C-Back.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Back View (Panel Mounting Variant)  
+
+.. figure:: /Media/ARM/A7/iMX6UL/EPC-A7-70HB-C-Front.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Front View (Embedded Variant)
+
+.. figure:: /Media/ARM/A7/iMX6UL/EPC-A7-70HB-C-Back.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Back View (Embedded Variant)
 
 .. include:: Resources/overview
+
+.. include:: Resources/ordering
+
+.. include:: Resources/opt_features
+   
+.. include:: Resources/HW_features
+
+.. include:: Resources/power
+
+.. include:: Resources/cap_screen
+
+.. include:: Resources/connectivity
+
+.. include:: Resources/GPIO
+
+.. include:: Resources/USB
+
+.. include:: Resources/LAN
+
+.. include:: Resources/WiFi & BT Module
+
+.. include:: Resources/mounting
+
+.. include:: Resources/mechspecs
+
+.. figure:: /Media/Intel/J1900/101/PPC-J1900-101-C-TD.jpg
+   :align: center
+   :figclass: align-center
+ 
+   *Figure 6: PPC-J1900-101-C Technical Drawing*
+
+.. include:: Resources/support

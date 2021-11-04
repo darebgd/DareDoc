@@ -1,0 +1,27 @@
+Touch Screen
+============
+
+
+|Product| uses a multi-touch capacitive screen. *Figure 2* shows how the five-wire capacitive connector is connected to 
+the motherboard. You can test the stability of the capacitive screen by touching the GND pin of CS10600U070 with one hand, while operating the capacitive screen with the other hand. In this case, the operator's body acts as the Power System Ground.
+
+
+.. Figure:: /Media/ARM/A7/iMX6UL/TS_CON.png 
+  :figclass: align-center
+  :align: center
+  
+  *Figure 2: Capacitive Screen Connector*
+
+
+.. attention::
+
+   Capacitive touch is very sensitive to power noise. Ripple voltage from the power adapter will cause the detection irregularities,
+   and maight even cause the malfunction of the capacitive screen in severe cases. If using APK Multi-Touch running under Android 
+   to test, you may find that the the touchpoint floats. There are several solutions to this problem:
+   
+   #) Use a high-quality Poower Adapter Unit (PSU), with as little EMI as possible. You can also provide power from a batteruy (LiPo, or other)
+   #) If you do not use a good qualty PSU, make sure that the CS10600U070 power input connector (pin 3) is connected to the Power Sustem 
+      Ground. This method can eliminate the problem entirely. 
+
+
+   

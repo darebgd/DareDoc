@@ -1,0 +1,20 @@
+USB HOST Connectors
+-------------------
+
+There are 2 x Type A USB HOST connectors onboard, as shown on *Figure 4*.
+
+.. Figure:: /Media/ARM/A7/iMX6UL/USB.png
+  :align: center
+  :figclass: align-center
+  
+  *Figure 4: USB Conncectors (on embedded and enclosed version)*
+  
+
+.. warning:: 
+ 
+  | Be careful not to accidentally touch surrounding electronic compponents while plugging in your devices into the 
+    embedded panle PC version. 
+  | Enclosed version provides better protection so it is safer to frequently plug in your USB devices.
+
+
+

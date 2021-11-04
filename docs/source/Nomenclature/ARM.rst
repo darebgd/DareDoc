@@ -43,7 +43,7 @@ Product Naming Rules
     </tr>
     <tr>
       <td class="tg-8qah">C<br></td>
-      <td class="tg-0bqc"><span style="font-weight:bold">Based on NXP (FreeScale) / TI CPU:</span><br><br>F - Freescale<br>T - TI</td>
+      <td class="tg-0bqc"><span style="font-weight:bold">Based on NXP (FreeScale) / TI CPU:</span><br><br>F, U - NXP<br>T - TI</td>
     </tr>
     <tr>
       <td class="tg-8qah">DDD</td>

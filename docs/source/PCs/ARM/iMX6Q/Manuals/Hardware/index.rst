@@ -5,8 +5,7 @@ Hardware Documentation
    :maxdepth: 1
    :titlesonly:
    :numbered:
-   :hidden:
-
+ 
    EPC/PPC-A9-70-C <CS10600F070>
    EPC/PPC-A9-97-C <CS10768F097>
    EPC/PPC-A9-101-C <CS12800F101>
@@ -15,4 +14,4 @@ Hardware Documentation
    PPC-A9-170-C <CS12102F170>
    PPC-A9-190-C <CS14900F190>
    PPC-A9-215-C <CS19108F215>
-   PPC-A9-121-U-C <CS10768F121U>
+.. PPC-A9-121-U-C <CS10768F121U>

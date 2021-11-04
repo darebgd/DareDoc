@@ -1,0 +1,19 @@
+Ordering Options
+=================
+
+Chipsee products can be customized during the ordering process. The product will be shipped with the pre-installed factory defaults if no extra requirements are specified. The table in the `Hardware Features`_ section provides information about the default options bundled with the product.
+
+.. note::
+  
+  You can order |Product| from the official |cstore|_ or from your nearest distributor.
+
+Operating System
+-----------------
+
+By default, |product| comes with the Android 7.1 operating system (OS) pre-installed. A different OS can be selected during the ordering process.
+
+In addition to Android 7.1, |product| also supports Linux Qt5.5 and Debian 8.10, which can be downdloaded from the `CS106000U0070 Installation  Secton` for both for EPC PPC variants of the product.
+
+.. warning::
+
+  The manual provides a detailed instruction how to install different OS on your own. Howver, bear in mind that Chipsee can't take the responsibility of inadequate installation procedure. If you "brick" your device, please contact Chipsee Technical Support at |email|_ and ask for help
