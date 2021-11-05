@@ -7,7 +7,7 @@ WiFi & BT Module
    :align: center
    :figclass: align-center
 
-   *Figure 3: RTL8274 WiFi/BT Moudule on-board Footprint*
+   *Figure 6: RTL8274 WiFi/BT Moudule on-board Footprint*
 
 The enclosed (PPC) variant of the device has a specially designed SMA connector hole for a standard SMA connector, allowing an external WiFi antenna to be connected.
 

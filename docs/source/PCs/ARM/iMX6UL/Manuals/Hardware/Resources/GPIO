@@ -1,10 +1,13 @@
 GPIO
 ----
  
-|product| is equipped with a 10 pin 3.81mm terminal that that carries 4 x inputs and 4 x output ports. The outputs can drive up to 500 mA of current, which should be enough for most relays. The I/O ports are opto-isolated and to utilize the full benefit of optoisolation, the PSU should also be galvanically isolated. The power input is from 5 to 24V.
+|product| is equipped with a 10 pin 3.81mm terminal that has 4 x inputs and 4 x output ports. The outputs can drive up to 500 mA of current, which should be enough for most relays. 
+
+The I/O ports are opto-isolated and to utilize the full benefit of optoisolation, the PSU should also be galvanically isolated. The power input is from 5 to 24V.
 
 .. table:: *Table 3: GPIO*
    :align: center
+   
 
    +--------------------------------------------+
    | **GPIO Pin Definition:**                   |
@@ -32,4 +35,5 @@ GPIO
    | Pin 10             | IN4                   |
    +--------------------+-----------------------+
 
-If you don’t need Isolation, you can just use the power which inputs to the Power Input Connector. You can also use the 5V voltage onboard: just populate R292 and R293 placeholders with the 0Ω Resistor. Then, the 5V voltage on-board will be connected to the "Isolated Power Input" Pin.
+If you don’t need Isolation, you can just use the power which inputs to the Power Input Connector. You can also use the 5V voltage onboard: 
+just populate R292 and R293 placeholders with the 0Ω Resistor. Then, the 5V voltage on-board will be connected to the "Isolated Power Input" pin.

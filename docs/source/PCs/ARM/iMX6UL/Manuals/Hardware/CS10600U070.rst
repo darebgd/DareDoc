@@ -47,6 +47,8 @@
    
 .. include:: Resources/HW_features
 
+.. include:: Resources/table
+
 .. include:: Resources/power
 
 .. include:: Resources/cap_screen
@@ -61,14 +63,8 @@
 
 .. include:: Resources/WiFi & BT Module
 
-.. include:: Resources/mounting
+.. include:: Resources/Audio_IO
 
-.. include:: Resources/mechspecs
-
-.. figure:: /Media/Intel/J1900/101/PPC-J1900-101-C-TD.jpg
-   :align: center
-   :figclass: align-center
- 
-   *Figure 6: PPC-J1900-101-C Technical Drawing*
+.. include:: Resources/Boot_SW
 
 .. include:: Resources/support
