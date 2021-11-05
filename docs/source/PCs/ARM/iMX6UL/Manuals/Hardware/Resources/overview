@@ -19,8 +19,8 @@ It is available both as an embedded solution and as a device hosed in an allumin
 + installation on a small in idustrial cabient
 + Integrating it with the existing equipment
 
-This |product| offers a very low power consumption, despite its processing capabilites. Is powered by the very low power i.MX6UL |Arm| |Cortex|-A7 application processor (APU) from Freescale (now NXP) runnung at up to 528 MHz. 
+This |product| offers a very low power consumption, despite its processing capabilites. Is powered by the very low power i.MX6UL |Arm| |Cortex|-A7 Application Processor Unit (APU) from Freescale (now NXP) runnung at up to 528 MHz. 
 
 |Product| also features a broad range of connectivity options, providing a rich scalability for many different use cases. It is the perfect sotultion for power-constrained applications on the edge, acting as a small but powerful control unit for collection and aggregation of field data. i.MX 6 applications processors are part of NXP's EdgeVerse™ edge computing platform.
 
-The i.MX6UL MCU does not generate extensive heat, so even the thin aluminum housing on PPC version delivers sufficien thermal dissipation. With its junction temperature from -20 to +140 °C is the APU itslef is well suited for extended temperarure range in both automotive of ractory environments.
+The i.MX6UL MCU does not generate extensive heat, so even the thin aluminum housing on PPC version delivers sufficien thermal dissipation. With its junction temperature from -20 to +140°C the APU itslef is well suited for extended temperarure range in both automotive of factory environments.
