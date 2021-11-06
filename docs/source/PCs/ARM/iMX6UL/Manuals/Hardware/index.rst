@@ -6,7 +6,6 @@ Hardware Documentation
    :titlesonly:
    :numbered:
 
-
-   CS10600U070
+   EPC/PPC-A7-70HB-C <CS10600U070>
 
 

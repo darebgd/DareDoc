@@ -15,7 +15,6 @@ the repository much easier.
 
    i.MX6Q HW Documentation <iMX6Q/Manuals/Hardware/index>
    i.MX6Q SW Documentation <iMX6Q/Manuals/Software/index>
-   i.MX6Q OS Downloads <iMX6Q/OS_Downloads/index>
 
 .. toctree::
    :hidden:
@@ -30,7 +29,7 @@ the repository much easier.
 
    i.MX6UL HW Documentation <iMX6UL/Manuals/Hardware/index> 
    i.MX6UL SW Documentation <iMX6UL/Manuals/Software/index>
-   i.MX6UL OS Downloads <iMX6UL/OS_Downloads/index> 
+
 
 .. toctree::
    :hidden:
@@ -45,5 +44,5 @@ the repository much easier.
 
    RK3399 HW Documentation <RK3399/Manuals/Hardware/index> 
    RK3399 SW Documentation <RK3399/Manuals/Software/index>
-   RK3399 OS Downloads <RK3399/OS_Downloads/index>
+
 

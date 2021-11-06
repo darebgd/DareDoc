@@ -20,3 +20,8 @@ font-style: italic;
 .hatnote-gray { background-color: #e8e8e8 ; color: #000000 ; }
 .hatnote-yellow { background-color: #ffffe8 ; color: #000000 ; }
 .hatnote-red { background-color: #ffe8e8 ; color: #000000 ; }
+
+.docutils caption {
+  caption-side: bottom;
+  font-size: unset !important;
+}

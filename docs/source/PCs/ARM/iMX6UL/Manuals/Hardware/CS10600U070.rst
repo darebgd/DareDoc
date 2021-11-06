@@ -72,7 +72,7 @@
 
 .. include:: Resources/LAN
 
-.. include:: Resources/WiFi & BT Module
+.. include:: Resources/WiFi
 
 .. include:: Resources/Audio_IO
 
