@@ -21,8 +21,53 @@ font-style: italic;
 .hatnote-yellow { background-color: #ffffe8 ; color: #000000 ; }
 .hatnote-red { background-color: #ffe8e8 ; color: #000000 ; }
 
-.docutils caption {
+.docutils caption 
+{
   caption-side: bottom; 
   font-weight: 400 !important;
   color: #404040 !important;  
 }
+
+.docutils, caption { font: italic 100%/1 Lato,proxima-nova,Helvetica Neue,Arial,sans-serif !important; }
+
+.docutils td>p {font-size: 1rem !important; }
+.docutils th>p 
+{
+  font-size: 1.1rem !important; 
+  border-bottom-width: 2px !important;
+}
+
+.docutils, .wy-table-bordered-all  
+{ 
+  border-top-width: 2px !important; 
+  border-bottom-width: 2px !important; 
+  border-left-width: 2px !important; 
+  border-right-width: 2px !important; 
+}
+
+.docutils, td 
+{
+  border-bottom: 2px solid #e1e4e5 !important; 
+  border-left: 2px solid #e1e4e5 !important;
+  
+}
+
+.docutils, th 
+{
+  border: 2px solid #e1e4e5 !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+.sidebar dl { font-size: 100% !important; }
+.sidebar ul { font-size: 100% !important; }
+.sidebar p { font-size: 100% !important; }
+
+.sidebar-title
+{
+  margin-right: -13px!important;
+  margin-left: -13px !important;
+  margin-top: -13px !important;
+}
+
+.sidebar { padding: 12px !important; } 

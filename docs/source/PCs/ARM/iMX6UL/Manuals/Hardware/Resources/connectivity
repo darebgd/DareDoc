@@ -19,7 +19,7 @@ can reach up to 115200 kbps.
 
    *Figure 3: Relation between serial pins on embedded vs. enclosed version of the A7-70HB-C IPC*
 
-Table 2 below offers a detailed description of every pin.
+The table below offers more detailed description of every pin and its definition:
   
 .. table:: *Table 2: Connectivity Section*
    :align: center
@@ -50,9 +50,9 @@ Table 2 below offers a detailed description of every pin.
    +----------------+----------------+------------------------------------+
    | Pin 7          | RS485_3+       | CPU UART3, RS485 +(A) signal       |
    +----------------+----------------+------------------------------------+
-   | Pin 6          | RS232_2_RXD    | CPU UART2, RS232 RXD sigal [#n]_   |
+   | Pin 6          | RS232_2_RXD    | CPU UART2, RS232 RXD sigal [#f]_   |
    +----------------+----------------+------------------------------------+
-   | Pin 5          | RS232_2_TXD    | CPU UART2, RS232 TXD sgnal [#n]_   |
+   | Pin 5          | RS232_2_TXD    | CPU UART2, RS232 TXD sgnal [#f]_   |
    +----------------+----------------+------------------------------------+
    | Pin 4          | RS232_1_RXD    | CPU UART1, RS232 RXD signal        |
    +----------------+----------------+------------------------------------+
@@ -64,8 +64,8 @@ Table 2 below offers a detailed description of every pin.
    +----------------+----------------+------------------------------------+
      
 
-.. [#n] These lines are redirected to the WiFi/BT module. Please get in touch with the |br|
-     Technical Support at |email|_ if you need different configuration
+.. [#f] These lines are redirected to the WiFi/BT module. Please get in touch with the technical support at |email|_ 
+   if you need different configuration.
    
 .. note:: 
   
