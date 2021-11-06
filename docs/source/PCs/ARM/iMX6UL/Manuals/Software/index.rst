@@ -9,7 +9,6 @@ consult Chipsee Technical Support at |email|_ \.
 
 .. rubric:: EPC/PPC-A7-70HB-C (PN: CS10600U070)
 
-
 .. toctree::
    :maxdepth: 1
    :titlesonly:
