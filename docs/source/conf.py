@@ -69,13 +69,16 @@ file_insertion_enabled = True
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 #numfig = True
-numfig_format = {'figure': 'Figure %s:',
-                 'table': 'Table %s:',
+#numfig_secnum_depth = 1
+numfig_format = {'figure': '',
+                 'table': '',
                  'code-block': 'Code %s',
                 }
 html_show_sphinx = False
+html_show_sourcelink = False
 
-#numfig_secnum_depth = 2
+
+
 
 rst_epilog = """
 

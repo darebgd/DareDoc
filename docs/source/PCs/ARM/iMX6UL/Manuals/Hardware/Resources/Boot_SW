@@ -14,7 +14,7 @@ There is no need to alter the DIP switch settings during regular operation. Howe
 
 .. table:: *Table 4: Boot Selection*
    :align: left
-   :widths: auto
+   :width: 50%
 
    +----------------------------+
    | **Boot Select**            |

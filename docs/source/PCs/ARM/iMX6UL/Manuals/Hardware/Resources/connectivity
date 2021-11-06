@@ -5,6 +5,8 @@ There are many connectivity options available on the |product| industrial PC. It
 100 Mbps, and up to 2 x RS232 + 3 x 485 interfaces (one of them is shared with the BT/WiFi module, so please contact Chipsee Technical Support at |email|_ 
 if you need another configuration). This device also features two CAN interfaces, and a set of opto-isolated GPIO pins for various purposes.
 
+.. _RS232/485/CAN:
+
 RS232/485/CAN
 --------------
 
@@ -20,7 +22,8 @@ can reach up to 115200 kbps.
 Table 2 below offers a detailed description of every pin.
   
 .. table:: *Table 2: Connectivity Section*
-   :align: center 
+   :align: center
+   :width: 100%
 
    +----------------------------------------------------------------------+
    | **RS232 / RS485 / CAN Pin Definition:**                              |

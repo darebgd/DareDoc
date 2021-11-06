@@ -80,7 +80,10 @@
 .. figure:: /Media/Intel/J1900/101/PPC-J1900-101-C-TD.jpg
    :align: center
    :figclass: align-center
- 
+   :target: ../../../../../_images/PPC-J1900-101-C-TD.jpg
+
+
+
    *Figure 6: PPC-J1900-101-C Technical Drawing*
 
 .. include:: Resources/support

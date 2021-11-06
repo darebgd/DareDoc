@@ -2,7 +2,7 @@
 OS Documentation
 ################
 
-This section contains the Operating System (OS) documentation for the products based on |Arm| |Cortex| \-A7 architecture. If you have questions not covered in this documentation,
+This section contains the Operating System (OS) documentation for the products based on |Cortex| \-A7 architecture. If you have questions not covered in this documentation,
 consult Chipsee Technical Support at |email|_ \.
 
 .. _CS10600U070_OS:
@@ -12,6 +12,7 @@ consult Chipsee Technical Support at |email|_ \.
 .. toctree::
    :maxdepth: 1
    :titlesonly:
+   :numbered:
     
    Debian 8.10 <Debian>
    LinuxQt5.5 <LinuxQT>

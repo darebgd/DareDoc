@@ -1,5 +1,7 @@
 .. |product| replace:: EPC/PPC-A7-70HB-C
 
+.. |PN| replace:: PN: CS10600U070
+   
 .. |Product| replace:: The |product| Industrial Panel PC 
 
 .. |dispsize| replace:: 7.0"

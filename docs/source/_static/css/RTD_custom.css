@@ -22,6 +22,7 @@ font-style: italic;
 .hatnote-red { background-color: #ffe8e8 ; color: #000000 ; }
 
 .docutils caption {
-  caption-side: bottom;
-  font-size: unset !important;
+  caption-side: bottom; 
+  font-weight: 400 !important;
+  color: #404040 !important;  
 }
