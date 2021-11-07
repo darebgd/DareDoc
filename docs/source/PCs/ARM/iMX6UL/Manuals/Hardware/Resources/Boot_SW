@@ -7,21 +7,21 @@ There is no need to alter the DIP switch settings during regular operation. Howe
 :ref:`OS Installation Manuals <CS10600U070_OS>`.
 
 .. figure:: /Media/ARM/A7/iMX6UL/BootSW.png
-  :figclass: align-right
+  :figclass: align-center
   :align: center
 
   *Figure 6: Boot DIP Switch*
 
 .. table:: Table 4: Boot Selection
-   :align: left
-   :width: 50%
+    :align: center
+    :width: 40%
 
-   +----------------------------+
-   | **Boot Select**            |
-   +============+===+===+===+===+
-   | **DIP SW** | 1 | 2 | 3 | 4 |
-   +------------+---+---+---+---+
-   | **SD**     | 0 | 0 | 1 | 0 |
-   +------------+---+---+---+---+
-   | **eMMC**   | 0 | 1 | 1 | 0 |
-   +------------+---+---+---+---+
+    +----------------------------+
+    | **Boot Select**            |
+    +============+===+===+===+===+
+    | **DIP SW** | 1 | 2 | 3 | 4 |
+    +------------+---+---+---+---+
+    | **SD**     | 0 | 0 | 1 | 0 |
+    +------------+---+---+---+---+
+    | **eMMC**   | 0 | 1 | 1 | 0 |
+    +------------+---+---+---+---+

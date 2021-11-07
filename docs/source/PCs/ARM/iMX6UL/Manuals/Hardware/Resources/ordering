@@ -12,7 +12,8 @@ Operating System
 
 By default, |product| comes with the Android 7.1 operating system (OS) pre-installed. A different OS can be selected during the ordering process.
 
-In addition to Android 7.1, |product| also supports Linux Qt5.5 and Debian 8.10, which can be downdloaded from the `CS106000U0070 Installation  Secton` for both for EPC PPC variants of the product.
+In addition to Android 7.1, |product| also supports Linux Qt5.5 and Debian 8.10, which can be obtained from the :ref:`OS Installation Manuals <CS10600U070_OS>`
+section, along with the detailed installation instructions.
 
 .. warning::
 
