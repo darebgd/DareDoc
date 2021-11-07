@@ -56,6 +56,7 @@
 .. figure:: /Media/Intel/i5-i7-3865/CS86-BOX/CS86-BOX-TD.jpg
    :align: center
    :figclass: align-center
+   :target: ../../../../../_images/CS86-BOX-TD.jpg
  
    *Figure 6: PPC-10510U-150-C Technical Drawing*
 

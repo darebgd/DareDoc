@@ -80,6 +80,7 @@
 .. figure:: /Media/Intel/i5-i7-3865/150/PPC-10510U-150-C-TD.jpg
    :align: center
    :figclass: align-center
+   :target: ../../../../../_images/PPC-10510U-150-C-TD.jpg
  
    *Figure 6: PPC-10510U-150-C Technical Drawing*
 
