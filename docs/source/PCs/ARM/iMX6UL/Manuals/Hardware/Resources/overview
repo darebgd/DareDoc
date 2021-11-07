@@ -16,8 +16,8 @@ The |Cortex|-A7 series |product| (|PN|) is a rugged, high-quality industrial pan
 
 It is available both as an embedded solution and as a device hosed in an alluminum casing with besels, thus facilitating different installation oprions:
 
-+ installation on a small in idustrial cabient
-+ Integrating it with the existing equipment
++ Installation on an idustrial cabient
++ Integration with the existing equipment
 
 This |product| offers a very low power consumption, despite its processing capabilites. Is powered by the very low power i.MX6UL |Arm| |Cortex|-A7 Application Processor Unit (APU) from Freescale (now NXP) runnung at up to 528 MHz. 
 
