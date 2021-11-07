@@ -24,7 +24,7 @@ CS10600U070-V1.0
 
 .. _db_pkg:
 
-**PREBUILT FILES PACKAGE:**
+**PREBUILT FILE PACKAGE:**
 
 :download:`prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz <https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/Debian8.10/prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz>`
 
@@ -71,11 +71,11 @@ Preparation
 ===========
 
 Prepare a power supply unit (PSU) with proper voltages, as follows: for 7" products, a 6V to 36V PSU is required. 10" and larger products need PSU with 
-15V to 36V. USB to serial cable is used for debugging Chipsee Industrial Panel PCs (IPC). The TF card is used to create a bootable storage medium for 
+15V to 36V. USB to serial cable is used for debugging Chipsee Industrial Embedded Computer (Chipsee IEC). The TF card is used to create a bootable storage medium for 
 reflashing the system.
 
-Use the prebuilt images package from the :ref:`link above <db_pkg>` to reflash the system. You can use the Xshell terminal emulator to debug Chipsee IPC 
-in Windows. You can also use VNC\ |r| Viewer to control Chipsee IPC remotely, over Ethernet. 
+Use the prebuilt images package from the :ref:`link above <db_pkg>` to reflash the system. You can use the Xshell terminal emulator to debug Chipsee IEC 
+in Windows. You can also use VNC\ |r| Viewer to control Chipsee IEC remotely, over Ethernet. 
 The Cross-toolchain software is used to compile the program for flashing.
  
 Hardware Requirements
@@ -89,7 +89,7 @@ Hardware Requirements
 Software Requirements
 ---------------------
 
-* Prebuilt Images Package (from the link above)
+* Prebuilt File Package (from the link above)
 * Xshell or similar terminal emulation software
 * Cross-toolchain
 * VNC-Viewer
@@ -97,7 +97,7 @@ Software Requirements
 Debug
 =====
 
-This document uses XShell terminal emulation software to debug Chipsee IPC. However, you can use other tools as well, 
+This document uses XShell terminal emulation software to debug Chipsee IEC. However, you can use other tools as well, 
 such as SecureCRT or Minicom.
 
 Serial Debug
@@ -107,7 +107,7 @@ The explanation of the debugging process covers the use of the first serial port
 **RS232_1_RXD** and, **GND** terminals. Please refer to :ref:`1.6.1. RS232/485/CAN <RS232/485/CAN>` chapter in the EPC/PPC-A7-70HB-C 
 documentation for additional information on the correct pinout.
 
-More detailed information on how to connect different Chipsee IPCs to a PC can also be found in the following PDF document: 
+More detailed information on how to connect different Chipsee IECs to a PC can also be found in the following PDF document: 
 
 :download:`How to Connect Board by Serial.pdf </Media/How_To_Connect_Board_By_Serial.pdf>`  
 
@@ -137,7 +137,7 @@ After connection is successfully established, set up the Xshell terminal as show
 SSH Debug
 ---------
 
-Connect the Chipsee IPC to the Internet, and get the IP address. Then, config Xshell, or use the SSH tool on Linux PC host, directly.
+Connect the Chipsee IEC to the Internet, and get the IP address. Then, config Xshell, or use the SSH tool on Linux PC host, directly.
 In this manual, we will cover Xshell SSH debugging. 
 
 First, we need to add one new session, as shown in *Figure 1*. The new session has to be set as in *Figure 2*, below:
@@ -159,9 +159,9 @@ First, we need to add one new session, as shown in *Figure 1*. The new session h
 VCN Debug
 ---------
 
-You can use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as mentioned above.
+You can use VNC Viewer in Windows to control Chipsee IEC over Ethernet, as mentioned above.
 
-* Use xShell serial or SSH connection to Chipsee IPC, login by Chipsee
+* Use xShell serial or SSH connection to Chipsee IEC, login by Chipsee
 * Log in using the commands below
 * The default login credentials are: *chipsee/chipsee*
 
@@ -198,7 +198,7 @@ You can use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as menti
 Downloading Images
 ==================
 
-The Chipsee industrial embedded computer supports booting from an integrated eMMC or external TF card (also known as micro SD card).
+Chipsee IEC supports booting from an integrated eMMC or external TF card (also known as micro SD card).
 Booting from an external TF card allows flashing the system OS.
 
 DIP Switch Configuration
@@ -213,15 +213,15 @@ Set the boot DIP switch as shown in *Figure 3* to boot the system from the exter
 
    Figure 3: Boot Mode Setup
 
-Prebuilt Files Package
-----------------------
+Prebuilt File Package
+---------------------
 
 As mentioned before, you can get the prebuilt file package from the :ref:`link <db_pkg>` at the beginning of this documentation.
 You can also get the prebuilt file package from /Debian8.10/Prebuilts folder on DVD. However, it may be outdated so always compare the 
 versions (the last number in the filename is the release date). Typically, the content of the prebuilt package has the structure as in 
 *Table 1* below:
 
-.. table:: Table 1: Prebuilt Files Package
+.. table:: Table 1: Prebuilt File Package
   :width: 100%
   :align: center
   
