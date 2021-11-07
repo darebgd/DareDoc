@@ -64,9 +64,5 @@ The table below offers more detailed description of every pin and its definition
    +----------------+----------------+------------------------------------+
      
 
-.. [#f] These lines are redirected to the WiFi/BT module. Please get in touch with the technical support at |email|_ 
-   if you need different configuration.
-   
-.. note:: 
-  
-   A 120Ω termintation resistors do not come mounted by default with the product.
+.. [#f] These lines are redirected to the WiFi/BT module. Please get in touch
+   with Chipsee Technical Support at |email|_ if you need a different configuration.

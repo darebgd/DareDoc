@@ -7,6 +7,7 @@ The I/O ports are opto-isolated and to utilize the full benefit of optoisolation
 
 .. table:: Table 3: GPIO Pinout
    :align: center
+   :width: 60%
    
    +--------------------------------------------+
    | **GPIO Pin Definition:**                   |

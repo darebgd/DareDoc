@@ -12,9 +12,9 @@ There are 2 x Type A USB HOST connectors onboard, as shown on *Figure 4*.
 
 .. warning:: 
  
-  | Be careful not to accidentally touch surrounding electronic compponents while plugging in your devices into the 
-    embedded panle PC version. 
-  | Enclosed version provides better protection so it is safer to frequently plug in your USB devices.
+  | Be careful not to accidentally touch surrounding electronic compponents while plugging in your USB devices into the 
+    embedded IPC version.
+  | The enclosed version provides better protection, making it safer to connect USB devices frequently.
 
 
 

@@ -49,15 +49,19 @@ font-style: italic;
 {
   border-bottom: 2px solid #e1e4e5 !important; 
   border-left: 2px solid #e1e4e5 !important;
-  
+  border-right: 2px solid #e1e4e5 !important;
+  border-right: 2px solid #e1e4e5 !important;  
 }
+
+hr {border-top: 2px solid #e1e4e5 !important; }
+
 
 .docutils th 
 {
   border: 2px solid #e1e4e5 !important;
   padding-top: 10px !important;
   padding-bottom: 10px !important;
-}*/
+}
 
 .sidebar dl { font-size: 100% !important; }
 .sidebar ul { font-size: 100% !important; }
