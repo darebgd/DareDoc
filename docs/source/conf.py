@@ -72,7 +72,7 @@ html_static_path = ['_static']
 #numfig_secnum_depth = 1
 numfig_format = {'figure': '',
                  'table': '',
-                 'code-block': 'Code %s',
+                 'code-block': '',
                 }
 html_show_sphinx = False
 html_show_sourcelink = False
@@ -109,6 +109,8 @@ rst_epilog = """
 .. |email| replace:: **service@chipsee.com**
 
 .. |cd| replace:: cd/m\ :sup:`2`
+
+.. |r| replace:: :sup:`®`
 
 """
 

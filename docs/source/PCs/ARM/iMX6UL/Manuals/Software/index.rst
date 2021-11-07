@@ -1,19 +1,19 @@
 
-OS Documentation
-################
+Software Documentation
+######################
 
-This section contains the Operating System (OS) documentation for the products based on |Cortex| \-A7 architecture. If you have questions not covered in this documentation,
-consult Chipsee Technical Support at |email|_ \.
+This section contains the software documentation for flashing new operating systems (OS) on products based on |Cortex|-A7 architecture. 
+If you have questions not covered in this documentation, please consult Chipsee Technical Support at |email|_.
 
 .. _CS10600U070_OS:
 
-.. rubric:: EPC/PPC-A7-70HB-C (PN: CS10600U070)
+EPC/PPC-A7-70HB-C
+=================
 
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   :numbered:
-    
+   
    Debian 8.10 <Debian>
    LinuxQt5.5 <LinuxQT>
 

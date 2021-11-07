@@ -34,8 +34,7 @@ Hardware Documentation
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   :numbered:
    :hidden:
 
-   PPC-10510U-150-C
-   CS86-BOX
+   PPC-10510U-150-C <PPC-10510U-150-C>
+   CS86-BOX <CS86-BOX>

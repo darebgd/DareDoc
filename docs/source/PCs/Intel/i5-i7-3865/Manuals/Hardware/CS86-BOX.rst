@@ -6,8 +6,12 @@
 
 .. _CS86-BOX:
 
-|product| User Manual
-#####################
+.. sectnum::
+   :start: 1
+   :suffix: .
+
+|product|
+#########
 
 .. rubric:: *Version 1.0*
 

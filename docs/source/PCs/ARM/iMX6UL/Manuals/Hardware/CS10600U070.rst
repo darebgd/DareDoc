@@ -23,8 +23,12 @@
 
 .. _EPC/PPC-A7-70HB-C:
 
-|product| User Manual
-#####################
+.. sectnum::
+   :start: 1
+   :suffix: .
+
+|product|
+#########
 
 .. rubric:: *Version 1.0*
 
