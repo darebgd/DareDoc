@@ -103,21 +103,21 @@ Software Requirements
 Debug
 =====
 
-This document uses XShell terminal emulation software to debug Chipsee IPC. However, you can use other tools as well, 
+This documentation covers the use of XShell terminal emulation software to debug Chipsee IPC. However, you can use other tools as well, 
 such as SecureCRT or Minicom.
 
 Serial Debug
 ------------
 
-The explanation of the debugging process covers the use of the first serial port (serial port 1), which consists of **RS232_1_TXD**, 
-**RS232_1_RXD** and, **GND** terminals. Please refer to :ref:`1.6.1. RS232/485/CAN <RS232/485/CAN>` chapter in the EPC/PPC-A7-70HB-C 
-documentation for additional information on the correct pinout.
+The first serial port is used for debugging (serial port 1). It consists of *RS232_1_TXD*, *RS232_1_RXD* and, *GND* terminals. 
+Please refer to :ref:`1.6.1. RS232/485/CAN <RS232/485/CAN>` chapter in the EPC/PPC-A7-70HB-C Hardware Documentation for additional information on serial ports.
 
-More detailed information on how to connect different Chipsee IPCs to a PC can also be found in the following PDF document: 
+.. note::
+  | More information on how to connect different Chipsee IPCs to a personal computer (PC) via a serial connection can be found in the PDF document below: 
+  |
+  | :download:`How to Connect Board by Serial.pdf </Media/How_To_Connect_Board_By_Serial.pdf>`  
 
-:download:`How to Connect Board by Serial.pdf </Media/How_To_Connect_Board_By_Serial.pdf>`  
-
-After connection is successfully established, set up the XShell terminal as shown in figures below:
+After the connection is successfully established, set up the XShell terminal as shown in figures below:
 
 .. figure:: /Media/ARM/A7/Debian/Debian_Shot_01.jpg
    :align: center
@@ -143,10 +143,10 @@ After connection is successfully established, set up the XShell terminal as show
 SSH Debug
 ---------
 
-Connect the Chipsee IPC to the Internet, and get the IP address. Then, config XShell, or use the SSH tool on Linux PC host, directly.
-In this manual, we will cover XShell SSH debugging. 
+Connect Chipsee IPC to the Internet and get the IP address. Then config XShell or use the SSH tool on the Linux PC host directly.
+In this documentation, we will cover XShell SSH debugging procedure.
 
-First, we need to add one new session, as shown in *Figure 1*. The new session has to be set as in *Figure 2*, below:
+You must first add a new session, as shown in *Figure 1*. The new session should be set as in *Figure 2* below.
 
 .. figure:: /Media/ARM/A7/Debian/Debian_Shot_04.jpg
    :align: center
@@ -167,9 +167,9 @@ VCN Debug
 
 You can use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as mentioned above.
 
-* Use xShell serial or SSH connection to Chipsee IPC, login by Chipsee
-* Log in using the commands below
-* The default login credentials are: *chipsee/chipsee*
+* Use XShell serial or SSH to connect to Chipsee IPC
+* Login with the default credentials, using the commands below
+* The default login credentials are: ``chipsee/chipsee``
 
 .. container:: hatnote hatnote-gray
    
@@ -177,7 +177,7 @@ You can use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as menti
   - -set password for VNC-Viewer access-- |br|
   $x11vnc -display :0 -forever -bg -rfbauth /home/chipsee/.vnc/passwd -rfbport 5900 -o /home/chipsee/.vnc/x11vnc.log
 
-* Use VNC Viewer in Windows to control it over Ethernet, as shown in figures 2b, 2c, and 2d.
+* Use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as shown in figures 2b, 2c, and 2d.
 
 .. figure:: /Media/ARM/A7/Debian/Debian_Shot_06.jpg
    :align: center
@@ -203,8 +203,8 @@ You can use VNC Viewer in Windows to control Chipsee IPC over Ethernet, as menti
 Downloading Images
 ==================
 
-Chipsee IPC supports booting from an integrated eMMC or external TF Card (also known as micro SD card).
-Booting from an external TF Card allows flashing the system OS.
+Chipsee IPC supports booting from an integrated eMMC or an external TF Card (also known as the micro SD card).
+Booting from the external TF Card allows flashing the system OS.
 
 DIP Switch Configuration
 ------------------------
@@ -225,15 +225,15 @@ Set the boot DIP switch as shown in *Figure 3* to boot the system from the exter
 Prebuilt Files Package
 ----------------------
 
-As mentioned before, you can get the Prebuilt Files Package from the :ref:`link <db_pkg>` at the beginning of this documentation.
-You can also get the Prebuilt Files Package from /Debian8.10/Prebuilds folder on DVD. However, it may be outdated so always compare the 
-versions (the last number in the filename is the release date). Typically, the content of the prebuilt package has the structure as in 
-*Table 1* below:
+You can get the Prebuilt Files Package from the :ref:`link <db_pkg>` mentioned at the beginning of this documentation.
+You can also get the Prebuilt Files Package from the DVD in /Debian8.10/Prebuilds folder. However, it may be outdated so always 
+compare the versions (the last number in the filename is the release date). 
+
+The prebuilt package has the following content (*Table 1*):
 
 .. table:: Table 1: Prebuilt Files Package
   :width: 100%
-  :align: center
-  
+  :align: center  
 
   +----------------------------------------+--------------------------------------+
   | Contents                               | Comment                              |
@@ -273,20 +273,20 @@ versions (the last number in the filename is the release date). Typically, the c
 Downloading images onto the TF Card
 -----------------------------------
 
-The Prebuilt Files Package has a shell tool that can help create a bootable TF Card on a Linux platform (such as desktop PC or Virtual
-Machine running Ubuntu 14.04 distribution). Use the TF Card to download the bootable system image:
+The Prebuilt Files Package has a shell tool that can help create a bootable TF card on the Linux platform (such as desktop PC or Virtual
+Machine running Ubuntu 14.04 distribution). Use the TF Card to download the bootable system image onto it:
 
 * Copy the Prebuilt Files Package to a Linux environment (such as Ubuntu 14.04)
-* Insert the TF Card and check the device node, (e.g., ``/dev/sdc``, or ``/dev/sdb``). Make sure to confirm you're using the right one.
-* Un-tar the prebuilt package. Use the following command:
+* Insert the TF Card and check the device node, (e.g., ``/dev/sdc`` or ``/dev/sdb``, be sure to use the right one)
+* Un-tar the prebuilt package and use the following command:
 
 .. container:: hatnote hatnote-gray
 
    $ sudo ./mksdcard.sh --device /dev/sdc
 
-
-* The bootable TF Card is now ready. Insert the TF Card in the Chipsee IPC and set the DIP switch to SD BOOT mode (refer to |F3|_ above).
-* Power ON the IPC: the message below indicates that the system image was downloaded correctly to the eMMC:
+* The bootable TF Card is now ready. Power OFF the IPC and insert the TF Card
+* Set the DIP switch to SD BOOT mode (refer to |F3|_ above)
+* Power ON the IPC: the message below indicates that the system image was downloaded correctly to the eMMC
 
 .. container:: hatnote hatnote-gray
 
@@ -297,10 +297,10 @@ Machine running Ubuntu 14.04 distribution). Use the TF Card to download the boot
 System Resources
 ================
 
-This chapter covers some of the Chipsee IPC resources.
+This chapter covers the resources available on Chipsee IPC.
 
-TF Card/USB
------------
+TF Card/USB Storage
+-------------------
 
 Both the TF Card and USB storage support the hot plug functionality. They will be automatically mounted on ``/media/chipsee/``, as in *Figure 4*.
 Also, both storage types support NTFS and FAT32 file system.
@@ -316,7 +316,7 @@ Network
 -------
 
 The system uses WICD Network Manager to control Ethernet configuration. You can get the assigned IP address from DHCP, or you can set static IP.
-After you set the static IP, please reboot the system to enable it (*Figure 5a* and *Figure 5b*):
+After you set the static IP, reboot the system to enable it (*Figure 5a* and *Figure 5b*):
 
 .. figure:: /Media/ARM/A7/Debian/Debian_Shot_11.jpg
    :align: center
@@ -353,8 +353,7 @@ The following command can be used to playback the recorded sound from the exampl
 Serial Port
 -----------
 
-There are a total of 5 serial ports on the Chipsee IPC: 2 X RS232 and 3 X RS485. For the device nodes in the system, please refer to
-*Table 2* below:
+There are five serial ports on the Chipsee IPC: 2 X RS232 and 3 X RS485. Refer to *Table 2* below for the available serial device nodes.
 
 .. table:: Table 2: Serial Ports Device Nodes
    :align: center
@@ -375,7 +374,7 @@ There are a total of 5 serial ports on the Chipsee IPC: 2 X RS232 and 3 X RS485.
    | RS485_5 | /dev/ttymxc4 |
    +---------+--------------+
 
-* You can install the CuteCom serial terminal to test the serial ports:
+* You can install the CuteCom serial terminal to test the serial ports by using the following command:
 
 .. container:: hatnote hatnote-gray
 
@@ -445,8 +444,8 @@ The following example can be used to perform testing:
 GPIO Ports
 ----------
 
-There are 8 GPIO ports on the Chipsee IPC, as explained in the :ref:`1.6.2. GPIO <GPIO>` chapter of the EPC/PPC-A7-70HB-C 
-documentation. The table below contains the device nodes of the pins, accessible from the system:
+There are 8 GPIO ports on the Chipsee IPC, as explained in the :ref:`1.6.2. GPIO <GPIO>` chapter of the EPC/PPC-A7-70HB-C Hardware
+Documentation. The table below contains the related device nodes:
 
 .. table:: Table 3: GPIO Ports
    :align: center
@@ -477,7 +476,7 @@ documentation. The table below contains the device nodes of the pins, accessible
    | 10         | /dev/chipsee-gpio8(in)  |
    +------------+-------------------------+
    
-Use the following commands to test the GPIOs easily:
+You can use the following commands to test the GPIOs easily:
 
 * Set GPIO1 to HIGH logic level:
 
@@ -542,9 +541,9 @@ demo requires Qt serial port support support before it can be used. You can inst
   $ sudo make install
 
 After installing the Qt serial port support, copy the ``hardwareretest_serial_ok_20170223.tar.gz`` 
-package to the Chipsee IPC, as described above (using SSH or USB storage).  
+package to Chipsee IPC, as described above (using SSH or USB storage).  
 
-Open Debian system console and use the following set of commands to build the ``hardwaretest_serial`` demo application:
+* Open Debian system console and use the following set of commands to build the ``hardwaretest_serial`` demo application:
 
 .. container:: hatnote hatnote-gray
 
@@ -553,13 +552,13 @@ Open Debian system console and use the following set of commands to build the ``
    $ qmake
    $ make
    
-Then, modify the permission of serial ports device node, using the following:
+* Modify the permission for the serial ports device node, using the following:
 
 .. container:: hatnote hatnote-gray
 
   $ sudo chmod 666 /dev/ttymxc
 
-Finally, run the ``hardwaretest_serial`` application:
+* Finally, run the ``hardwaretest_serial`` application
 
 .. container:: hatnote hatnote-gray
 

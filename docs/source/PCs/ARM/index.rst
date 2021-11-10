@@ -13,8 +13,8 @@ the repository much easier.
    :maxdepth: 1
    :titlesonly:
 
-   i.MX6Q HW Documentation <iMX6Q/Manuals/Hardware/index>
-   i.MX6Q SW Documentation <iMX6Q/Manuals/Software/index>
+   i.MX6Q Hardware Documentation <iMX6Q/Manuals/Hardware/index>
+   i.MX6Q Software Documentation <iMX6Q/Manuals/Software/index>
 
 .. toctree::
    :hidden:
@@ -27,8 +27,8 @@ the repository much easier.
    :maxdepth: 1
    :titlesonly:
 
-   i.MX6UL HW Documentation <iMX6UL/Manuals/Hardware/index> 
-   i.MX6UL SW Documentation <iMX6UL/Manuals/Software/index>
+   i.MX6UL Hardware Documentation <iMX6UL/Manuals/Hardware/index> 
+   i.MX6UL Software Documentation <iMX6UL/Manuals/Software/index>
 
 
 .. toctree::
@@ -42,7 +42,7 @@ the repository much easier.
    :maxdepth: 1
    :titlesonly:
 
-   RK3399 HW Documentation <RK3399/Manuals/Hardware/index> 
-   RK3399 SW Documentation <RK3399/Manuals/Software/index>
+   RK3399 Hardware Documentation <RK3399/Manuals/Hardware/index> 
+   RK3399 Software Documentation <RK3399/Manuals/Software/index>
 
 

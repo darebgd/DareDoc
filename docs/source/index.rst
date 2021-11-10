@@ -20,7 +20,7 @@ products portfolio.
 
 .. note::
    
-   For product-specific software documentation, visit the related product link
+   For a product-specific software documentation, visit the related product link
 
 .. toctree::
    :maxdepth: 1
