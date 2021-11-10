@@ -37,7 +37,7 @@
 
 .. include:: /PCs/Intel/J1900/Manuals/Hardware/Resources/ordering
 
-.. include:: Resources/opt_features i
+.. include:: Resources/opt_features
 
 .. include:: /PCs/Intel/J1900/Manuals/Hardware/Resources/HW_features
 

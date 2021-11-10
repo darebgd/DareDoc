@@ -10,7 +10,7 @@ if you need another configuration). This device also features two CAN interfaces
 RS232/485/CAN
 --------------
 
-The serial connmunication interfaces (RS485, RS482, and CAN) are on a 16 Pin 3.81mm terminal connector *(Figure 7)*. Serial communication on both RS485 and RS422 interfaces
+The serial communication interfaces (RS485, RS482, and CAN) are on a 16 Pin 3.81mm terminal connector *(Figure 7)*. Serial communication on both RS485 and RS422 interfaces
 can reach up to 115200 kbps.
 
 .. figure:: /Media/ARM/A7/iMX6UL/IO-Peripheras.png
@@ -50,9 +50,9 @@ The table below offers more detailed description of every pin and its definition
    +----------------+----------------+------------------------------------+
    | Pin 7          | RS485_3+       | CPU UART3, RS485 +(A) signal       |
    +----------------+----------------+------------------------------------+
-   | Pin 6          | RS232_2_RXD    | CPU UART2, RS232 RXD sigal [#f]_   |
+   | Pin 6          | RS232_2_RXD    | CPU UART2, RS232 RXD signal [#f]_  |
    +----------------+----------------+------------------------------------+
-   | Pin 5          | RS232_2_TXD    | CPU UART2, RS232 TXD sgnal [#f]_   |
+   | Pin 5          | RS232_2_TXD    | CPU UART2, RS232 TXD signal [#f]_  |
    +----------------+----------------+------------------------------------+
    | Pin 4          | RS232_1_RXD    | CPU UART1, RS232 RXD signal        |
    +----------------+----------------+------------------------------------+
@@ -66,3 +66,7 @@ The table below offers more detailed description of every pin and its definition
 
 .. [#f] These lines are redirected to the WiFi/BT module. Please get in touch
    with Chipsee Technical Support at |email|_ if you need a different configuration.
+
+.. note:: 
+
+   120Ω termination resistors are not mounted or included with the device.

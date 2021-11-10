@@ -20,7 +20,6 @@
 
 .. |power| replace:: 5W Typical
 
-
 .. _EPC/PPC-A7-70HB-C:
 
 .. sectnum::

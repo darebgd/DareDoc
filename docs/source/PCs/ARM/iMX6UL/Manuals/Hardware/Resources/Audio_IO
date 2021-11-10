@@ -1,7 +1,7 @@
 Audio I/O
 =========
 
-|Product| features some audio peripherals, as well. It has one audio input and one audio ouput jack. Both are standard 3.5mm stereo jack connectors.
+|Product| features some audio peripherals, as well. It has one audio input and one audio output jack. Both are standard 3.5mm stereo jack connectors.
 
 On the embedded panel PC version, the pink connector is the audio input jack (line-in) and the blue connector is the audio output jack (line-out, typically around -10 dBV)
 On the enclosed panel PC version, both audio input and audio output are clearly marked (*Figure 7)* 

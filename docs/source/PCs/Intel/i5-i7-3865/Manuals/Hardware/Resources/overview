@@ -19,7 +19,7 @@ The PPC-10510U series |product| is a rugged, high-quality NEMA 4X/IP65-compliant
 Despite their cutting-edge performances, the offered CPUs consume very little power: their TDP is only 15W at respective base clock frequencies. From the ground-up, these CPUs are built for low power consumption. As such, they are best suited for mobile and power-constrained industrial or field applications.
 
 A specially designed magnesium-aluminum alloy housing with fins for increased heat dissipation serves as a passive cooler, eliminating the need for built-in fans. 
-The fanless design reduces noise, as well as the maintenance costs and efforts, increasing reliability at the same time.
+The fan-less design reduces noise, as well as the maintenance costs and efforts, increasing reliability at the same time.
 
 .. caution::
 

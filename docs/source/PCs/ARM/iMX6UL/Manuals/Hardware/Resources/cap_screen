@@ -16,11 +16,11 @@ the motherboard. You can test the stability of the capacitive screen by touching
 .. attention::
 
    Capacitive touch is very sensitive to power noise. Ripple voltage from the power adapter will cause the detection irregularities,
-   and maight even cause the malfunction of the capacitive screen in severe cases. If using APK Multi-Touch running under Android 
+   and might even cause the malfunction of the capacitive screen in severe cases. If using APK Multi-Touch running under Android 
    to test, you may find that the the touch point floats. There are several solutions to this problem:
    
-   #) Use a high-quality Poower Adapter Unit (PSU), with as little EMI as possible. You can also provide power from a batteruy (LiPo, or other)
-   #) If you do not use a good qualty PSU, make sure that the CS10600U070 power input connector (pin 3) is connected to the Power Sustem 
+   #) Use a high-quality Power Adapter Unit (PSU), with as little EMI as possible. You can also provide power from a battery (LiPo, or other)
+   #) If you do not use a good quality PSU, make sure that the CS10600U070 power input connector (pin 3) is connected to the Power System 
       Ground. This method can eliminate the problem entirely. 
 
 

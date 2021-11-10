@@ -15,10 +15,12 @@ font-style: italic;
     border-width: 1px ;
     font-size: x-small ;
     font-style: italic ;
-    padding: 24px;
+    padding: 12px;
     padding-bottom: 0px;
     margin-bottom: 24px;
 }
+
+.hatnote>p {margin-bottom: 12px;}
 
 .hatnote-gray { background-color: #e8e8e8 ; color: #000000 ; }
 .hatnote-yellow { background-color: #ffffe8 ; color: #000000 ; }
@@ -27,11 +29,12 @@ font-style: italic;
 .docutils caption 
 {
   caption-side: bottom; 
+  font: italic 100%/1 Lato,proxima-nova,Helvetica Neue,Arial,sans-serif !important;
   font-weight: 400 !important;
   color: #404040 !important;  
 }
 
-.docutils, caption { font: italic 100%/1 Lato,proxima-nova,Helvetica Neue,Arial,sans-serif !important; }
+p.caption { margin: 12px !important; }
 
 .docutils td>p { font-size: 1rem !important; }
 .docutils th>p { font-size: 1.1rem !important; }

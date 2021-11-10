@@ -7,9 +7,6 @@ If you have questions not covered in this documentation, please consult Chipsee 
 
 .. _CS10600U070_OS:
 
-EPC/PPC-A7-70HB-C
-=================
-
 .. toctree::
    :maxdepth: 1
    :titlesonly:

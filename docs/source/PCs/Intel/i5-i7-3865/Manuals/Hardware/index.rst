@@ -22,7 +22,7 @@ Hardware Documentation
    +--------------------+------------------------------------------------------------------------+
    |     |CS86-Box|     |   :ref:`CS86-Box User Manual <CS86-Box>` |br| |br|                     |
    |                    |                                                                        |                                 
-   |                    |   Wall/Panel Mounted Inudstrial PC, 4GB, 32GB SSD                      |
+   |                    |   Wall/Panel Mounted Industrial PC, 4GB, 32GB SSD                      |
    |                    |                                                                        |
    |                    |   2.5" SATA, WiFi/WAN (optional), RS232/485, GPIO                      |
    +--------------------+------------------------------------------------------------------------+

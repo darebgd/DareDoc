@@ -1,9 +1,11 @@
+.. _GPIO:
+
 GPIO
 ----
  
 |product| is equipped with a 10 pin 3.81mm terminal that has 4 x inputs and 4 x output ports. The outputs can drive up to 500 mA of current, which should be enough for most relays. 
 
-The I/O ports are opto-isolated and to utilize the full benefit of optoisolation, the PSU should also be galvanically isolated. The power input is from 5 to 24V.
+The I/O ports are opto-isolated and to utilize the full benefit of opto-isolation, the PSU should also be galvanically isolated. The power input is from 5 to 24V.
 
 .. table:: Table 3: GPIO Pinout
    :align: center
