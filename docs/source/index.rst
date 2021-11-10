@@ -6,9 +6,9 @@ products portfolio.
 
 .. rubric:: Industrial Panel & Embedded PCs :
 
-* :ref:`Powered by Arm Cortex SoCs and MPUs <PBA>`
-* :ref:`Powered by Intel Core i5, i7, and Celeron CPUs <PBI>`
-* :ref:`Powered by Raspberry PI CMs <PBPI>`
+* :ref:`Powered by Arm® Cortex® <PBA>`
+* :ref:`Powered by Intel <PBI>`
+* :ref:`Powered by Raspberry PI <PBPI>`
 
 .. rubric:: Robust Industrial Monitors
 
