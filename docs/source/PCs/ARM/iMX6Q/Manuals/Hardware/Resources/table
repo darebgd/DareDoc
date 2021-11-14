@@ -29,7 +29,7 @@
    +-------------------------+-------------------------------------------------------------+
    | **RS232**               | 2 x RS232                                                   |
    +-------------------------+-------------------------------------------------------------+
-   | **RS485**               | 2 x RS485\ [*]_                                             |
+   | **RS485**               | 2 x RS485\ [#a970t]_                                        |
    +-------------------------+-------------------------------------------------------------+
    | **CAN**                 | 2 x CAN                                                     |
    +-------------------------+-------------------------------------------------------------+
@@ -68,6 +68,6 @@
 
 -----
 
-.. [*] This product has 5 x UART channels in total. The default configuration is 2 x RS232, 2 x RS485, and 1 x UART for WiFi/BT module.
+.. [#a970t] This product has 5 x UART channels in total. The default configuration is 2 x RS232, 2 x RS485, and 1 x UART for WiFi/BT module.
        UART can be swapped between RS232 and RS485 modes easily, so if you need different RS232/RS485 configuration, please get in touch 
        with the Chipsee Technical Support at |email|_
