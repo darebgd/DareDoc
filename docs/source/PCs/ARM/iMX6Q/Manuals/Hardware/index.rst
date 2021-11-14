@@ -4,7 +4,6 @@ Hardware Documentation
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   :numbered:
  
    EPC/PPC-A9-70-C <CS10600F070>
    EPC/PPC-A9-97-C <CS10768F097>

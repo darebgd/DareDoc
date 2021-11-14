@@ -1,13 +1,88 @@
-.. _CS10600F070:
+.. |product| replace:: EPC/PPC-A9-70-C
 
-EPC/PPC-A9-70-C User Manual
-###########################
-
-
-Title:
-======
-
-.. Note:: 
+.. |PN| replace:: PN: CS10600F070
    
-   Coming soon...
+.. |Product| replace:: The |product| Industrial Panel PC 
 
+.. |dispsize| replace:: 7.0"
+
+.. |res| replace:: 1024 x 600
+
+.. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of |res| pixels
+
+.. |dime| replace:: 	190 x 107.8 x 27.7mm
+
+.. |dimh| replace:: 206 x 135 x 30.1mm
+
+.. |weighte| replace:: 380g
+
+.. |weighth| replace:: 680 g
+
+.. |power| replace:: 6W Typical
+
+.. _EPC/PPC-A9-70-C:
+
+.. sectnum::
+   :start: 1
+   :suffix: .
+
+|product|
+#########
+
+.. rubric:: *Version 1.0*
+
+.. figure:: /Media/ARM/A9/CS10600F070/PPC-A9-70-C-Front.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Front View (Panel Mounting Variant)
+
+.. figure:: /Media/ARM/A9/CS10600F070/PPC-A9-70-C-Back.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Back View (Panel Mounting Variant)  
+
+.. figure:: /Media/ARM/A9/CS10600F070/EPC-A9-70-C-Front.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Front View (Embedded Variant)
+
+.. figure:: /Media/ARM/A9/CS10600F070/EPC-A9-70-C-Back.jpg
+   :figclass: align-center
+   :class: no-scaled-link
+
+   Back View (Embedded Variant)
+
+.. include:: Resources/overview
+
+.. include:: Resources/ordering
+
+.. include:: Resources/HW_features
+
+.. include:: Resources/table
+
+.. include:: Resources/power
+
+.. include:: Resources/cap_screen
+
+.. include:: Resources/connectivity
+
+.. include:: Resources/USB
+
+.. include:: Resources/LAN
+
+.. include:: Resources/WiFi
+
+.. include:: Resources/expansion_IO
+
+.. include:: Resources/TF_Card
+
+.. include:: Resources/Audio_IO
+
+.. include:: Resources/HDMI
+
+.. include:: Resources/Boot_SW
+
+.. include:: Resources/support

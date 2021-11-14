@@ -10,11 +10,8 @@ Chipsee products can be customized during the ordering process. The product will
 Operating System
 -----------------
 
-By default, |product| comes with the Android 7.1 operating system (OS) pre-installed. A different OS can be selected during the ordering process.
-
-In addition to Android 7.1, |product| also supports Linux Qt5.5 and Debian 8.10, which can be obtained from the :ref:`OS Installation Manuals <CS10600U070_OS>`
-section, along with the detailed installation instructions.
+This product comes with a pre-installed OS of your choice. It supports Linux Qt5.5 and Debian 8.10, which can be obtained from the :ref:`Software Documentation <CS10600U070_OS>` section, along with the detailed installation instructions.
 
 .. warning::
 
-  The manual provides a detailed instruction how to install different OS on your own. However, bear in mind that Chipsee can't take the responsibility of inadequate installation procedure. If you "brick" your device, please contact Chipsee Technical Support at |email|_ and ask for help
+  The Software Documentation provides a detailed instruction how to install different OS on your own. However, bear in mind that Chipsee cannot take the responsibility of inadequate installation procedure. If you "brick" your device, please contact Chipsee Technical Support at |email|_ and ask for help

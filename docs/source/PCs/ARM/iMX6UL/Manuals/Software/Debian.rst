@@ -3,7 +3,7 @@ Debian 8.10
 
    
 
-.. centered:: Chipsee IMX6UL Debian8.10 User Manual
+.. centered:: Chipsee Debian8.10 User Manual
 
 .. image:: /Media/Chipsee_Logo_Full.png
    :align: center
@@ -60,7 +60,7 @@ CS10600U070-V1.0
    +---------------+----------------------------------+
    | Python        | Python version: 2.7.9            |
    +---------------+----------------------------------+
-   | Qt            | Need install                     |
+   | Qt            | Needs to be installed            |
    +---------------+----------------------------------+
    | Desktop       | lxde                             |
    +---------------+----------------------------------+
@@ -110,7 +110,7 @@ Serial Debug
 ------------
 
 The first serial port is used for debugging (serial port 1). It consists of *RS232_1_TXD*, *RS232_1_RXD* and, *GND* terminals. 
-Please refer to :ref:`1.6.1. RS232/485/CAN <RS232/485/CAN>` chapter in the EPC/PPC-A7-70HB-C Hardware Documentation for additional information on serial ports.
+Please refer to :ref:`1.6.1. RS232/485/CAN <RS232/485/CAN_A7_70C>` chapter in the EPC/PPC-A7-70HB-C Hardware Documentation for additional information on serial ports.
 
 .. note::
   | More information on how to connect different Chipsee IPCs to a personal computer (PC) via a serial connection can be found in the PDF document below: 
@@ -225,7 +225,7 @@ Set the boot DIP switch as shown in *Figure 3* to boot the system from the exter
 Prebuilt Files Package
 ----------------------
 
-You can get the Prebuilt Files Package from the :ref:`link <db_pkg>` mentioned at the beginning of this documentation.
+You can get the Prebuilt Files Package from the :ref:`Prebuilt Files Package link <db_pkg>` mentioned at the beginning of this documentation.
 You can also get the Prebuilt Files Package from the DVD in /Debian8.10/Prebuilds folder. However, it may be outdated so always 
 compare the versions (the last number in the filename is the release date). 
 
@@ -405,7 +405,7 @@ Two devices can be interconnected as on the *Figure 6* below:
 
 The following example can be used to perform testing:
 
-* Set the bit-rate to 50kbps with triple sampling, using the following command as ROOT user:
+* Set the bit-rate to 50kbps with triple sampling, using the following command as the root user:
 
 .. container:: hatnote hatnote-gray
 
@@ -455,7 +455,7 @@ Documentation. The table below contains the related device nodes:
    +------------+-------------------------+
    | Pin Number | Definition              |
    +============+=========================+
-   | 1          | VDD_24v                 |
+   | 1          | VDD_24V                 |
    +------------+-------------------------+
    | 2          | GND_ISO                 |
    +------------+-------------------------+

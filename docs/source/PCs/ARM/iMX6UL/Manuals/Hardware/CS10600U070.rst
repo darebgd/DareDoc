@@ -31,25 +31,25 @@
 
 .. rubric:: *Version 1.0*
 
-.. figure:: /Media/ARM/A7/iMX6UL/A7-70HB-C-Front.jpg
+.. figure:: /Media/ARM/A7/CS10600U070/PPC-A7-70HB-C-Front.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Front View (Panel Mounting Variant)
 
-.. figure:: /Media/ARM/A7/iMX6UL/A7-70HB-C-Back.jpg
+.. figure:: /Media/ARM/A7/CS10600U070/PPC-A7-70HB-C-Back.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Back View (Panel Mounting Variant)  
 
-.. figure:: /Media/ARM/A7/iMX6UL/EPC-A7-70HB-C-Front.jpg
+.. figure:: /Media/ARM/A7/CS10600U070/EPC-A7-70HB-C-Front.jpg
    :figclass: align-center
    :class: no-scaled-link
 
    Front View (Embedded Variant)
 
-.. figure:: /Media/ARM/A7/iMX6UL/EPC-A7-70HB-C-Back.jpg
+.. figure:: /Media/ARM/A7/CS10600U070/EPC-A7-70HB-C-Back.jpg
    :figclass: align-center
    :class: no-scaled-link
 
@@ -71,13 +71,15 @@
 
 .. include:: Resources/connectivity
 
-.. include:: Resources/GPIO
-
 .. include:: Resources/USB
 
 .. include:: Resources/LAN
 
 .. include:: Resources/WiFi
+
+.. include:: Resources/GPIO
+
+.. include:: Resources/TF_Card
 
 .. include:: Resources/Audio_IO
 

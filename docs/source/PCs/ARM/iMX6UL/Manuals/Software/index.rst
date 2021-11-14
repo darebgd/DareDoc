@@ -7,10 +7,12 @@ If you have questions not covered in this documentation, please consult Chipsee 
 
 .. _CS10600U070_OS:
 
+.. rubric:: CS10600U070
+   
 .. toctree::
    :maxdepth: 1
    :titlesonly:
-   
+      
    Debian 8.10 <Debian>
    LinuxQt5.5 <LinuxQT>
 

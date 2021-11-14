@@ -5,7 +5,7 @@
 Chipsee Linux QT 5.5
 ####################
   
-.. centered:: Chipsee IMX6UL Debian8.10 User Manual
+.. centered:: Chipsee Linux QT 5.5 User Manual
 
 .. image:: /Media/Chipsee_Logo_Full.png
    :align: center
@@ -24,11 +24,11 @@ Chipsee Linux QT 5.5
 
 CS10600U070-V1.0
 
-.. _db_pkg:
+.. _LQt_pkg:
 
 **PREBUILT IMAGES PACKAGE:**
 
-:download:`prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz <https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/Debian8.10/prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz>`
+:download:`prebuilt-cs10600u070v1-emmc-20210719.tar.gz <https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/LinuxQt5.5/prebuilt-cs10600u070v1-emmc-20210719.tar.gz>`
 
 -----
 
@@ -40,5 +40,3 @@ CS10600U070-V1.0
    :local:
 
 -----
-
-:download:`prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz <https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/Debian8.10/prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz>`
