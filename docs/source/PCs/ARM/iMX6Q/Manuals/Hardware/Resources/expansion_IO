@@ -54,5 +54,4 @@ labeled as P21 on the PCB. The Expansion Port provides direct access to some of 
 
 .. warning::   
 
-   Since the signals are directly connected to the processor, be careful not to cause electrostatic discharge or overvoltage on the pins, 
-   as it may cause critical damage. Take all the necessary precautions while working with the electrostatic-sensitive equipment.
+   Since the PCB traces of the port are connected to the processor directly, be careful not to cause electrostatic discharge or overvoltage on the pins, as it may damage the processor. Take all the necessary precautions while working with electrostatic-sensitive equipment.
