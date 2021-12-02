@@ -2,8 +2,6 @@
 
 .. |Product| replace:: The |product| Industrial Panel PC 
 
-
-
 .. |weight| replace:: 3000g
 
 .. |dim| replace:: 355 x 225 x 55mm
@@ -16,13 +14,11 @@
 
 .. |tscreen| replace:: Multi-point capacitive touch screen
 
-.. |opt_1| replace:: Optional, module available from the manufacturer
+.. |opt_1| replace:: Optional, module available from the Chipsee store
 
-.. |opt_2| replace:: Optional, module available from the manufacturer
+.. |opt_2| replace:: Optional, module available from the Chipsee store
 
-.. |pwr| replace:: 11W  
-  
-
+.. |pwr| replace:: 11W
 
 .. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of |res| pixels
 

@@ -2,8 +2,6 @@
 
 .. |Product| replace:: The |product| Industrial Panel PC 
 
-
-
 .. |weight| replace:: 3000g
 
 .. |dim| replace:: 322 X 254 X 53mm
@@ -18,11 +16,9 @@
 
 .. |opt_1| replace:: Optional, module available from other manufacturers/stores
 
-.. |opt_2| replace:: Optional, module available from the manufacturer  
+.. |opt_2| replace:: Optional, module available from the Chipsee store
 
 .. |pwr| replace:: 20.5W
-
-
 
 .. |disp_des| replace:: |dispsize| resistive touch screen with a resolution of |res| pixels
 

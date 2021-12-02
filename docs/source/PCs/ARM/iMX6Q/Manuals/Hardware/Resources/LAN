@@ -2,7 +2,7 @@ LAN Connectors
 ---------------
 
 **LAN (RJ45) connector** provides Ethernet connectivity over standardized Ethernet cables *(Figure 5)*. The integrated Ethernet interface supports 
-up to 1 Gbps data throughput. Power over Ethernet (PoE) is not supported. 
+up to 1 Gbps data throughput. Power over Ethernet (PoE) is not supported.
 
 .. figure:: /Media/ARM/A9/CS10600F070/LAN.png
   :align: center

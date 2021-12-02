@@ -1,8 +1,6 @@
 .. |product| replace:: PPC-J1900-150-C
 
-.. |Product| replace:: The |product| Industrial Panel PC 
-
-
+.. |Product| replace:: The |product| Industrial Panel PC
 
 .. |weight| replace:: 4200g
 
@@ -18,11 +16,9 @@
 
 .. |opt_1| replace:: Optional, module available from other manufacturers/stores
 
-.. |opt_2| replace:: Optional, module available from the manufacturer
+.. |opt_2| replace:: Optional, module available from the Chipsee store
 
-.. |pwr| replace:: 25W  
-
-
+.. |pwr| replace:: 25W
 
 .. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of |res| pixels
 

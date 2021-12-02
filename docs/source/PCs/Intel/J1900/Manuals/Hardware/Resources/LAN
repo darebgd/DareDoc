@@ -1,7 +1,7 @@
 LAN Connectors
 ---------------
 
-2 x **LAN** (RJ45) connectors *(Figure 4)* provide Ethernet connectivity over standardized Ethernet cables. The integrated two-port Ethernet interface supports 
+2 x **LAN (RJ45) connectors** *(Figure 4)* provide Ethernet connectivity over standardized Ethernet cables. The integrated two-port Ethernet interface supports 
 10/100/1000BASE-T/TX specifications with automatic speed negotiation and Wake on LAN (WoL) functionality. Power over Ethernet (PoE) is not supported. 
 
 .. figure:: /Media/Intel/J1900/PPC-J1900-LAN.png

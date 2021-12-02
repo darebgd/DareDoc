@@ -1,7 +1,11 @@
 .. |product| replace:: EPC/PPC-A9-70-C
 
+.. |productE| replace:: EPC-A9-70-C
+
+.. |productP| replace:: PPC-A9-70-C
+
 .. |PN| replace:: PN: CS10600F070
-   
+
 .. |Product| replace:: The |product| Industrial Panel PC 
 
 .. |dispsize| replace:: 7.0"
@@ -10,15 +14,39 @@
 
 .. |disp_des| replace:: |dispsize| multi-point capacitive touch screen with a resolution of |res| pixels
 
-.. |dime| replace:: 	190 x 107.8 x 27.7mm
+.. |dimE| replace:: 	190 x 107.8 x 27.7mm
 
-.. |dimh| replace:: 206 x 135 x 30.1mm
+.. |dimP| replace:: 206 x 135 x 30.1mm
 
-.. |weighte| replace:: 380g
+.. |weightE| replace:: 380g
 
-.. |weighth| replace:: 680 g
+.. |weightP| replace:: 680 g
 
-.. |power| replace:: 6W Typical
+.. |RAM| replace:: 2GB DDR3
+
+.. |eMMC| replace:: 8GB
+
+.. |tscreen| replace:: Capacitive Multi-Point Touch Screen
+
+.. |USB| replace:: 3 x USB 2.0 HOST, 1 x USB OTG
+
+.. |LAN| replace:: 1 x RJ45, GbE
+
+.. |GPIO| replace:: N/A
+
+.. |expansions| replace:: 1 x 30-pin, 2.54mm DIL Header (PCB Footprint)
+
+.. |opt1| replace:: N/A
+
+.. |opt2| replace:: Integrated WiFi/BT Module
+
+.. |vin_rng| replace:: From 6V to 36V
+
+.. |cur| replace:: 600mA Max
+
+.. |pwr| replace:: 6W Typical
+
+.. |temp| replace:: From -20°C to +70°C   
 
 .. _EPC/PPC-A9-70-C:
 
